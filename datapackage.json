@@ -1,0 +1,14 @@
+{
+    "name": "ddf--gapminder--world_development_indicators",
+    "author": "Gapminder",
+    "description": "Gapminder's World Development Indicators",
+    "language": {
+        "name": "English",
+        "id": "en"
+    },
+    "translations": [],
+    "license": "MIT",
+    "title": "Gapminder's World Development Indicators",
+    "version": "0.0.1",
+    "resources": []
+}
