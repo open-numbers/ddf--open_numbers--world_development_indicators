@@ -14,26 +14,29 @@ ingredients:
     - 
         id: wdi-datapoints
         dataset: *wdi
-        key: counrty, year
+        key: country, year
     - 
         id: wdi-concepts-discrete
         dataset: *wdi
         key: concept
+        value:
+            $nin:
+                - indicator_name
         filter:
             concept_type:
-                $ne:
-                    measure
+                $nin: 
+                    - measure
             concept:
-                $ne:
-                    indicator_name  # will be renamed so we don't need it
+                $nin: 
+                    - indicator_name  # will be renamed so we don't need it
     -
         id: wdi-concepts-continuous
         dataset: *wdi
         key: concept
         filter:
             concept_type:
-                $eq:
-                    measure
+                $in: 
+                    - measure
     - 
         id: wdi-countries
         dataset: *wdi
@@ -41,7 +44,7 @@ ingredients:
     -
         id: gw-countries
         dataset: *geo
-        key: country
+        key: country        
 
 cooking:
     concepts:
@@ -52,19 +55,20 @@ cooking:
             options:
                 dictionary:
                     indicator_name: name
+                duplicated: replace
             result: wdi-concepts-cont-final
         -
             procedure: serve
             ingredients:
                 - wdi-concepts-cont-final
             options:
-                filename: ddf--concepts--continuous.csv
+                file_name: ddf--concepts--continuous.csv
         -
             procedure: serve
             ingredients:
                 - wdi-concepts-discrete
             options:
-                filename: ddf--concepts--discrete.csv
+                file_name: ddf--concepts--discrete.csv
 
     datapoints:
         - 
@@ -85,7 +89,7 @@ cooking:
         - 
             procedure: translate_column
             ingredients:
-                - wdi-countries-aligned
+                - wdi-datapoints
             options:
                 column: country
                 dictionary:
@@ -95,6 +99,17 @@ cooking:
             result: wdi-datapoints-final
     entities:
         -
-            procedure: serve
+            procedure: filter
             ingredients:
                 - gw-countries
+            options:
+                item:
+                    - country
+                    - name
+            result: gw-countries-to-serve
+        -
+            procedure: serve
+            ingredients:
+                - gw-countries-to-serve
+            options:
+                no_keep_sets: true
