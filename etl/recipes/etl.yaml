@@ -1,0 +1,100 @@
+info: 
+    id: ddf--gapminder--world_development_indicators
+    base: 
+        - &wdi open-numbers/ddf--world_bank--world_development_indicators
+        - &geo open-numbers/ddf--gapminder--geo_entity_domain
+
+config:
+    # the path to search recipe files to include
+    recipes_dir: ./
+    # the path to search dictionary files
+    dictionary_dir: ./translation_dictionaries
+
+ingredients:
+    - 
+        id: wdi-datapoints
+        dataset: *wdi
+        key: counrty, year
+    - 
+        id: wdi-concepts-discrete
+        dataset: *wdi
+        key: concept
+        filter:
+            concept_type:
+                $ne:
+                    measure
+            concept:
+                $ne:
+                    indicator_name  # will be renamed so we don't need it
+    -
+        id: wdi-concepts-continuous
+        dataset: *wdi
+        key: concept
+        filter:
+            concept_type:
+                $eq:
+                    measure
+    - 
+        id: wdi-countries
+        dataset: *wdi
+        key: country
+    -
+        id: gw-countries
+        dataset: *geo
+        key: country
+
+cooking:
+    concepts:
+        -
+            procedure: translate_header
+            ingredients:
+                - wdi-concepts-continuous
+            options:
+                dictionary:
+                    indicator_name: name
+            result: wdi-concepts-cont-final
+        -
+            procedure: serve
+            ingredients:
+                - wdi-concepts-cont-final
+            options:
+                filename: ddf--concepts--continuous.csv
+        -
+            procedure: serve
+            ingredients:
+                - wdi-concepts-discrete
+            options:
+                filename: ddf--concepts--discrete.csv
+
+    datapoints:
+        - 
+            procedure: translate_column
+            ingredients:
+                - wdi-countries
+            options:
+                column: table_name
+                target_column: country_new
+                dictionary:
+                    base: gw-countries
+                    key: ['gapminder_list', 'alternative_1', 'alternative_2', 'alternative_3',
+                          'alternative_4_cdiac', 'pandg', 'god_id', 'alt_5', 'upper_case_name',
+                          'arb1', 'arb2', 'arb3', 'arb4', 'arb5', 'arb6', 'name', 'iso3166_1_alpha2',
+                          'iso3166_1_alpha3', 'iso3166_2']
+                    value: country
+            result: wdi-countries-aligned
+        - 
+            procedure: translate_column
+            ingredients:
+                - wdi-countries-aligned
+            options:
+                column: country
+                dictionary:
+                    base: wdi-countries-aligned
+                    key: country
+                    value: country_new
+            result: wdi-datapoints-final
+    entities:
+        -
+            procedure: serve
+            ingredients:
+                - gw-countries

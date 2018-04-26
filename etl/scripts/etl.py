@@ -3,7 +3,7 @@
 import os
 from ddf_utils.chef.api import Chef
 
-recipe_file = ''
+recipe_file = '../recipes/etl.yaml'
 out_dir = '../../'
 
 try:
