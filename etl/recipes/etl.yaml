@@ -29,6 +29,7 @@ ingredients:
             concept:
                 $nin: 
                     - indicator_name  # will be renamed so we don't need it
+                    - country         # we will use country from geo domain
     -
         id: wdi-concepts-continuous
         dataset: *wdi
@@ -44,7 +45,11 @@ ingredients:
     -
         id: gw-countries
         dataset: *geo
-        key: country        
+        key: geo       
+    -
+        id: gw-geo-concepts
+        dataset: *geo
+        key: concept 
 
 cooking:
     concepts:
@@ -63,10 +68,28 @@ cooking:
                 - wdi-concepts-cont-final
             options:
                 file_name: ddf--concepts--continuous.csv
+        - 
+            procedure: translate_column
+            ingredients:
+                - wdi-concepts-discrete
+            options:
+                column: concept
+                dictionary:
+                    year: time
+                not_found: include
+            result: wdi-concepts-discrete-translated
+        -
+            procedure: merge
+            ingredients:
+                - gw-geo-concepts
+                - wdi-concepts-discrete-translated
+            options:
+                deep: true
+            result: wdi-concepts-discrete-final
         -
             procedure: serve
             ingredients:
-                - wdi-concepts-discrete
+                - wdi-concepts-discrete-final
             options:
                 file_name: ddf--concepts--discrete.csv
 
@@ -84,7 +107,7 @@ cooking:
                           'alternative_4_cdiac', 'pandg', 'god_id', 'alt_5', 'upper_case_name',
                           'arb1', 'arb2', 'arb3', 'arb4', 'arb5', 'arb6', 'name', 'iso3166_1_alpha2',
                           'iso3166_1_alpha3', 'iso3166_2']
-                    value: country
+                    value: geo
             result: wdi-countries-aligned
         - 
             procedure: translate_column
@@ -96,20 +119,18 @@ cooking:
                     base: wdi-countries-aligned
                     key: country
                     value: country_new
+            result: wdi-datapoints-aligned
+        - 
+            procedure: translate_header
+            ingredients:
+                - wdi-datapoints-aligned
+            options:
+                dictionary:
+                    country: geo
+                    year: time
             result: wdi-datapoints-final
     entities:
         -
-            procedure: filter
-            ingredients:
-                - gw-countries
-            options:
-                item:
-                    - country
-                    - name
-            result: gw-countries-to-serve
-        -
             procedure: serve
             ingredients:
-                - gw-countries-to-serve
-            options:
-                no_keep_sets: true
+                - gw-countries
