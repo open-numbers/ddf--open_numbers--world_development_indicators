@@ -1095,7 +1095,6 @@ east_asia_pacific,2012,216.34149
 east_asia_pacific,2013,230.18423
 east_asia_pacific,2014,245.54679
 east_asia_pacific,2015,259.66554
-east_asia_pacific,2016,271.70846
 ecu,1991,173.00656
 ecu,1992,172.436
 ecu,1993,189.53019
@@ -1243,7 +1242,6 @@ europe_central_asia,2012,509.46753
 europe_central_asia,2013,511.3163
 europe_central_asia,2014,516.28355
 europe_central_asia,2015,527.98186
-europe_central_asia,2016,535.23595
 fin,1991,528.61769
 fin,1992,580.75751
 fin,1993,630.31132
@@ -1570,7 +1568,6 @@ high_income,2012,905.97515
 high_income,2013,910.91851
 high_income,2014,924.31855
 high_income,2015,930.94816
-high_income,2016,884.07633
 hkg,2000,282.40826
 hkg,2001,284.07028
 hkg,2002,295.25864
@@ -2188,7 +2185,6 @@ low_income,2012,30.64448
 low_income,2013,33.01566
 low_income,2014,33.07603
 low_income,2015,33.47337
-low_income,2016,34.16045
 lower_middle_income,1991,55.7051
 lower_middle_income,1992,54.61433
 lower_middle_income,1993,54.86942
@@ -2214,7 +2210,6 @@ lower_middle_income,2012,68.13426
 lower_middle_income,2013,70.27092
 lower_middle_income,2014,72.23571
 lower_middle_income,2015,73.69117
-lower_middle_income,2016,75.22181
 lso,1991,42.01903
 lso,1992,42.35105
 lso,1993,44.09056
@@ -2463,7 +2458,6 @@ middle_east_north_africa,2012,426.47939
 middle_east_north_africa,2013,421.31335
 middle_east_north_africa,2014,420.50643
 middle_east_north_africa,2015,421.16521
-middle_east_north_africa,2016,450.72367
 mkd,1991,67.02188
 mkd,1992,55.89941
 mkd,1993,50.87421
@@ -3364,7 +3358,6 @@ south_asia,2012,46.61061
 south_asia,2013,47.90295
 south_asia,2014,50.22597
 south_asia,2015,53.24163
-south_asia,2016,55.59234
 srb,1995,95.21742
 srb,1996,96.23252
 srb,1997,110.67926
@@ -3428,7 +3421,6 @@ sub_saharan_africa,2012,103.42038
 sub_saharan_africa,2013,105.29685
 sub_saharan_africa,2014,103.62023
 sub_saharan_africa,2015,101.36157
-sub_saharan_africa,2016,97.6199
 sur,1991,446.54022
 sur,1992,376.20221
 sur,1993,306.16058
@@ -3861,7 +3853,6 @@ upper_middle_income,2012,194.74208
 upper_middle_income,2013,206.19805
 upper_middle_income,2014,216.91234
 upper_middle_income,2015,225.23472
-upper_middle_income,2016,238.30817
 ury,1991,177.01695
 ury,1992,184.04875
 ury,1993,174.77855
@@ -4058,7 +4049,6 @@ world,2012,273.08868
 world,2013,280.14007
 world,2014,287.07716
 world,2015,293.07621
-world,2016,264.84886
 wsm,1994,211.51672
 wsm,1995,224.12296
 wsm,1996,242.7744
