@@ -19,16 +19,12 @@ ingredients:
         id: wdi-concepts-discrete
         dataset: *wdi
         key: concept
-        value:
-            $nin:
-                - indicator_name
         filter:
             concept_type:
                 $nin: 
                     - measure
             concept:
                 $nin: 
-                    - indicator_name  # will be renamed so we don't need it
                     - country         # we will use country from geo domain
     -
         id: wdi-concepts-continuous
@@ -54,18 +50,9 @@ ingredients:
 cooking:
     concepts:
         -
-            procedure: translate_header
-            ingredients:
-                - wdi-concepts-continuous
-            options:
-                dictionary:
-                    indicator_name: name
-                duplicated: replace
-            result: wdi-concepts-cont-final
-        -
             procedure: serve
             ingredients:
-                - wdi-concepts-cont-final
+                - wdi-concepts-continuous
             options:
                 file_name: ddf--concepts--continuous.csv
         - 
