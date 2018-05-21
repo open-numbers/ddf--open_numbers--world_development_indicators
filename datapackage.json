@@ -73,6 +73,9 @@
                     },
                     {
                         "name": "unit_of_measure"
+                    },
+                    {
+                        "name": "tags"
                     }
                 ],
                 "primaryKey": "concept"
@@ -33878,6 +33881,24 @@
                 ],
                 "primaryKey": "world_6region"
             }
+        },
+        {
+            "path": "ddf--entities--tag.csv",
+            "name": "ddf--entities--tag",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "tag"
+                    },
+                    {
+                        "name": "name"
+                    },
+                    {
+                        "name": "parent"
+                    }
+                ],
+                "primaryKey": "tag"
+            }
         }
     ],
     "ddfSchema": {
@@ -34093,6 +34114,7 @@
                 ],
                 "value": "tags",
                 "resources": [
+                    "ddf--concepts--continuous",
                     "ddf--concepts--discrete"
                 ]
             },
@@ -35175,6 +35197,24 @@
                 "value": "world_6region",
                 "resources": [
                     "ddf--entities--geo--country"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "tag"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--entities--tag"
+                ]
+            },            
+            {
+                "primaryKey": [
+                    "tag"
+                ],
+                "value": "parent",
+                "resources": [
+                    "ddf--entities--tag"
                 ]
             }
         ],
