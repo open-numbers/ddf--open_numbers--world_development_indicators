@@ -5,7 +5,7 @@
         "id": "en"
     },
     "author": "Gapminder",
-    "created": "2018-05-12T08:04:46.580119+00:00",
+    "created": "2018-05-22T11:28:09.173292+00:00",
     "description": "Gapminder's World Development Indicators",
     "license": "MIT",
     "title": "Gapminder's World Development Indicators",
@@ -73,9 +73,6 @@
                     },
                     {
                         "name": "unit_of_measure"
-                    },
-                    {
-                        "name": "tags"
                     }
                 ],
                 "primaryKey": "concept"
@@ -33881,24 +33878,6 @@
                 ],
                 "primaryKey": "world_6region"
             }
-        },
-        {
-            "path": "ddf--entities--tag.csv",
-            "name": "ddf--entities--tag",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "tag"
-                    },
-                    {
-                        "name": "name"
-                    },
-                    {
-                        "name": "parent"
-                    }
-                ],
-                "primaryKey": "tag"
-            }
         }
     ],
     "ddfSchema": {
@@ -34114,7 +34093,6 @@
                 ],
                 "value": "tags",
                 "resources": [
-                    "ddf--concepts--continuous",
                     "ddf--concepts--discrete"
                 ]
             },
@@ -35197,24 +35175,6 @@
                 "value": "world_6region",
                 "resources": [
                     "ddf--entities--geo--country"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "tag"
-                ],
-                "value": "name",
-                "resources": [
-                    "ddf--entities--tag"
-                ]
-            },            
-            {
-                "primaryKey": [
-                    "tag"
-                ],
-                "value": "parent",
-                "resources": [
-                    "ddf--entities--tag"
                 ]
             }
         ],
