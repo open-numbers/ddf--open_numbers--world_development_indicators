@@ -5,7 +5,7 @@
         "id": "en"
     },
     "author": "Gapminder",
-    "created": "2018-05-22T11:28:09.173292+00:00",
+    "created": "2018-05-25T06:06:53.048113+00:00",
     "description": "Gapminder's World Development Indicators",
     "license": "MIT",
     "title": "Gapminder's World Development Indicators",
@@ -67,6 +67,9 @@
                     },
                     {
                         "name": "statistical_concept_and_methodology"
+                    },
+                    {
+                        "name": "tags"
                     },
                     {
                         "name": "topic"
@@ -33878,6 +33881,24 @@
                 ],
                 "primaryKey": "world_6region"
             }
+        },
+        {
+            "path": "ddf--entities--tag.csv",
+            "name": "ddf--entities--tag",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "tag"
+                    },
+                    {
+                        "name": "name"
+                    },
+                    {
+                        "name": "parent"
+                    }
+                ],
+                "primaryKey": "tag"
+            }
         }
     ],
     "ddfSchema": {
@@ -34093,6 +34114,7 @@
                 ],
                 "value": "tags",
                 "resources": [
+                    "ddf--concepts--continuous",
                     "ddf--concepts--discrete"
                 ]
             },
@@ -34891,6 +34913,15 @@
             },
             {
                 "primaryKey": [
+                    "tag"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--entities--tag"
+                ]
+            },
+            {
+                "primaryKey": [
                     "world_4region"
                 ],
                 "value": "name",
@@ -34979,6 +35010,15 @@
                 "value": "pandg",
                 "resources": [
                     "ddf--entities--geo--country"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "tag"
+                ],
+                "value": "parent",
+                "resources": [
+                    "ddf--entities--tag"
                 ]
             },
             {
@@ -101199,6 +101239,7 @@
                     "ddf--datapoints--vc_pkp_totl_un--by--geo--time"
                 ]
             }
-        ]
+        ],
+        "synonym": []
     }
 }
