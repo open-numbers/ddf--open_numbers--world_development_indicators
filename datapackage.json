@@ -5,7 +5,7 @@
         "id": "en"
     },
     "author": "Gapminder",
-    "created": "2018-05-27T11:20:25.190039+00:00",
+    "created": "2018-06-23T20:05:23.828176+00:00",
     "description": "Gapminder's World Development Indicators",
     "license": "MIT",
     "title": "Gapminder's World Development Indicators",
@@ -101240,6 +101240,6 @@
                 ]
             }
         ],
-        "synonym": []
+        "synonyms": []
     }
 }
