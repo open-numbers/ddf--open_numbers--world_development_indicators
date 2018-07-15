@@ -56,7 +56,7 @@ eri,2014,93.1
 esp,2014,0.6
 est,2014,17.6
 eth,2014,97.6
-europe_central_asia,2014,10.23471
+europe_central_asia,2014,10.2344
 fin,2014,0
 fji,2014,24.1
 fra,2014,0.2
@@ -73,7 +73,7 @@ grc,2014,1.1
 grd,2014,25.6
 gtm,2014,52.4
 guy,2014,37.2
-high_income,2014,1.97971
+high_income,2014,2.57434
 hnd,2014,61.8
 hrv,2014,2.8
 hti,2014,74.5
@@ -103,8 +103,8 @@ lbr,2014,85.6
 lby,2014,20.4
 lca,2014,22
 lka,2014,44.2
-low_income,2014,86.8057
-lower_middle_income,2014,61.69899
+low_income,2014,83.77103
+lower_middle_income,2014,62.11536
 lso,2014,61.4
 ltu,2014,12.1
 lux,2014,0.1
@@ -116,7 +116,7 @@ mdg,2014,87
 mdv,2014,8.8
 mex,2014,17.8
 mhl,2014,16.9
-middle_east_north_africa,2014,30.69936
+middle_east_north_africa,2014,30.69894
 mkd,2014,38.1
 mli,2014,77.7
 mlt,2014,6.1
@@ -182,7 +182,7 @@ tuv,2014,16.5
 tza,2014,85.5
 uga,2014,85
 ukr,2014,15.3
-upper_middle_income,2014,40.90522
+upper_middle_income,2014,41.38358
 ury,2014,18.5
 usa,2014,1.4
 uzb,2014,74.8
@@ -190,7 +190,7 @@ vct,2014,24.4
 ven,2014,24.8
 vnm,2014,63.6
 vut,2014,37
-world,2014,46.67261
+world,2014,46.67201
 wsm,2014,18.4
 yem,2014,53.8
 zaf,2014,50.1

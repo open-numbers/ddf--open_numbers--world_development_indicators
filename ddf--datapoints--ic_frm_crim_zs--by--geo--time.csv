@@ -7,6 +7,7 @@ alb,2007,3.3
 alb,2013,1.4
 arg,2006,3.7
 arg,2010,2
+arg,2017,1.8
 arm,2009,6.4
 arm,2013,3.6
 atg,2010,2.6
@@ -58,7 +59,7 @@ cze,2013,1.8
 dji,2013,4.4
 dom,2010,3.1
 dom,2016,6.6
-east_asia_pacific,2016,4.32308
+east_asia_pacific,2017,4.32308
 ecu,2006,3
 ecu,2010,3.4
 ecu,2017,2.3
@@ -68,7 +69,7 @@ est,2009,2
 est,2013,1
 eth,2011,2.9
 eth,2015,3.4
-europe_central_asia,2016,2.5
+europe_central_asia,2017,2.5
 fji,2009,3.6
 fsm,2009,4.6
 gab,2009,3.5
@@ -83,7 +84,7 @@ grd,2010,4.6
 gtm,2006,5.2
 gtm,2010,4.3
 guy,2010,2.5
-high_income,2016,1.65294
+high_income,2017,1.91
 hnd,2006,6.1
 hnd,2010,8.8
 hnd,2016,7.2
@@ -117,8 +118,8 @@ lbr,2009,7.8
 lbr,2017,9.3
 lca,2010,1.6
 lka,2011,1.8
-low_income,2016,7.83333
-lower_middle_income,2016,6.63256
+low_income,2017,7.77826
+lower_middle_income,2017,6.57949
 lso,2009,5.8
 lso,2016,17.3
 ltu,2009,1.3
@@ -132,7 +133,7 @@ mdg,2009,4.8
 mdg,2013,5.3
 mex,2006,3.4
 mex,2010,3.6
-middle_east_north_africa,2016,8.73
+middle_east_north_africa,2017,8.73
 mkd,2009,3.4
 mkd,2013,2.5
 mli,2007,3.7
@@ -168,6 +169,7 @@ pan,2006,2.7
 pan,2010,5.6
 per,2006,2.4
 per,2010,2.8
+per,2017,2.8
 phl,2009,5.2
 phl,2015,1.3
 png,2015,4.8
@@ -192,11 +194,11 @@ sle,2017,11.7
 slv,2006,5.6
 slv,2010,4.6
 slv,2016,3.3
-south_asia,2016,8.05714
+south_asia,2017,8.05714
 srb,2009,2.2
 srb,2013,1.8
 ssd,2014,10.8
-sub_saharan_africa,2016,7.83437
+sub_saharan_africa,2017,7.88485
 sur,2010,2.2
 svk,2009,2.8
 svk,2013,1.6
@@ -223,7 +225,7 @@ uga,2006,4.1
 uga,2013,7.2
 ukr,2008,3.6
 ukr,2013,3.8
-upper_middle_income,2016,3.45405
+upper_middle_income,2017,3.84324
 ury,2006,2.1
 ury,2010,1.1
 ury,2017,2.1
@@ -234,7 +236,7 @@ ven,2010,3.6
 vnm,2009,1
 vnm,2015,3.5
 vut,2009,6.4
-world,2016,5.1322
+world,2017,5.17563
 wsm,2009,10.3
 yem,2010,5.5
 yem,2013,4.9

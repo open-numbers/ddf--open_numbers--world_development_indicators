@@ -778,7 +778,7 @@ eth,2013,23.1
 eth,2014,15.5
 eth,2016,27.7
 europe_central_asia,2000,95.40735
-europe_central_asia,2013,99.00361
+europe_central_asia,2013,99.00364
 fin,1990,98.8
 fin,1992,98.6
 fin,1993,98.6
@@ -940,8 +940,8 @@ guy,2007,93.3
 guy,2008,96
 guy,2009,87.4
 guy,2014,85.7
-high_income,2000,98.9945
-high_income,2013,98.93836
+high_income,2000,98.95614
+high_income,2013,98.9508
 hkg,2005,100
 hnd,1987,42.1
 hnd,1992,46.9
@@ -1255,10 +1255,10 @@ lka,1987,87.2
 lka,1993,94.1
 lka,2000,96
 lka,2007,98.6
-low_income,2000,33.70459
-low_income,2013,56.44107
-lower_middle_income,2000,45.2865
-lower_middle_income,2013,71.51646
+low_income,2000,34.11329
+low_income,2013,57.24735
+lower_middle_income,2000,45.06331
+lower_middle_income,2013,71.50703
 lso,1993,60.9
 lso,1994,37.6
 lso,2000,48.1
@@ -1392,7 +1392,7 @@ mhl,2009,86.5
 mhl,2010,90
 mhl,2011,90.1
 middle_east_north_africa,2000,78.61092
-middle_east_north_africa,2013,88.11474
+middle_east_north_africa,2013,88.11477
 mkd,1989,87.8
 mkd,1990,88.9
 mkd,1991,89.3
@@ -2163,9 +2163,9 @@ ukr,2011,99.9
 ukr,2012,99
 ukr,2013,99.9
 ukr,2014,99.9
-upper_middle_income,1990,89.20533
-upper_middle_income,2000,93.49257
-upper_middle_income,2013,98.59273
+upper_middle_income,1990,89.06571
+upper_middle_income,2000,92.81706
+upper_middle_income,2013,98.2121
 ury,1990,99.4
 ury,1991,99.3
 ury,1992,99
@@ -2281,7 +2281,7 @@ vut,2006,92.9
 vut,2007,74
 vut,2013,89.4
 world,2000,62.82022
-world,2013,78.47623
+world,2013,78.47635
 wsm,1990,76
 wsm,1998,100
 wsm,2000,80

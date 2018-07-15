@@ -10,6 +10,7 @@ afg,2013,3
 afg,2014,3
 afg,2015,3
 afg,2016,3
+afg,2017,3
 ago,2005,2.5
 ago,2006,2.5
 ago,2007,2.5
@@ -48,6 +49,7 @@ bdi,2013,3
 bdi,2014,3
 bdi,2015,3
 bdi,2016,3
+bdi,2017,3
 ben,2005,3.5
 ben,2006,3.5
 ben,2007,3.5
@@ -60,6 +62,7 @@ ben,2013,3.5
 ben,2014,3.5
 ben,2015,3.5
 ben,2016,3.5
+ben,2017,3.5
 bfa,2005,3.5
 bfa,2006,3.5
 bfa,2007,3.5
@@ -72,6 +75,7 @@ bfa,2013,4
 bfa,2014,3.5
 bfa,2015,3.5
 bfa,2016,3.5
+bfa,2017,3.5
 bgd,2005,3
 bgd,2006,3
 bgd,2007,3
@@ -84,6 +88,7 @@ bgd,2013,3
 bgd,2014,3
 bgd,2015,3
 bgd,2016,3
+bgd,2017,3
 bih,2005,4
 bih,2006,4.5
 bih,2007,4
@@ -116,6 +121,7 @@ btn,2013,4
 btn,2014,4
 btn,2015,3.5
 btn,2016,3.5
+btn,2017,3.5
 caf,2005,2.5
 caf,2006,2.5
 caf,2007,2.5
@@ -128,6 +134,7 @@ caf,2013,2.5
 caf,2014,2.5
 caf,2015,2.5
 caf,2016,2.5
+caf,2017,2.5
 civ,2005,4
 civ,2006,4
 civ,2007,4
@@ -140,6 +147,7 @@ civ,2013,3.5
 civ,2014,3.5
 civ,2015,3.5
 civ,2016,3.5
+civ,2017,3.5
 cmr,2005,4
 cmr,2006,3.5
 cmr,2007,3.5
@@ -152,6 +160,7 @@ cmr,2013,3.5
 cmr,2014,3.5
 cmr,2015,3.5
 cmr,2016,3.5
+cmr,2017,3.5
 cod,2005,2.5
 cod,2006,2.5
 cod,2007,2.5
@@ -164,6 +173,7 @@ cod,2013,2.5
 cod,2014,3
 cod,2015,3
 cod,2016,3
+cod,2017,3
 cog,2005,3
 cog,2006,3
 cog,2007,3
@@ -176,6 +186,7 @@ cog,2013,3
 cog,2014,3
 cog,2015,3
 cog,2016,3
+cog,2017,3
 com,2005,2.5
 com,2006,2.5
 com,2007,2.5
@@ -188,6 +199,7 @@ com,2013,2.5
 com,2014,2.5
 com,2015,2.5
 com,2016,2.5
+com,2017,2.5
 cpv,2005,3.5
 cpv,2006,3.5
 cpv,2007,3.5
@@ -200,6 +212,7 @@ cpv,2013,4
 cpv,2014,4
 cpv,2015,4
 cpv,2016,4
+cpv,2017,4
 dji,2005,3.5
 dji,2006,3.5
 dji,2007,3.5
@@ -212,6 +225,7 @@ dji,2013,3.5
 dji,2014,3.5
 dji,2015,3.5
 dji,2016,3.5
+dji,2017,3.5
 dma,2005,3.5
 dma,2006,3.5
 dma,2007,4
@@ -224,6 +238,7 @@ dma,2013,4
 dma,2014,4
 dma,2015,4
 dma,2016,4
+dma,2017,4
 east_asia_pacific,2005,3.22727
 east_asia_pacific,2006,3.29167
 east_asia_pacific,2007,3.18182
@@ -236,6 +251,7 @@ east_asia_pacific,2013,3.36667
 east_asia_pacific,2014,3.4
 east_asia_pacific,2015,3.43333
 east_asia_pacific,2016,3.39286
+east_asia_pacific,2017,3.39286
 eri,2005,3.5
 eri,2006,3.5
 eri,2007,3.5
@@ -248,6 +264,7 @@ eri,2013,3.5
 eri,2014,3.5
 eri,2015,3.5
 eri,2016,3.5
+eri,2017,3.5
 eth,2005,4
 eth,2006,4
 eth,2007,4
@@ -260,6 +277,7 @@ eth,2013,4
 eth,2014,4
 eth,2015,4
 eth,2016,4
+eth,2017,4
 europe_central_asia,2005,3.45
 europe_central_asia,2006,3.6
 europe_central_asia,2007,3.5625
@@ -272,12 +290,14 @@ europe_central_asia,2013,3.75
 europe_central_asia,2014,3.6
 europe_central_asia,2015,3.5
 europe_central_asia,2016,3.5
+europe_central_asia,2017,3.6
 fsm,2011,3
 fsm,2012,3
 fsm,2013,3
 fsm,2014,3
 fsm,2015,3
 fsm,2016,3
+fsm,2017,3
 geo,2005,4
 geo,2006,4
 geo,2007,4.5
@@ -299,6 +319,7 @@ gha,2013,4
 gha,2014,3.5
 gha,2015,4
 gha,2016,4
+gha,2017,3.5
 gin,2005,3
 gin,2006,3
 gin,2007,3
@@ -311,6 +332,7 @@ gin,2013,3
 gin,2014,3
 gin,2015,3
 gin,2016,3.5
+gin,2017,3.5
 gmb,2005,3.5
 gmb,2006,3.5
 gmb,2007,3.5
@@ -323,6 +345,7 @@ gmb,2013,3.5
 gmb,2014,3.5
 gmb,2015,3.5
 gmb,2016,3.5
+gmb,2017,3.5
 gnb,2005,3
 gnb,2006,3
 gnb,2007,3
@@ -335,6 +358,7 @@ gnb,2013,2.5
 gnb,2014,2.5
 gnb,2015,2.5
 gnb,2016,2.5
+gnb,2017,2.5
 grd,2005,3.5
 grd,2006,3.5
 grd,2007,3.5
@@ -347,6 +371,7 @@ grd,2013,3.5
 grd,2014,3.5
 grd,2015,3.5
 grd,2016,3.5
+grd,2017,3.5
 guy,2005,3.5
 guy,2006,3.5
 guy,2007,3.5
@@ -359,6 +384,7 @@ guy,2013,3.5
 guy,2014,3.5
 guy,2015,3.5
 guy,2016,3.5
+guy,2017,3.5
 hnd,2005,4
 hnd,2006,4
 hnd,2007,4
@@ -371,6 +397,7 @@ hnd,2013,3.5
 hnd,2014,3.5
 hnd,2015,3.5
 hnd,2016,3.5
+hnd,2017,3.5
 hti,2005,2.5
 hti,2006,2.5
 hti,2007,2.5
@@ -383,6 +410,7 @@ hti,2013,2.5
 hti,2014,2.5
 hti,2015,2.5
 hti,2016,2.5
+hti,2017,2.5
 idn,2005,3.5
 idn,2006,3.5
 ind,2005,4
@@ -406,6 +434,7 @@ ken,2013,4
 ken,2014,4
 ken,2015,4
 ken,2016,4
+ken,2017,4
 kgz,2005,3
 kgz,2006,3.5
 kgz,2007,3.5
@@ -418,6 +447,7 @@ kgz,2013,3.5
 kgz,2014,3.5
 kgz,2015,3.5
 kgz,2016,3.5
+kgz,2017,3.5
 khm,2005,3
 khm,2006,3
 khm,2007,3
@@ -430,6 +460,7 @@ khm,2013,3.5
 khm,2014,3.5
 khm,2015,3.5
 khm,2016,3.5
+khm,2017,3.5
 kir,2005,3
 kir,2006,3
 kir,2007,3
@@ -442,6 +473,7 @@ kir,2013,3
 kir,2014,3.5
 kir,2015,3.5
 kir,2016,3.5
+kir,2017,3.5
 kos,2009,3.5
 kos,2010,3.5
 kos,2011,3.5
@@ -450,6 +482,7 @@ kos,2013,4
 kos,2014,4
 kos,2015,3.5
 kos,2016,3.5
+kos,2017,3.5
 lao,2005,2.5
 lao,2006,2.5
 lao,2007,2.5
@@ -462,6 +495,7 @@ lao,2013,3.5
 lao,2014,3.5
 lao,2015,3.5
 lao,2016,3.5
+lao,2017,3.5
 lbr,2009,3.5
 lbr,2010,3.5
 lbr,2011,3.5
@@ -470,6 +504,7 @@ lbr,2013,3.5
 lbr,2014,3.5
 lbr,2015,3.5
 lbr,2016,3.5
+lbr,2017,3.5
 lca,2005,3.5
 lca,2006,3.5
 lca,2007,4
@@ -482,6 +517,7 @@ lca,2013,4.5
 lca,2014,4.5
 lca,2015,4
 lca,2016,4
+lca,2017,4
 lka,2005,3.5
 lka,2006,3.5
 lka,2007,3.5
@@ -493,30 +529,32 @@ lka,2012,3.5
 lka,2013,3.5
 lka,2014,3.5
 lka,2015,3.5
-low_income,2005,3.28846
-low_income,2006,3.2037
-low_income,2007,3.24074
-low_income,2008,3.25926
-low_income,2009,3.28571
-low_income,2010,3.28571
-low_income,2011,3.32143
-low_income,2012,3.27586
-low_income,2013,3.25862
-low_income,2014,3.27586
-low_income,2015,3.31034
-low_income,2016,3.31034
-lower_middle_income,2005,3.47368
-lower_middle_income,2006,3.47436
-lower_middle_income,2007,3.44737
-lower_middle_income,2008,3.46053
-lower_middle_income,2009,3.47436
-lower_middle_income,2010,3.47436
-lower_middle_income,2011,3.4875
-lower_middle_income,2012,3.5125
-lower_middle_income,2013,3.5
-lower_middle_income,2014,3.48649
-lower_middle_income,2015,3.48649
-lower_middle_income,2016,3.47059
+low_income,2005,3.26786
+low_income,2006,3.22414
+low_income,2007,3.22414
+low_income,2008,3.24138
+low_income,2009,3.26667
+low_income,2010,3.26667
+low_income,2011,3.3
+low_income,2012,3.27419
+low_income,2013,3.25806
+low_income,2014,3.27419
+low_income,2015,3.29032
+low_income,2016,3.29032
+low_income,2017,3.26562
+lower_middle_income,2005,3.48571
+lower_middle_income,2006,3.47222
+lower_middle_income,2007,3.47143
+lower_middle_income,2008,3.48571
+lower_middle_income,2009,3.5
+lower_middle_income,2010,3.5
+lower_middle_income,2011,3.51351
+lower_middle_income,2012,3.52703
+lower_middle_income,2013,3.51316
+lower_middle_income,2014,3.5
+lower_middle_income,2015,3.51429
+lower_middle_income,2016,3.5
+lower_middle_income,2017,3.48438
 lso,2005,4
 lso,2006,4
 lso,2007,4
@@ -529,6 +567,7 @@ lso,2013,4
 lso,2014,4
 lso,2015,4
 lso,2016,4
+lso,2017,4
 mda,2005,3
 mda,2006,3
 mda,2007,3.5
@@ -541,6 +580,7 @@ mda,2013,3.5
 mda,2014,3.5
 mda,2015,3.5
 mda,2016,3.5
+mda,2017,3.5
 mdg,2005,3.5
 mdg,2006,3.5
 mdg,2007,3.5
@@ -553,6 +593,7 @@ mdg,2013,3.5
 mdg,2014,3.5
 mdg,2015,3.5
 mdg,2016,3.5
+mdg,2017,3.5
 mdv,2005,4
 mdv,2006,4
 mdv,2007,4
@@ -565,12 +606,14 @@ mdv,2013,4
 mdv,2014,4
 mdv,2015,4
 mdv,2016,4
+mdv,2017,4
 mhl,2011,2.5
 mhl,2012,2.5
 mhl,2013,2.5
 mhl,2014,2.5
 mhl,2015,2.5
 mhl,2016,2.5
+mhl,2017,2.5
 middle_east_north_africa,2005,3.25
 middle_east_north_africa,2006,3.25
 middle_east_north_africa,2007,3.25
@@ -583,6 +626,7 @@ middle_east_north_africa,2013,3.25
 middle_east_north_africa,2014,3.25
 middle_east_north_africa,2015,3.25
 middle_east_north_africa,2016,3.25
+middle_east_north_africa,2017,3
 mli,2005,4
 mli,2006,4
 mli,2007,4
@@ -595,10 +639,12 @@ mli,2013,3.5
 mli,2014,3.5
 mli,2015,3.5
 mli,2016,3.5
+mli,2017,3.5
 mmr,2013,3
 mmr,2014,3
 mmr,2015,3.5
 mmr,2016,3.5
+mmr,2017,3.5
 mng,2005,3.5
 mng,2006,3.5
 mng,2007,3.5
@@ -611,6 +657,7 @@ mng,2013,3.5
 mng,2014,3.5
 mng,2015,3.5
 mng,2016,3.5
+mng,2017,3.5
 moz,2005,3.5
 moz,2006,3.5
 moz,2007,4
@@ -623,6 +670,7 @@ moz,2013,4
 moz,2014,4
 moz,2015,4
 moz,2016,4
+moz,2017,4
 mrt,2005,4
 mrt,2006,3.5
 mrt,2007,3.5
@@ -635,6 +683,7 @@ mrt,2013,4
 mrt,2014,4
 mrt,2015,4
 mrt,2016,4
+mrt,2017,4
 mwi,2005,4
 mwi,2006,4
 mwi,2007,4
@@ -647,6 +696,7 @@ mwi,2013,4
 mwi,2014,4
 mwi,2015,4
 mwi,2016,4
+mwi,2017,4
 ner,2005,3.5
 ner,2006,3.5
 ner,2007,3.5
@@ -659,6 +709,7 @@ ner,2013,3.5
 ner,2014,3.5
 ner,2015,3.5
 ner,2016,3.5
+ner,2017,3.5
 nga,2005,3
 nga,2006,3
 nga,2007,3
@@ -671,6 +722,7 @@ nga,2013,3
 nga,2014,3
 nga,2015,3
 nga,2016,3
+nga,2017,3
 nic,2005,4
 nic,2006,4
 nic,2007,4
@@ -683,6 +735,7 @@ nic,2013,4
 nic,2014,4
 nic,2015,4
 nic,2016,4
+nic,2017,4
 npl,2005,3.5
 npl,2006,3.5
 npl,2007,3.5
@@ -695,6 +748,7 @@ npl,2013,3.5
 npl,2014,3.5
 npl,2015,3.5
 npl,2016,3.5
+npl,2017,3.5
 pak,2005,3.5
 pak,2006,3.5
 pak,2007,3.5
@@ -707,6 +761,7 @@ pak,2013,3
 pak,2014,3
 pak,2015,3
 pak,2016,3.5
+pak,2017,3.5
 png,2005,3.5
 png,2006,3.5
 png,2007,3.5
@@ -719,6 +774,7 @@ png,2013,3.5
 png,2014,3.5
 png,2015,3.5
 png,2016,3.5
+png,2017,3.5
 rwa,2005,3.5
 rwa,2006,3.5
 rwa,2007,3.5
@@ -731,6 +787,7 @@ rwa,2013,3.5
 rwa,2014,3.5
 rwa,2015,4
 rwa,2016,4
+rwa,2017,4
 sdn,2005,3
 sdn,2006,3
 sdn,2007,3
@@ -743,6 +800,7 @@ sdn,2013,3
 sdn,2014,3
 sdn,2015,3
 sdn,2016,3
+sdn,2017,3
 sen,2005,4.5
 sen,2006,4.5
 sen,2007,4
@@ -755,6 +813,7 @@ sen,2013,4
 sen,2014,4
 sen,2015,4
 sen,2016,3.5
+sen,2017,3.5
 slb,2005,2.5
 slb,2006,3.5
 slb,2007,2.5
@@ -767,6 +826,7 @@ slb,2013,3
 slb,2014,3
 slb,2015,3
 slb,2016,3
+slb,2017,3
 sle,2005,3
 sle,2006,2.5
 sle,2007,2.5
@@ -779,6 +839,8 @@ sle,2013,3
 sle,2014,3
 sle,2015,3
 sle,2016,3
+sle,2017,3
+som,2017,2.5
 south_asia,2005,3.64286
 south_asia,2006,3.5
 south_asia,2007,3.5
@@ -791,6 +853,7 @@ south_asia,2013,3.5
 south_asia,2014,3.42857
 south_asia,2015,3.35714
 south_asia,2016,3.41667
+south_asia,2017,3.41667
 srb,2005,3.5
 srb,2006,3
 ssd,2012,2
@@ -798,6 +861,7 @@ ssd,2013,2
 ssd,2014,2
 ssd,2015,2
 ssd,2016,2
+ssd,2017,2
 stp,2005,3.5
 stp,2006,3.5
 stp,2007,3.5
@@ -810,6 +874,7 @@ stp,2013,3.5
 stp,2014,3.5
 stp,2015,3.5
 stp,2016,3.5
+stp,2017,3.5
 sub_saharan_africa,2005,3.41892
 sub_saharan_africa,2006,3.33784
 sub_saharan_africa,2007,3.36486
@@ -822,6 +887,7 @@ sub_saharan_africa,2013,3.35897
 sub_saharan_africa,2014,3.38158
 sub_saharan_africa,2015,3.42105
 sub_saharan_africa,2016,3.42105
+sub_saharan_africa,2017,3.38462
 tcd,2005,2.5
 tcd,2006,2.5
 tcd,2007,2.5
@@ -834,6 +900,7 @@ tcd,2013,2.5
 tcd,2014,2.5
 tcd,2015,3
 tcd,2016,3
+tcd,2017,3
 tgo,2005,2.5
 tgo,2006,2.5
 tgo,2007,2.5
@@ -846,6 +913,7 @@ tgo,2013,3
 tgo,2014,3
 tgo,2015,3
 tgo,2016,3
+tgo,2017,3
 tjk,2005,3
 tjk,2006,4
 tjk,2007,3
@@ -858,6 +926,7 @@ tjk,2013,3.5
 tjk,2014,3.5
 tjk,2015,3
 tjk,2016,3
+tjk,2017,3.5
 tls,2006,3
 tls,2007,3
 tls,2008,3
@@ -869,6 +938,7 @@ tls,2013,3
 tls,2014,3
 tls,2015,3
 tls,2016,3
+tls,2017,3
 ton,2005,3
 ton,2006,3
 ton,2007,3
@@ -881,11 +951,13 @@ ton,2013,4
 ton,2014,4
 ton,2015,4
 ton,2016,4
+ton,2017,4
 tuv,2012,3
 tuv,2013,3
 tuv,2014,3
 tuv,2015,3
 tuv,2016,3
+tuv,2017,3
 tza,2005,4
 tza,2006,3
 tza,2007,4
@@ -898,6 +970,7 @@ tza,2013,4
 tza,2014,4
 tza,2015,4
 tza,2016,4
+tza,2017,4
 uga,2005,3
 uga,2006,3
 uga,2007,3
@@ -910,18 +983,20 @@ uga,2013,3.5
 uga,2014,3.5
 uga,2015,3.5
 uga,2016,3.5
-upper_middle_income,2005,3.58333
-upper_middle_income,2006,3.58333
-upper_middle_income,2007,3.75
-upper_middle_income,2008,3.75
-upper_middle_income,2009,3.95
-upper_middle_income,2010,4.05
-upper_middle_income,2011,3.85
-upper_middle_income,2012,3.77273
-upper_middle_income,2013,3.77273
+uga,2017,3.5
+upper_middle_income,2005,3.61538
+upper_middle_income,2006,3.57692
+upper_middle_income,2007,3.72727
+upper_middle_income,2008,3.72727
+upper_middle_income,2009,3.90909
+upper_middle_income,2010,4
+upper_middle_income,2011,3.81818
+upper_middle_income,2012,3.75
+upper_middle_income,2013,3.75
 upper_middle_income,2014,3.75
 upper_middle_income,2015,3.7
 upper_middle_income,2016,3.7
+upper_middle_income,2017,3.7
 uzb,2005,3
 uzb,2006,3
 uzb,2007,3
@@ -934,6 +1009,7 @@ uzb,2013,3.5
 uzb,2014,3.5
 uzb,2015,4
 uzb,2016,4
+uzb,2017,4
 vct,2005,3.5
 vct,2006,3
 vct,2007,4
@@ -946,6 +1022,7 @@ vct,2013,4
 vct,2014,4
 vct,2015,4
 vct,2016,4
+vct,2017,4
 vnm,2005,3.5
 vnm,2006,3.5
 vnm,2007,3.5
@@ -969,6 +1046,7 @@ vut,2013,3.5
 vut,2014,3.5
 vut,2015,3.5
 vut,2016,3.5
+vut,2017,3.5
 world,2005,3.42763
 world,2006,3.39744
 world,2007,3.41333
@@ -981,6 +1059,7 @@ world,2013,3.45062
 world,2014,3.44079
 world,2015,3.44737
 world,2016,3.43836
+world,2017,3.41892
 wsm,2005,4
 wsm,2006,4
 wsm,2007,4
@@ -993,6 +1072,7 @@ wsm,2013,4.5
 wsm,2014,4.5
 wsm,2015,4.5
 wsm,2016,4.5
+wsm,2017,4.5
 yem,2005,3
 yem,2006,3
 yem,2007,3
@@ -1005,6 +1085,7 @@ yem,2013,3
 yem,2014,3
 yem,2015,3
 yem,2016,3
+yem,2017,2.5
 zmb,2005,4
 zmb,2006,3.5
 zmb,2007,3.5
@@ -1017,6 +1098,7 @@ zmb,2013,3.5
 zmb,2014,3.5
 zmb,2015,3.5
 zmb,2016,3.5
+zmb,2017,3.5
 zwe,2005,3.5
 zwe,2006,3.5
 zwe,2007,3.5
@@ -1029,3 +1111,4 @@ zwe,2013,3.5
 zwe,2014,4
 zwe,2015,4
 zwe,2016,4
+zwe,2017,4

@@ -270,8 +270,8 @@ guy,2004,12.6
 guy,2005,12.6
 guy,2006,18.9
 guy,2009,14.3
-high_income,2000,7.17627
-high_income,2010,7.61376
+high_income,2000,7.16696
+high_income,2010,7.58593
 hkg,2000,5
 hnd,2001,14.3
 hnd,2006,10.2
@@ -373,9 +373,9 @@ lca,2011,10.1
 lka,2000,22.3
 lka,2005,17.6
 lka,2007,17
-low_income,2000,14.48929
-low_income,2010,12.67675
-lower_middle_income,2000,22.32331
+low_income,2000,14.22699
+low_income,2010,13.58716
+lower_middle_income,2000,22.60119
 lso,2000,14.2
 lso,2004,12.6
 lso,2009,10.7
@@ -624,8 +624,8 @@ ukr,2003,5.3
 ukr,2005,4.3
 ukr,2007,4
 ukr,2011,5.3
-upper_middle_income,2000,5.62476
-upper_middle_income,2010,5.73438
+upper_middle_income,2000,5.7252
+upper_middle_income,2010,5.81454
 ury,2002,8
 ury,2006,8.5
 ury,2007,8.4
