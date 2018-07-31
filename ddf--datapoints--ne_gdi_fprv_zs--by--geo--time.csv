@@ -627,8 +627,6 @@ com,1996,7.85123
 com,1997,7.37781
 com,1998,6.98614
 com,1999,6.54297
-com,2015,10
-com,2016,10.6
 com,2017,97
 cpv,2007,35.95725
 cpv,2008,31.52003
@@ -2779,8 +2777,8 @@ sub_saharan_africa,2011,14.59255
 sub_saharan_africa,2012,14.91559
 sub_saharan_africa,2013,15.63488
 sub_saharan_africa,2014,15.67522
-sub_saharan_africa,2015,15.47313
-sub_saharan_africa,2016,15.23436
+sub_saharan_africa,2015,15.477
+sub_saharan_africa,2016,15.23765
 sur,1977,26.59906
 sur,1978,22.97757
 sur,1979,14.17625

@@ -1654,7 +1654,7 @@ low_income,2012,5.78246
 low_income,2013,5.69843
 low_income,2014,5.90243
 low_income,2015,6.02222
-lower_middle_income,2000,3.83495
+lower_middle_income,2000,3.83489
 lower_middle_income,2001,3.99269
 lower_middle_income,2002,3.88331
 lower_middle_income,2003,3.94915
@@ -2534,7 +2534,7 @@ smr,2012,7.10849
 smr,2013,6.96873
 smr,2014,6.86854
 smr,2015,6.81131
-south_asia,2000,3.88906
+south_asia,2000,3.88896
 south_asia,2001,3.95334
 south_asia,2002,3.9994
 south_asia,2003,3.78703
@@ -3049,7 +3049,7 @@ vut,2012,2.67854
 vut,2013,5.44628
 vut,2014,3.61613
 vut,2015,3.54945
-world,2000,8.60052
+world,2000,8.60055
 world,2001,9.00035
 world,2002,9.35189
 world,2003,9.50017

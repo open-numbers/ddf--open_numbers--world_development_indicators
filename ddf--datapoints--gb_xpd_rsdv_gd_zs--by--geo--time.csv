@@ -944,7 +944,7 @@ lka,2006,0.17412
 lka,2008,0.11446
 lka,2010,0.13694
 lka,2013,0.10083
-lower_middle_income,2000,0.4767
+lower_middle_income,2000,0.4768
 lower_middle_income,2007,0.63844
 lower_middle_income,2009,0.56381
 lso,2002,0.04185
@@ -1446,7 +1446,7 @@ south_asia,1996,0.61235
 south_asia,1997,0.60716
 south_asia,1998,0.61697
 south_asia,1999,0.63985
-south_asia,2000,0.64278
+south_asia,2000,0.64302
 south_asia,2001,0.64913
 south_asia,2002,0.6508
 south_asia,2003,0.70727
@@ -1731,10 +1731,10 @@ vnm,2002,0.17803
 vnm,2011,0.19043
 vnm,2013,0.37404
 world,1996,1.97094
-world,1997,1.96917
+world,1997,1.96916
 world,1998,1.98341
 world,1999,2.05924
-world,2000,2.05635
+world,2000,2.05636
 world,2001,2.08088
 world,2002,2.04109
 world,2003,2.0326

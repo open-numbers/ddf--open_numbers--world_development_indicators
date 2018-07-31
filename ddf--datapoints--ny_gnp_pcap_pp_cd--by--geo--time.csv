@@ -1296,7 +1296,7 @@ dza,2014,13900
 dza,2015,14220
 dza,2016,14870
 dza,2017,15050
-east_asia_pacific,1990,3175.10886
+east_asia_pacific,1990,3175.19264
 east_asia_pacific,1991,3414.02986
 east_asia_pacific,1992,3636.49218
 east_asia_pacific,1993,3889.71321
@@ -1323,7 +1323,6 @@ east_asia_pacific,2013,14380.18984
 east_asia_pacific,2014,15312.51364
 east_asia_pacific,2015,16135.57117
 east_asia_pacific,2016,17052.42347
-east_asia_pacific,2017,18184.16143
 ecu,1990,4450
 ecu,1991,4750
 ecu,1992,4920
@@ -1501,7 +1500,6 @@ europe_central_asia,2013,29261.34975
 europe_central_asia,2014,29973.94607
 europe_central_asia,2015,30334.86046
 europe_central_asia,2016,31051.01359
-europe_central_asia,2017,32540.64435
 fin,1990,17840
 fin,1991,17060
 fin,1992,16550
@@ -1947,7 +1945,7 @@ guy,2014,7210
 guy,2015,7490
 guy,2016,7830
 guy,2017,8120
-high_income,1990,17760.03103
+high_income,1990,17759.87555
 high_income,1991,18576.19046
 high_income,1992,19334.88797
 high_income,1993,19927.25724
@@ -1974,7 +1972,6 @@ high_income,2013,42743.84406
 high_income,2014,43973.31568
 high_income,2015,45105.3942
 high_income,2016,46053.35201
-high_income,2017,47657.03092
 hkg,1990,16950
 hkg,1991,18260
 hkg,1992,19650
@@ -2808,7 +2805,6 @@ low_income,2013,1850.18418
 low_income,2014,1931.12797
 low_income,2015,1938.1458
 low_income,2016,1984.30971
-low_income,2017,2087.58362
 lower_middle_income,1990,1724.50704
 lower_middle_income,1991,1766.22554
 lower_middle_income,1992,1809.96558
@@ -2836,7 +2832,6 @@ lower_middle_income,2013,5703.42327
 lower_middle_income,2014,6071.091
 lower_middle_income,2015,6418.18126
 lower_middle_income,2016,6764.35005
-lower_middle_income,2017,7191.17137
 lso,1990,1430
 lso,1991,1480
 lso,1992,1510
@@ -2939,6 +2934,7 @@ lva,2014,23790
 lva,2015,24400
 lva,2016,25530
 lva,2017,27400
+mac,1990,26430
 mac,1991,27560
 mac,1992,31220
 mac,1993,32650
@@ -3145,7 +3141,6 @@ middle_east_north_africa,2013,17868.15626
 middle_east_north_africa,2014,18326.86047
 middle_east_north_africa,2015,18742.82748
 middle_east_north_africa,2016,19612.73197
-middle_east_north_africa,2017,20007.49342
 mkd,1990,5190
 mkd,1991,5070
 mkd,1992,4740
@@ -4315,7 +4310,6 @@ south_asia,2013,4919.56879
 south_asia,2014,5286.396
 south_asia,2015,5675.2806
 south_asia,2016,6059.59859
-south_asia,2017,6538.40864
 srb,1997,5570
 srb,1998,5770
 srb,1999,5150
@@ -4387,7 +4381,6 @@ sub_saharan_africa,2013,3321.38142
 sub_saharan_africa,2014,3524.03648
 sub_saharan_africa,2015,3608.39893
 sub_saharan_africa,2016,3617.0557
-sub_saharan_africa,2017,3683.09313
 sur,1990,6660
 sur,1991,6930
 sur,1992,6990
@@ -4941,7 +4934,6 @@ upper_middle_income,2013,14399.71596
 upper_middle_income,2014,15257.10145
 upper_middle_income,2015,15761.31147
 upper_middle_income,2016,16524.0973
-upper_middle_income,2017,17558.86401
 ury,1990,6130
 ury,1991,6600
 ury,1992,7270
@@ -5133,7 +5125,7 @@ vut,2014,3050
 vut,2015,2920
 vut,2016,3050
 vut,2017,3170
-world,1990,5381.95115
+world,1990,5381.91656
 world,1991,5570.24941
 world,1992,5733.48361
 world,1993,5933.20678
@@ -5160,7 +5152,6 @@ world,2013,14638.69538
 world,2014,15240.59966
 world,2015,15686.72646
 world,2016,16189.83171
-world,2017,16926.66677
 wsm,1997,2970
 wsm,1998,3060
 wsm,1999,3160
