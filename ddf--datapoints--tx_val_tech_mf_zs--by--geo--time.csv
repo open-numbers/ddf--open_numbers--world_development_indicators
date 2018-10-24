@@ -2115,8 +2115,8 @@ low_income,2009,3.9592
 low_income,2010,1.9781
 low_income,2012,6.55031
 low_income,2013,5.14207
-low_income,2014,4.83083
-low_income,2015,3.49413
+low_income,2014,4.83081
+low_income,2015,3.48796
 lower_middle_income,1994,8.65347
 lower_middle_income,1995,9.19093
 lower_middle_income,1996,12.94129
@@ -3265,7 +3265,7 @@ sub_saharan_africa,2010,2.82935
 sub_saharan_africa,2011,4.41017
 sub_saharan_africa,2012,4.35954
 sub_saharan_africa,2013,4.06922
-sub_saharan_africa,2014,3.95608
+sub_saharan_africa,2014,3.95599
 sur,1994,0.0383
 sur,1995,0.02534
 sur,1996,0.42641
@@ -3364,14 +3364,6 @@ swe,2013,14.05667
 swe,2014,13.88158
 swe,2015,14.25174
 swe,2016,14.28624
-swz,2000,0.40293
-swz,2001,0.78613
-swz,2002,0.48523
-swz,2003,0.29899
-swz,2004,0.10368
-swz,2005,0.07649
-swz,2006,0.13424
-swz,2007,0.11564
 syc,1992,1.04008
 syc,1994,0.02598
 syc,2000,2.08853
@@ -3783,8 +3775,8 @@ world,2010,17.48703
 world,2011,16.34854
 world,2012,16.89179
 world,2013,17.04846
-world,2014,17.0776
-world,2015,18.54256
+world,2014,17.07761
+world,2015,18.54243
 world,2016,17.8838
 wsm,2001,0.50814
 wsm,2002,0.15173
