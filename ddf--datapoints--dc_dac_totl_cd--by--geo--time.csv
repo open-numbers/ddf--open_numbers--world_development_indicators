@@ -2087,7 +2087,6 @@ east_asia_pacific,2013,9642380000
 east_asia_pacific,2014,7397050000
 east_asia_pacific,2015,6623070030.2
 east_asia_pacific,2016,6353960100
-east_asia_pacific,2017,0
 ecu,1960,6020000
 ecu,1961,11000000
 ecu,1962,12080000
@@ -2340,7 +2339,6 @@ europe_central_asia,2013,7554960000
 europe_central_asia,2014,8758170000
 europe_central_asia,2015,6720790000
 europe_central_asia,2016,8174770000
-europe_central_asia,2017,0
 fji,1960,1080000
 fji,1961,980000
 fji,1962,10820000
@@ -3022,7 +3020,6 @@ high_income,2013,174390000
 high_income,2014,348930000
 high_income,2015,69540000
 high_income,2016,194910000
-high_income,2017,0
 hkg,1960,5830000
 hkg,1961,4920000
 hkg,1962,1820000
@@ -4325,7 +4322,6 @@ low_income,2013,24144190000
 low_income,2014,24659070000
 low_income,2015,22790880000
 low_income,2016,22801170000
-low_income,2017,0
 lower_middle_income,1960,1945900000
 lower_middle_income,1961,1927550000
 lower_middle_income,1962,2123580000
@@ -4383,7 +4379,6 @@ lower_middle_income,2013,35757010000
 lower_middle_income,2014,32136890000
 lower_middle_income,2015,29421650000
 lower_middle_income,2016,31632700000
-lower_middle_income,2017,0
 lso,1960,1510000
 lso,1961,4110000
 lso,1962,5750000
@@ -4808,7 +4803,6 @@ middle_east_north_africa,2013,11800380000
 middle_east_north_africa,2014,11679310000
 middle_east_north_africa,2015,10763180000
 middle_east_north_africa,2016,14520060000
-middle_east_north_africa,2017,0
 mkd,1994,63180000
 mkd,1995,35030000
 mkd,1996,55340000
@@ -6776,7 +6770,6 @@ south_asia,2013,10898040000
 south_asia,2014,10767930000
 south_asia,2015,10365880000
 south_asia,2016,9759150000
-south_asia,2017,0
 srb,1994,49220000
 srb,1995,95060000
 srb,1996,69510000
@@ -6908,7 +6901,6 @@ sub_saharan_africa,2013,32601310000
 sub_saharan_africa,2014,32452640000
 sub_saharan_africa,2015,29596310000
 sub_saharan_africa,2016,30202330000
-sub_saharan_africa,2017,0
 sur,1960,8800000
 sur,1961,10300000
 sur,1962,8920000
@@ -7836,7 +7828,6 @@ upper_middle_income,2013,12643460000
 upper_middle_income,2014,13030910001
 upper_middle_income,2015,12016430000.7
 upper_middle_income,2016,16216980000
-upper_middle_income,2017,0
 ury,1960,19050000
 ury,1961,2090000
 ury,1962,3200000
@@ -8221,7 +8212,6 @@ world,2013,108998160000
 world,2014,111085620000
 world,2015,107633830000
 world,2016,119879230000
-world,2017,0
 wsm,1965,10000
 wsm,1966,100000
 wsm,1967,460000
