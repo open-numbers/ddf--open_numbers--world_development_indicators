@@ -4,7 +4,7 @@
 
 import pandas as pd
 import dask.dataframe as dd
-from ddf_utils.chef.ingredient import ProcedureResult
+from ddf_utils.chef.model.ingredient import ConceptIngredient
 from ddf_utils.chef.helpers import debuggable
 from ddf_utils.str import to_concept_id
 
@@ -16,7 +16,7 @@ def topic_to_tag(s):
 
 
 @debuggable
-def generate_tags(chef, ingredients, result) -> ProcedureResult:
+def generate_tags(chef, ingredients, result):
     data = ingredients[0].get_data()
     new_data = dict()
 
@@ -26,4 +26,4 @@ def generate_tags(chef, ingredients, result) -> ProcedureResult:
             df_['tags'] = df_['topic'].map(topic_to_tag)
         new_data[k] = df_
 
-    return ProcedureResult(chef, result, ingredients[0].key, new_data)
+    return ConceptIngredient.from_procedure_result(result, ingredients[0].key, new_data)
