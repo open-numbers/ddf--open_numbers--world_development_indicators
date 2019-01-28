@@ -3043,7 +3043,7 @@ low_income,1987,0
 low_income,1988,0
 low_income,1989,2427828917.6
 low_income,1990,1596606067.2
-low_income,1991,599974900
+low_income,1991,596974900
 low_income,1992,1868827169.6
 low_income,1993,785928387.4
 low_income,1994,715993173
@@ -3056,10 +3056,10 @@ low_income,2000,1175574155.5
 low_income,2001,1349725433.7
 low_income,2002,5480123421.1
 low_income,2003,242722306.1
-low_income,2004,390342737.3
-low_income,2005,2223671966.3
+low_income,2004,369092737.3
+low_income,2005,573671966.3
 low_income,2006,591166910.7
-low_income,2007,1175905102.2
+low_income,2007,1134585102.2
 low_income,2008,762163507.5
 low_income,2009,306391515
 low_income,2010,1569581309.6
@@ -5591,12 +5591,12 @@ upper_middle_income,1993,21499240285.1
 upper_middle_income,1994,79106781540.10001
 upper_middle_income,1995,23700969683.7
 upper_middle_income,1996,20182439250
-upper_middle_income,1997,39229008975
+upper_middle_income,1997,39077755859.9
 upper_middle_income,1998,11088615807.7
 upper_middle_income,1999,15153833184.3
 upper_middle_income,2000,13895992423.3
 upper_middle_income,2001,3272013872.7
-upper_middle_income,2002,6981111780.1
+upper_middle_income,2002,6696010541.3
 upper_middle_income,2003,3690565141.6
 upper_middle_income,2004,4439730483.2
 upper_middle_income,2005,6402806685

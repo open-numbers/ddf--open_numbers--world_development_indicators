@@ -77,8 +77,8 @@ dom,2016,9.08469
 dom,2017,17.95791
 dza,2016,0.08528
 dza,2017,0.08548
-east_asia_pacific,2016,16.01799
-east_asia_pacific,2017,16.87802
+east_asia_pacific,2016,16.01655
+east_asia_pacific,2017,16.87651
 ecu,2016,13.05064
 ecu,2017,13.34617
 egy,2016,4.95156
@@ -88,8 +88,8 @@ esp,2016,8.72989
 esp,2017,8.37411
 est,2016,18.62633
 est,2017,18.62044
-europe_central_asia,2016,4.8151
-europe_central_asia,2017,5.56084
+europe_central_asia,2016,4.78085
+europe_central_asia,2017,5.52082
 fin,2016,11.13029
 fin,2017,10.50996
 fji,2016,0.92441
@@ -131,8 +131,8 @@ gum,2016,0.00889
 gum,2017,0.00907
 guy,2016,0.01242
 guy,2017,0.01271
-high_income,2016,21.09324
-high_income,2017,21.93752
+high_income,2016,20.96858
+high_income,2017,21.80839
 hnd,2016,4.18282
 hnd,2017,4.15707
 hrv,2016,8.54092
@@ -183,8 +183,8 @@ lca,2016,0.2185
 lca,2017,0.21855
 lka,2016,0.07471
 lka,2017,0.07463
-lower_middle_income,2016,3.03201
-lower_middle_income,2017,3.13118
+lower_middle_income,2016,1.50835
+lower_middle_income,2017,1.61961
 ltu,2016,21.51591
 ltu,2017,25.59103
 lva,2016,16.03554
@@ -319,8 +319,8 @@ tza,2016,2.49579
 tza,2017,3.01503
 ukr,2016,3.41506
 ukr,2017,3.41516
-upper_middle_income,2016,2.68207
-upper_middle_income,2017,7.9626
+upper_middle_income,2016,2.68208
+upper_middle_income,2017,7.96265
 ury,2016,0.71638
 ury,2017,0.71604
 usa,2016,41.08292
@@ -337,8 +337,8 @@ vnm,2016,0.56085
 vnm,2017,0.56089
 vut,2016,0.00772
 vut,2017,0.00764
-world,2016,8.76133
-world,2017,11.4769
+world,2016,8.62984
+world,2017,11.38444
 wsm,2016,0.08541
 wsm,2017,0.0868
 yem,2016,0.46751
