@@ -1059,7 +1059,7 @@ east_asia_pacific,1990,1.08545
 east_asia_pacific,1992,1.09401
 east_asia_pacific,1997,1.10498
 east_asia_pacific,2002,1.1112
-east_asia_pacific,2007,1.11693
+east_asia_pacific,2007,1.11694
 east_asia_pacific,2008,1.11624
 east_asia_pacific,2009,1.11551
 east_asia_pacific,2010,1.1142
@@ -1068,7 +1068,8 @@ east_asia_pacific,2012,1.11304
 east_asia_pacific,2013,1.11199
 east_asia_pacific,2014,1.11147
 east_asia_pacific,2015,1.10973
-east_asia_pacific,2016,1.1086
+east_asia_pacific,2016,1.11034
+east_asia_pacific,2017,1.10839
 ecu,1962,1.05
 ecu,1967,1.05
 ecu,1972,1.05
@@ -1203,18 +1204,19 @@ europe_central_asia,1982,1.05462
 europe_central_asia,1987,1.05532
 europe_central_asia,1990,1.05666
 europe_central_asia,1992,1.05755
-europe_central_asia,1997,1.05872
-europe_central_asia,2002,1.05957
-europe_central_asia,2007,1.05947
-europe_central_asia,2008,1.05962
-europe_central_asia,2009,1.05969
-europe_central_asia,2010,1.05988
+europe_central_asia,1997,1.05871
+europe_central_asia,2002,1.05953
+europe_central_asia,2007,1.05945
+europe_central_asia,2008,1.0596
+europe_central_asia,2009,1.05968
+europe_central_asia,2010,1.05987
 europe_central_asia,2011,1.06003
 europe_central_asia,2012,1.06011
 europe_central_asia,2013,1.05989
-europe_central_asia,2014,1.05958
+europe_central_asia,2014,1.05957
 europe_central_asia,2015,1.05943
-europe_central_asia,2016,1.05905
+europe_central_asia,2016,1.05904
+europe_central_asia,2017,1.05861
 fin,1962,1.048
 fin,1967,1.047
 fin,1972,1.052
@@ -1580,7 +1582,7 @@ high_income,1982,1.05411
 high_income,1987,1.05647
 high_income,1990,1.05644
 high_income,1992,1.05716
-high_income,1997,1.05471
+high_income,1997,1.05473
 high_income,2002,1.05381
 high_income,2007,1.05243
 high_income,2008,1.05244
@@ -1591,7 +1593,8 @@ high_income,2012,1.05242
 high_income,2013,1.05217
 high_income,2014,1.05213
 high_income,2015,1.0521
-high_income,2016,1.05196
+high_income,2016,1.05199
+high_income,2017,1.05187
 hkg,1962,1.067
 hkg,1967,1.067
 hkg,1972,1.067
@@ -2221,6 +2224,7 @@ low_income,2013,1.03741
 low_income,2014,1.03737
 low_income,2015,1.03735
 low_income,2016,1.03732
+low_income,2017,1.03729
 lower_middle_income,1962,1.05532
 lower_middle_income,1967,1.05515
 lower_middle_income,1972,1.05503
@@ -2230,7 +2234,7 @@ lower_middle_income,1987,1.05971
 lower_middle_income,1990,1.06542
 lower_middle_income,1992,1.06921
 lower_middle_income,1997,1.07441
-lower_middle_income,2002,1.07875
+lower_middle_income,2002,1.07876
 lower_middle_income,2007,1.07898
 lower_middle_income,2008,1.07887
 lower_middle_income,2009,1.07876
@@ -2241,6 +2245,7 @@ lower_middle_income,2013,1.07774
 lower_middle_income,2014,1.07745
 lower_middle_income,2015,1.07675
 lower_middle_income,2016,1.07652
+lower_middle_income,2017,1.07591
 lso,1962,1.03
 lso,1967,1.03
 lso,1972,1.03
@@ -2471,6 +2476,7 @@ middle_east_north_africa,2013,1.05546
 middle_east_north_africa,2014,1.05524
 middle_east_north_africa,2015,1.05476
 middle_east_north_africa,2016,1.05451
+middle_east_north_africa,2017,1.05427
 mli,1962,1.05
 mli,1967,1.05
 mli,1972,1.05
@@ -3430,6 +3436,7 @@ south_asia,2013,1.09686
 south_asia,2014,1.09683
 south_asia,2015,1.09613
 south_asia,2016,1.09614
+south_asia,2017,1.09547
 srb,1990,1.052
 srb,1992,1.052
 srb,1997,1.052
@@ -3507,6 +3514,7 @@ sub_saharan_africa,2013,1.03871
 sub_saharan_africa,2014,1.03872
 sub_saharan_africa,2015,1.03874
 sub_saharan_africa,2016,1.03875
+sub_saharan_africa,2017,1.03876
 sur,1962,1.08
 sur,1967,1.08
 sur,1972,1.08
@@ -3923,9 +3931,10 @@ upper_middle_income,2010,1.1027
 upper_middle_income,2011,1.10192
 upper_middle_income,2012,1.10127
 upper_middle_income,2013,1.10033
-upper_middle_income,2014,1.10004
+upper_middle_income,2014,1.10003
 upper_middle_income,2015,1.09863
-upper_middle_income,2016,1.0978
+upper_middle_income,2016,1.09968
+upper_middle_income,2017,1.09795
 ury,1962,1.05
 ury,1967,1.05
 ury,1972,1.05
@@ -4103,7 +4112,7 @@ world,1987,1.05917
 world,1990,1.06569
 world,1992,1.0693
 world,1997,1.07405
-world,2002,1.07627
+world,2002,1.07628
 world,2007,1.07641
 world,2008,1.07607
 world,2009,1.07575
@@ -4113,7 +4122,8 @@ world,2012,1.0748
 world,2013,1.07415
 world,2014,1.07391
 world,2015,1.07307
-world,2016,1.07262
+world,2016,1.07336
+world,2017,1.07242
 wsm,1962,1.08
 wsm,1967,1.08
 wsm,1972,1.08

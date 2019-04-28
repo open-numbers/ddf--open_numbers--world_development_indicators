@@ -100,7 +100,7 @@ dom,2016,2.2
 dza,2010,0.2
 dza,2016,0.2
 east_asia_pacific,2010,2.25269
-east_asia_pacific,2016,2.23939
+east_asia_pacific,2016,2.23937
 ecu,2010,2.1
 ecu,2016,1.5
 egy,2010,0.1
@@ -113,8 +113,8 @@ est,2010,5.5
 est,2016,4.9
 eth,2010,0.9
 eth,2016,0.8
-europe_central_asia,2010,4.87034
-europe_central_asia,2016,4.21851
+europe_central_asia,2010,4.87064
+europe_central_asia,2016,4.2185
 fin,2010,5.5
 fin,2016,4.4
 fji,2010,0.8
@@ -147,8 +147,8 @@ gtm,2010,1.1
 gtm,2016,0.7
 guy,2010,1.8
 guy,2016,1.9
-high_income,2010,4.07524
-high_income,2016,4.03693
+high_income,2010,4.07519
+high_income,2016,4.0369
 hnd,2010,1.2
 hnd,2016,1.2
 hrv,2010,4.5
@@ -209,8 +209,8 @@ lka,2010,1.1
 lka,2016,1.2
 low_income,2010,1.20136
 low_income,2016,1.05757
-lower_middle_income,2010,1.30666
-lower_middle_income,2016,1.47587
+lower_middle_income,2010,1.30652
+lower_middle_income,2016,1.47588
 lso,2010,1.9
 lso,2016,1.3
 ltu,2010,7.1
@@ -377,8 +377,8 @@ vnm,2010,1.3
 vnm,2016,2.5
 vut,2010,0.3
 vut,2016,0.2
-world,2010,2.38599
-world,2016,2.27555
+world,2010,2.38592
+world,2016,2.27545
 wsm,2010,0.7
 wsm,2016,0.6
 yem,2010,0.1

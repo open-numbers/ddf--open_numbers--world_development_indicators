@@ -826,7 +826,7 @@ europe_central_asia,2014,13.97959
 europe_central_asia,2015,12.01633
 europe_central_asia,2016,11.6551
 europe_central_asia,2017,11.36939
-europe_central_asia,2018,11.66531
+europe_central_asia,2018,11.66735
 fin,2003,31
 fin,2004,17
 fin,2005,17
@@ -1087,7 +1087,7 @@ high_income,2014,14.72034
 high_income,2015,12.22203
 high_income,2016,12.11864
 high_income,2017,11.5
-high_income,2018,10.99153
+high_income,2018,10.99492
 hkg,2003,11
 hkg,2004,11
 hkg,2005,11
@@ -1241,7 +1241,7 @@ isl,2014,12
 isl,2015,12
 isl,2016,11.5
 isl,2017,11.5
-isl,2018,11.5
+isl,2018,11.6
 isr,2003,19
 isr,2004,19
 isr,2005,19
@@ -1724,7 +1724,7 @@ middle_east_north_africa,2014,22.24762
 middle_east_north_africa,2015,22.3
 middle_east_north_africa,2016,23.31905
 middle_east_north_africa,2017,21.24762
-middle_east_north_africa,2018,20.3381
+middle_east_north_africa,2018,20.34286
 mli,2003,33
 mli,2004,33
 mli,2005,27
@@ -1748,7 +1748,7 @@ mlt,2014,33.5
 mlt,2015,28
 mlt,2016,26
 mlt,2017,16
-mlt,2018,15.9
+mlt,2018,16
 mmr,2012,77
 mmr,2013,77
 mmr,2014,77
@@ -2815,7 +2815,7 @@ world,2014,24.06455
 world,2015,23.14368
 world,2016,22.74316
 world,2017,21.25895
-world,2018,20.11789
+world,2018,20.11895
 wsm,2003,42
 wsm,2004,42
 wsm,2005,35

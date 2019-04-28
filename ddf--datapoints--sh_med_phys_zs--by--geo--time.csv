@@ -1119,9 +1119,9 @@ dza,2002,1.106
 dza,2005,1.021
 dza,2007,1.192
 dza,2010,1.207
-east_asia_pacific,1990,0.93974
+east_asia_pacific,1990,0.93975
 east_asia_pacific,2000,1.0793
-east_asia_pacific,2013,1.56583
+east_asia_pacific,2013,1.56582
 ecu,1960,0.396
 ecu,1965,0.335
 ecu,1970,0.348
@@ -1244,8 +1244,8 @@ eth,2008,0.025
 eth,2009,0.025
 eth,2010,0.022
 europe_central_asia,1990,3.01434
-europe_central_asia,2000,3.20568
-europe_central_asia,2013,3.35927
+europe_central_asia,2000,3.20498
+europe_central_asia,2013,3.35919
 fin,1990,2
 fin,1991,2
 fin,1992,2.1
@@ -1587,9 +1587,9 @@ guy,1997,0.181
 guy,2000,0.493
 guy,2009,0.214
 guy,2010,0.214
-high_income,1990,2.13592
-high_income,2000,2.6489
-high_income,2013,3.0079
+high_income,1990,2.13588
+high_income,2000,2.64888
+high_income,2013,3.00796
 hkg,1960,0.327
 hkg,1965,0.396
 hkg,1970,0.663
@@ -2309,8 +2309,8 @@ low_income,1990,0.13462
 low_income,2000,0.16589
 low_income,2013,0.31109
 lower_middle_income,1990,0.88558
-lower_middle_income,2000,0.60481
-lower_middle_income,2013,0.70275
+lower_middle_income,2000,0.60417
+lower_middle_income,2013,0.70266
 lso,1960,0.042
 lso,1965,0.048
 lso,1970,0.032
@@ -4144,8 +4144,8 @@ vut,2008,0.115
 vut,2010,0.116
 vut,2012,0.186
 world,1990,1.25826
-world,2000,1.28895
-world,2013,1.48902
+world,2000,1.28876
+world,2013,1.48896
 wsm,1960,0.441
 wsm,1970,0.35
 wsm,1980,0.361

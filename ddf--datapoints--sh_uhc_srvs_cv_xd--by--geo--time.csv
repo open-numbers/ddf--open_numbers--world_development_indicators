@@ -34,13 +34,13 @@ deu,2015,79
 dji,2015,47
 dnk,2015,80
 dom,2015,74
-east_asia_pacific,2015,71.52587
+east_asia_pacific,2015,71.52566
 ecu,2015,75
 egy,2015,68
 esp,2015,77
 est,2015,76
 eth,2015,39
-europe_central_asia,2015,73.41403
+europe_central_asia,2015,73.41394
 fin,2015,79
 fji,2015,66
 gab,2015,52
@@ -50,7 +50,7 @@ gha,2015,45
 gin,2015,35
 grc,2015,70
 gtm,2015,57
-high_income,2015,80.09231
+high_income,2015,80.09145
 hnd,2015,64
 hrv,2015,69
 hun,2015,70
@@ -74,7 +74,7 @@ lbn,2015,68
 lbr,2015,34
 lka,2015,62
 low_income,2015,41.00519
-lower_middle_income,2015,53.62675
+lower_middle_income,2015,53.62678
 lso,2015,45
 ltu,2015,67
 lux,2015,80
@@ -133,7 +133,7 @@ upper_middle_income,2015,73.76215
 ury,2015,79
 usa,2015,80
 vnm,2015,73
-world,2015,63.74458
+world,2015,63.74369
 yem,2015,39
 zaf,2015,67
 zmb,2015,56

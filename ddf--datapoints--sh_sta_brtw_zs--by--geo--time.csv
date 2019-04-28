@@ -214,8 +214,8 @@ est,2001,4
 est,2012,4.6
 eth,2000,14.9
 eth,2005,20
-europe_central_asia,2000,8.2807
-europe_central_asia,2010,7.12937
+europe_central_asia,2000,8.28188
+europe_central_asia,2010,7.12977
 fin,2001,4
 fin,2012,4.2
 fji,1998,9.5
@@ -270,8 +270,8 @@ guy,2004,12.6
 guy,2005,12.6
 guy,2006,18.9
 guy,2009,14.3
-high_income,2000,7.16696
-high_income,2010,7.58593
+high_income,2000,7.1675
+high_income,2010,7.58616
 hkg,2000,5
 hnd,2001,14.3
 hnd,2006,10.2
@@ -375,7 +375,7 @@ lka,2005,17.6
 lka,2007,17
 low_income,2000,14.22699
 low_income,2010,13.58716
-lower_middle_income,2000,22.60119
+lower_middle_income,2000,22.60243
 lso,2000,14.2
 lso,2004,12.6
 lso,2009,10.7
@@ -615,7 +615,7 @@ ukr,2003,5.3
 ukr,2005,4.3
 ukr,2007,4
 ukr,2011,5.3
-upper_middle_income,2000,5.7252
+upper_middle_income,2000,5.72523
 upper_middle_income,2010,5.81454
 ury,2002,8
 ury,2006,8.5
@@ -651,8 +651,8 @@ vnm,2009,5.3
 vnm,2011,5.1
 vut,2001,5.6
 vut,2007,10
-world,2000,15.2817
-world,2010,10.54922
+world,2000,15.28249
+world,2010,10.54939
 wsm,1997,3.9
 wsm,2009,10.2
 yem,1997,31.9

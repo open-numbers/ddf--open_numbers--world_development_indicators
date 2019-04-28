@@ -108,8 +108,8 @@ est,2007,0.00694
 est,2010,0
 eth,1999,0.63807
 eth,2004,0.43927
-europe_central_asia,2000,0.27075
-europe_central_asia,2005,0.1617
+europe_central_asia,2000,0.26989
+europe_central_asia,2005,0.16071
 fin,1998,0
 fin,2010,0
 gab,2005,0.63653
@@ -255,9 +255,9 @@ lka,2009,0.0475
 low_income,2000,1.59378
 low_income,2005,1.33028
 low_income,2010,0.96399
-lower_middle_income,2000,3.56922
-lower_middle_income,2005,2.79978
-lower_middle_income,2010,2.64276
+lower_middle_income,2000,3.56944
+lower_middle_income,2005,2.79985
+lower_middle_income,2010,2.64272
 ltu,1998,0.03182
 ltu,1999,0
 ltu,2000,0.0788
@@ -515,9 +515,9 @@ vnm,2006,3.19918
 vnm,2008,1.78299
 vnm,2010,1.06489
 vnm,2012,0.75163
-world,2000,2.20121
-world,2005,1.97088
-world,2010,1.59467
+world,2000,2.20122
+world,2005,1.97087
+world,2010,1.59463
 zaf,2000,0.2502
 zaf,2005,0.64486
 zaf,2010,0.44913
