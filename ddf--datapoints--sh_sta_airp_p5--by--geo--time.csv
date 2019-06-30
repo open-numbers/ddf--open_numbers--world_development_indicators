@@ -47,14 +47,14 @@ dji,2016,159
 dnk,2016,13.2
 dom,2016,43
 dza,2016,49.7
-east_asia_pacific,2016,104.98412
+east_asia_pacific,2016,105.03377
 ecu,2016,24.5
 egy,2016,108.9
 eri,2016,173.7
 esp,2016,9.9
 est,2016,25
 eth,2016,144.4
-europe_central_asia,2016,36.33896
+europe_central_asia,2016,36.32912
 fin,2016,7.2
 fji,2016,99
 fra,2016,9.7
@@ -71,7 +71,7 @@ grc,2016,27.6
 grd,2016,45.3
 gtm,2016,73.8
 guy,2016,107.8
-high_income,2016,18.14302
+high_income,2016,17.83632
 hnd,2016,60.7
 hrv,2016,35.5
 hti,2016,184.3
@@ -100,8 +100,8 @@ lbr,2016,170.2
 lby,2016,71.9
 lca,2016,30
 lka,2016,79.8
-low_income,2016,171.17632
-lower_middle_income,2016,166.48873
+low_income,2016,172.68265
+lower_middle_income,2016,167.11316
 lso,2016,177.6
 ltu,2016,34
 lux,2016,11.6
@@ -111,7 +111,7 @@ mda,2016,78.3
 mdg,2016,159.6
 mdv,2016,25.6
 mex,2016,36.7
-middle_east_north_africa,2016,78.70659
+middle_east_north_africa,2016,78.51108
 mli,2016,209.1
 mlt,2016,20.2
 mmr,2016,156.4
@@ -152,11 +152,11 @@ slb,2016,137
 sle,2016,324.1
 slv,2016,41.9
 som,2016,212.8
-south_asia,2016,179.23507
+south_asia,2016,179.28457
 srb,2016,62.5
 ssd,2016,165.1
 stp,2016,162.4
-sub_saharan_africa,2016,186.69158
+sub_saharan_africa,2016,187.08841
 sur,2016,56.7
 svk,2016,33.5
 svn,2016,22.6
@@ -176,7 +176,7 @@ tur,2016,46.6
 tza,2016,139
 uga,2016,155.7
 ukr,2016,70.7
-upper_middle_income,2016,83.27725
+upper_middle_income,2016,82.48195
 ury,2016,17.5
 usa,2016,13.3
 uzb,2016,81.1
@@ -184,7 +184,7 @@ vct,2016,47.6
 ven,2016,34.6
 vnm,2016,64.5
 vut,2016,135.6
-world,2016,114.04005
+world,2016,114.14958
 wsm,2016,85
 yem,2016,194.2
 zaf,2016,86.7

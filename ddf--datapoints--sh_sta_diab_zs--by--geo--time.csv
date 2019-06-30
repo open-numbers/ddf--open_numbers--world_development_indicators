@@ -53,14 +53,14 @@ dma,2017,11.62
 dnk,2017,6.41
 dom,2017,8.2
 dza,2017,6.73
-east_asia_pacific,2017,8.57232
+east_asia_pacific,2017,8.57122
 ecu,2017,5.55
 egy,2017,17.31
 eri,2017,6.05
 esp,2017,7.17
 est,2017,4.02
 eth,2017,7.47
-europe_central_asia,2017,6.8004
+europe_central_asia,2017,6.80212
 fin,2017,5.76
 fji,2017,14.49
 fra,2017,4.77
@@ -79,7 +79,7 @@ grl,2017,2.16
 gtm,2017,10.18
 gum,2017,21.52
 guy,2017,11.62
-high_income,2017,7.85313
+high_income,2017,7.93394
 hkg,2017,8.33
 hnd,2017,7.21
 hrv,2017,5.59
@@ -111,8 +111,8 @@ lby,2017,10.43
 lca,2017,11.62
 lie,2017,7.77
 lka,2017,10.68
-low_income,2017,5.40012
-lower_middle_income,2017,8.71005
+low_income,2017,5.54463
+lower_middle_income,2017,8.63964
 lso,2017,3.94
 ltu,2017,3.67
 lux,2017,4.42
@@ -124,7 +124,7 @@ mdg,2017,3.94
 mdv,2017,9.19
 mex,2017,13.06
 mhl,2017,30.53
-middle_east_north_africa,2017,11.42823
+middle_east_north_africa,2017,11.44106
 mli,2017,2.42
 mlt,2017,8.83
 mmr,2017,4.61
@@ -173,11 +173,11 @@ sle,2017,2.42
 slv,2017,8.87
 smr,2017,5.64
 som,2017,6.05
-south_asia,2017,9.93784
+south_asia,2017,9.93553
 srb,2017,10.08
 ssd,2017,10.43
 stp,2017,2.42
-sub_saharan_africa,2017,4.84788
+sub_saharan_africa,2017,4.8571
 sur,2017,12.54
 svk,2017,7.29
 svn,2017,7.25
@@ -198,7 +198,7 @@ tuv,2017,27.25
 tza,2017,5.75
 uga,2017,2.5
 ukr,2017,7.11
-upper_middle_income,2017,9.28398
+upper_middle_income,2017,9.22978
 ury,2017,6.93
 usa,2017,10.79
 uzb,2017,7.57
@@ -208,7 +208,7 @@ vgb,2017,13.67
 vir,2017,12.26
 vnm,2017,6
 vut,2017,12.02
-world,2017,8.50947
+world,2017,8.51272
 wsm,2017,9.21
 yem,2017,5.35
 zaf,2017,5.52

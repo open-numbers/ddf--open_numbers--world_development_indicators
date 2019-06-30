@@ -4,11 +4,11 @@
         "name": "English",
         "id": "en"
     },
-    "author": "Gapminder",
-    "created": "2019-04-28T12:09:40.701969+00:00",
-    "description": "Gapminder's World Development Indicators",
-    "license": "MIT",
     "title": "Gapminder's World Development Indicators",
+    "description": "Gapminder's World Development Indicators",
+    "author": "Gapminder",
+    "license": "MIT",
+    "created": "2019-06-30T12:12:30.147469+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -970,6 +970,48 @@
                     },
                     {
                         "name": "bm_gsr_totl_cd"
+                    }
+                ],
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--bm_gsr_tran_zs--by--geo--time",
+            "path": "ddf--datapoints--bm_gsr_tran_zs--by--geo--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "bm_gsr_tran_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--bm_gsr_trvl_zs--by--geo--time",
+            "path": "ddf--datapoints--bm_gsr_trvl_zs--by--geo--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "bm_gsr_trvl_zs"
                     }
                 ],
                 "primaryKey": [
@@ -32857,6 +32899,48 @@
             }
         },
         {
+            "name": "ddf--datapoints--tm_val_tran_zs_wt--by--geo--time",
+            "path": "ddf--datapoints--tm_val_tran_zs_wt--by--geo--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "tm_val_tran_zs_wt"
+                    }
+                ],
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--tm_val_trvl_zs_wt--by--geo--time",
+            "path": "ddf--datapoints--tm_val_trvl_zs_wt--by--geo--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "tm_val_trvl_zs_wt"
+                    }
+                ],
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--tt_pri_mrch_xd_wd--by--geo--time",
             "path": "ddf--datapoints--tt_pri_mrch_xd_wd--by--geo--time.csv",
             "schema": {
@@ -33016,6 +33100,27 @@
                     },
                     {
                         "name": "tx_val_ictg_zs_un"
+                    }
+                ],
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--tx_val_insf_zs_wt--by--geo--time",
+            "path": "ddf--datapoints--tx_val_insf_zs_wt--by--geo--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "tx_val_insf_zs_wt"
                     }
                 ],
                 "primaryKey": [
@@ -37129,6 +37234,106 @@
                     "country",
                     "time"
                 ],
+                "value": "bm_gsr_tran_zs",
+                "resources": [
+                    "ddf--datapoints--bm_gsr_tran_zs--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "bm_gsr_tran_zs",
+                "resources": [
+                    "ddf--datapoints--bm_gsr_tran_zs--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "bm_gsr_tran_zs",
+                "resources": [
+                    "ddf--datapoints--bm_gsr_tran_zs--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "income_groups",
+                    "time"
+                ],
+                "value": "bm_gsr_tran_zs",
+                "resources": [
+                    "ddf--datapoints--bm_gsr_tran_zs--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_6region"
+                ],
+                "value": "bm_gsr_tran_zs",
+                "resources": [
+                    "ddf--datapoints--bm_gsr_tran_zs--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "bm_gsr_trvl_zs",
+                "resources": [
+                    "ddf--datapoints--bm_gsr_trvl_zs--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "bm_gsr_trvl_zs",
+                "resources": [
+                    "ddf--datapoints--bm_gsr_trvl_zs--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "bm_gsr_trvl_zs",
+                "resources": [
+                    "ddf--datapoints--bm_gsr_trvl_zs--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "income_groups",
+                    "time"
+                ],
+                "value": "bm_gsr_trvl_zs",
+                "resources": [
+                    "ddf--datapoints--bm_gsr_trvl_zs--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_6region"
+                ],
+                "value": "bm_gsr_trvl_zs",
+                "resources": [
+                    "ddf--datapoints--bm_gsr_trvl_zs--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
                 "value": "bm_klt_dinv_cd_wd",
                 "resources": [
                     "ddf--datapoints--bm_klt_dinv_cd_wd--by--geo--time"
@@ -54466,6 +54671,36 @@
             },
             {
                 "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "er_h2o_fwag_zs",
+                "resources": [
+                    "ddf--datapoints--er_h2o_fwag_zs--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "income_groups",
+                    "time"
+                ],
+                "value": "er_h2o_fwag_zs",
+                "resources": [
+                    "ddf--datapoints--er_h2o_fwag_zs--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_6region"
+                ],
+                "value": "er_h2o_fwag_zs",
+                "resources": [
+                    "ddf--datapoints--er_h2o_fwag_zs--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
                     "country",
                     "time"
                 ],
@@ -54478,6 +54713,36 @@
                 "primaryKey": [
                     "geo",
                     "time"
+                ],
+                "value": "er_h2o_fwdm_zs",
+                "resources": [
+                    "ddf--datapoints--er_h2o_fwdm_zs--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "er_h2o_fwdm_zs",
+                "resources": [
+                    "ddf--datapoints--er_h2o_fwdm_zs--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "income_groups",
+                    "time"
+                ],
+                "value": "er_h2o_fwdm_zs",
+                "resources": [
+                    "ddf--datapoints--er_h2o_fwdm_zs--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_6region"
                 ],
                 "value": "er_h2o_fwdm_zs",
                 "resources": [
@@ -54498,6 +54763,36 @@
                 "primaryKey": [
                     "geo",
                     "time"
+                ],
+                "value": "er_h2o_fwin_zs",
+                "resources": [
+                    "ddf--datapoints--er_h2o_fwin_zs--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "er_h2o_fwin_zs",
+                "resources": [
+                    "ddf--datapoints--er_h2o_fwin_zs--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "income_groups",
+                    "time"
+                ],
+                "value": "er_h2o_fwin_zs",
+                "resources": [
+                    "ddf--datapoints--er_h2o_fwin_zs--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_6region"
                 ],
                 "value": "er_h2o_fwin_zs",
                 "resources": [
@@ -54596,6 +54891,26 @@
             },
             {
                 "primaryKey": [
+                    "income_groups",
+                    "time"
+                ],
+                "value": "er_h2o_fwtl_zs",
+                "resources": [
+                    "ddf--datapoints--er_h2o_fwtl_zs--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_6region"
+                ],
+                "value": "er_h2o_fwtl_zs",
+                "resources": [
+                    "ddf--datapoints--er_h2o_fwtl_zs--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
                     "country",
                     "time"
                 ],
@@ -54858,36 +55173,6 @@
                 "primaryKey": [
                     "geo",
                     "time"
-                ],
-                "value": "fb_ast_nper_zs",
-                "resources": [
-                    "ddf--datapoints--fb_ast_nper_zs--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "fb_ast_nper_zs",
-                "resources": [
-                    "ddf--datapoints--fb_ast_nper_zs--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "income_groups",
-                    "time"
-                ],
-                "value": "fb_ast_nper_zs",
-                "resources": [
-                    "ddf--datapoints--fb_ast_nper_zs--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "time",
-                    "world_6region"
                 ],
                 "value": "fb_ast_nper_zs",
                 "resources": [
@@ -54958,36 +55243,6 @@
                 "primaryKey": [
                     "geo",
                     "time"
-                ],
-                "value": "fb_bnk_capa_zs",
-                "resources": [
-                    "ddf--datapoints--fb_bnk_capa_zs--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "fb_bnk_capa_zs",
-                "resources": [
-                    "ddf--datapoints--fb_bnk_capa_zs--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "income_groups",
-                    "time"
-                ],
-                "value": "fb_bnk_capa_zs",
-                "resources": [
-                    "ddf--datapoints--fb_bnk_capa_zs--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "time",
-                    "world_6region"
                 ],
                 "value": "fb_bnk_capa_zs",
                 "resources": [
@@ -56667,6 +56922,16 @@
             {
                 "primaryKey": [
                     "geo",
+                    "time"
+                ],
+                "value": "gc_lbl_totl_gd_zs",
+                "resources": [
+                    "ddf--datapoints--gc_lbl_totl_gd_zs--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
                     "time"
                 ],
                 "value": "gc_lbl_totl_gd_zs",
@@ -56937,6 +57202,16 @@
             {
                 "primaryKey": [
                     "geo",
+                    "time"
+                ],
+                "value": "gc_rev_socl_zs",
+                "resources": [
+                    "ddf--datapoints--gc_rev_socl_zs--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
                     "time"
                 ],
                 "value": "gc_rev_socl_zs",
@@ -63578,6 +63853,36 @@
                 "primaryKey": [
                     "geo",
                     "time"
+                ],
+                "value": "is_rrs_totl_km",
+                "resources": [
+                    "ddf--datapoints--is_rrs_totl_km--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "is_rrs_totl_km",
+                "resources": [
+                    "ddf--datapoints--is_rrs_totl_km--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "income_groups",
+                    "time"
+                ],
+                "value": "is_rrs_totl_km",
+                "resources": [
+                    "ddf--datapoints--is_rrs_totl_km--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_6region"
                 ],
                 "value": "is_rrs_totl_km",
                 "resources": [
@@ -85336,6 +85641,16 @@
             },
             {
                 "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "sh_xpd_ghed_ge_zs",
+                "resources": [
+                    "ddf--datapoints--sh_xpd_ghed_ge_zs--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
                     "income_groups",
                     "time"
                 ],
@@ -98969,6 +99284,106 @@
                     "country",
                     "time"
                 ],
+                "value": "tm_val_tran_zs_wt",
+                "resources": [
+                    "ddf--datapoints--tm_val_tran_zs_wt--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "tm_val_tran_zs_wt",
+                "resources": [
+                    "ddf--datapoints--tm_val_tran_zs_wt--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "tm_val_tran_zs_wt",
+                "resources": [
+                    "ddf--datapoints--tm_val_tran_zs_wt--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "income_groups",
+                    "time"
+                ],
+                "value": "tm_val_tran_zs_wt",
+                "resources": [
+                    "ddf--datapoints--tm_val_tran_zs_wt--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_6region"
+                ],
+                "value": "tm_val_tran_zs_wt",
+                "resources": [
+                    "ddf--datapoints--tm_val_tran_zs_wt--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "tm_val_trvl_zs_wt",
+                "resources": [
+                    "ddf--datapoints--tm_val_trvl_zs_wt--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "tm_val_trvl_zs_wt",
+                "resources": [
+                    "ddf--datapoints--tm_val_trvl_zs_wt--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "tm_val_trvl_zs_wt",
+                "resources": [
+                    "ddf--datapoints--tm_val_trvl_zs_wt--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "income_groups",
+                    "time"
+                ],
+                "value": "tm_val_trvl_zs_wt",
+                "resources": [
+                    "ddf--datapoints--tm_val_trvl_zs_wt--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_6region"
+                ],
+                "value": "tm_val_trvl_zs_wt",
+                "resources": [
+                    "ddf--datapoints--tm_val_trvl_zs_wt--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
                 "value": "tt_pri_mrch_xd_wd",
                 "resources": [
                     "ddf--datapoints--tt_pri_mrch_xd_wd--by--geo--time"
@@ -99252,6 +99667,56 @@
                 "value": "tx_val_ictg_zs_un",
                 "resources": [
                     "ddf--datapoints--tx_val_ictg_zs_un--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "tx_val_insf_zs_wt",
+                "resources": [
+                    "ddf--datapoints--tx_val_insf_zs_wt--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "tx_val_insf_zs_wt",
+                "resources": [
+                    "ddf--datapoints--tx_val_insf_zs_wt--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "tx_val_insf_zs_wt",
+                "resources": [
+                    "ddf--datapoints--tx_val_insf_zs_wt--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "income_groups",
+                    "time"
+                ],
+                "value": "tx_val_insf_zs_wt",
+                "resources": [
+                    "ddf--datapoints--tx_val_insf_zs_wt--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "time",
+                    "world_6region"
+                ],
+                "value": "tx_val_insf_zs_wt",
+                "resources": [
+                    "ddf--datapoints--tx_val_insf_zs_wt--by--geo--time"
                 ]
             },
             {

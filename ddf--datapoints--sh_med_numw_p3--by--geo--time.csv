@@ -394,9 +394,9 @@ dom,2011,1.334
 dza,2002,2.18
 dza,2007,1.924
 dza,2010,1.947
-east_asia_pacific,1990,1.2756
-east_asia_pacific,2000,1.81864
-east_asia_pacific,2013,2.83587
+east_asia_pacific,1990,1.27562
+east_asia_pacific,2000,1.81866
+east_asia_pacific,2013,2.83529
 ecu,1990,1.6
 ecu,1991,1.667
 ecu,1992,1.689
@@ -461,7 +461,7 @@ eth,2007,0.224
 eth,2008,0.202
 eth,2009,0.252
 eth,2010,0.236
-europe_central_asia,2013,8.22321
+europe_central_asia,2013,8.22283
 fin,2002,15.075
 fin,2006,8.92
 fin,2007,15.52
@@ -557,7 +557,7 @@ gtm,2009,0.864
 guy,2000,2.342
 guy,2009,1.317
 guy,2010,0.53
-high_income,2013,8.68365
+high_income,2013,8.911
 hnd,2000,1.366
 hnd,2005,1.133
 hrv,2006,5.46
@@ -803,8 +803,8 @@ lka,2008,1.507
 lka,2009,1.559
 lka,2010,1.751
 lka,2015,2.794
-low_income,2013,0.82195
-lower_middle_income,2013,1.76075
+low_income,2013,0.82471
+lower_middle_income,2013,1.73839
 lso,2003,0.591
 ltu,2006,7.65
 ltu,2007,7.567
@@ -901,7 +901,7 @@ mhl,2007,3.606
 mhl,2008,2.603
 mhl,2010,1.74
 mhl,2012,3.551
-middle_east_north_africa,2013,2.14429
+middle_east_north_africa,2013,2.1543
 mli,2004,0.668
 mli,2007,0.209
 mli,2008,0.297
@@ -1203,8 +1203,8 @@ som,2006,0.111
 som,2010,0.114
 som,2014,0.078
 south_asia,1990,0.37781
-south_asia,2000,1.08522
-south_asia,2013,1.73075
+south_asia,2000,1.08342
+south_asia,2013,1.72793
 srb,2006,4.28
 srb,2007,4.43
 srb,2010,5.305
@@ -1214,7 +1214,7 @@ srb,2013,5.376
 srb,2014,5.333
 srb,2015,4.719
 stp,2004,2.057
-sub_saharan_africa,2013,1.11957
+sub_saharan_africa,2013,1.1235
 sur,2000,1.431
 sur,2004,5.273
 svk,2005,6.62
@@ -1389,9 +1389,9 @@ ukr,2011,7.929
 ukr,2012,7.971
 ukr,2013,7.995
 ukr,2014,7.039
-upper_middle_income,1990,0.86134
-upper_middle_income,2000,1.48366
-upper_middle_income,2013,3.34568
+upper_middle_income,1990,0.88629
+upper_middle_income,2000,1.46072
+upper_middle_income,2013,3.35761
 ury,2002,0.865
 ury,2008,5.848
 ury,2010,5.548
@@ -1432,8 +1432,8 @@ vut,2007,1.564
 vut,2008,1.686
 vut,2010,1.696
 vut,2012,2.218
-world,2000,2.39856
-world,2013,3.1425
+world,2000,2.39686
+world,2013,3.14347
 wsm,1999,2.009
 wsm,2003,1.745
 wsm,2008,1.897

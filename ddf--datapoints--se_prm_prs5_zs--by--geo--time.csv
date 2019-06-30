@@ -1704,10 +1704,8 @@ lka,2013,98.20196
 lka,2014,99.1807
 lka,2015,98.38902
 lka,2016,98.44522
-lower_middle_income,1986,62.38638
-lower_middle_income,2001,69.77458
-lower_middle_income,2013,82.64007
-lower_middle_income,2016,88.62637
+lower_middle_income,2001,69.43084
+lower_middle_income,2013,82.42961
 lso,1970,41.26512
 lso,1971,56.1653
 lso,1972,61.69805
@@ -3018,10 +3016,10 @@ uga,2010,48.2454
 uga,2011,62.3534
 uga,2012,61.40363
 uga,2016,61.12238
-upper_middle_income,1988,80.86957
-upper_middle_income,1989,81.19006
-upper_middle_income,1990,84.61388
-upper_middle_income,1991,86.02841
+upper_middle_income,1988,81.06262
+upper_middle_income,1989,81.31483
+upper_middle_income,1990,84.73308
+upper_middle_income,1991,86.10373
 upper_middle_income,1992,87.0938
 upper_middle_income,1993,86.76473
 upper_middle_income,1994,89.34367

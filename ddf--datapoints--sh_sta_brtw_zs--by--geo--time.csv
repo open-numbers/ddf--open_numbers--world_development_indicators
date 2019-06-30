@@ -195,8 +195,8 @@ dom,2002,11.3
 dom,2007,11
 dza,2000,7
 dza,2006,6
-east_asia_pacific,2000,6.14307
-east_asia_pacific,2010,6.22493
+east_asia_pacific,2000,6.14674
+east_asia_pacific,2010,6.22583
 ecu,1999,16.1
 ecu,2007,10
 ecu,2009,8
@@ -214,8 +214,8 @@ est,2001,4
 est,2012,4.6
 eth,2000,14.9
 eth,2005,20
-europe_central_asia,2000,8.28188
-europe_central_asia,2010,7.12977
+europe_central_asia,2000,8.28198
+europe_central_asia,2010,7.12981
 fin,2001,4
 fin,2012,4.2
 fji,1998,9.5
@@ -270,8 +270,8 @@ guy,2004,12.6
 guy,2005,12.6
 guy,2006,18.9
 guy,2009,14.3
-high_income,2000,7.1675
-high_income,2010,7.58616
+high_income,2000,7.17154
+high_income,2010,7.60849
 hkg,2000,5
 hnd,2001,14.3
 hnd,2006,10.2
@@ -373,9 +373,9 @@ lca,2011,10.1
 lka,2000,22.3
 lka,2005,17.6
 lka,2007,17
-low_income,2000,14.22699
-low_income,2010,13.58716
-lower_middle_income,2000,22.60243
+low_income,2000,14.19753
+low_income,2010,13.5169
+lower_middle_income,2000,22.50729
 lso,2000,14.2
 lso,2004,12.6
 lso,2009,10.7
@@ -410,7 +410,7 @@ mex,2009,7.3
 mex,2012,9.15
 mhl,1999,12
 mhl,2007,18
-middle_east_north_africa,2010,13.09406
+middle_east_north_africa,2010,13.0568
 mli,1996,18.6
 mli,2001,23.4
 mli,2006,18.7
@@ -542,7 +542,7 @@ slv,1998,13
 slv,2003,7
 slv,2011,8.7
 smr,2011,10
-south_asia,2000,30.04064
+south_asia,2000,30.03982
 srb,2005,5
 srb,2007,5.8
 srb,2009,5.63
@@ -551,7 +551,7 @@ srb,2011,6.1
 stp,2000,20.2
 stp,2006,7.8
 stp,2009,9.9
-sub_saharan_africa,2000,14.05153
+sub_saharan_africa,2000,14.05192
 sur,1996,11
 sur,2000,12.5
 sur,2006,11
@@ -615,8 +615,8 @@ ukr,2003,5.3
 ukr,2005,4.3
 ukr,2007,4
 ukr,2011,5.3
-upper_middle_income,2000,5.72523
-upper_middle_income,2010,5.81454
+upper_middle_income,2000,5.92237
+upper_middle_income,2010,5.94464
 ury,2002,8
 ury,2006,8.5
 ury,2007,8.4
@@ -651,8 +651,8 @@ vnm,2009,5.3
 vnm,2011,5.1
 vut,2001,5.6
 vut,2007,10
-world,2000,15.28249
-world,2010,10.54939
+world,2000,15.28915
+world,2010,10.60422
 wsm,1997,3.9
 wsm,2009,10.2
 yem,1997,31.9
