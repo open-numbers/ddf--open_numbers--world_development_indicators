@@ -151,9 +151,6 @@ lbr,1986,6.1
 lbr,2007,4.6
 lbr,2013,4.2
 lka,1987,2.2
-low_income,2014,4.29489
-lower_middle_income,2000,2.3761
-lower_middle_income,2014,2.34395
 lso,2004,2.5
 lso,2009,2.4
 lso,2014,2.3
@@ -252,11 +249,8 @@ slv,1985,4
 slv,1998,3
 slv,2003,2.1
 slv,2008,2
-south_asia,2000,2.11833
-south_asia,2014,1.95565
 stp,2009,3.3
-sub_saharan_africa,2000,4.31654
-sub_saharan_africa,2014,4.38961
+swz,2007,2.1
 tcd,1997,6.1
 tcd,2004,6.1
 tcd,2015,6.1

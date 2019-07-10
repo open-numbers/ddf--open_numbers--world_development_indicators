@@ -366,9 +366,6 @@ lka,2013,72.06186
 lka,2015,86.13199
 lka,2016,81.37177
 lka,2017,84.52123
-lower_middle_income,2015,82.32639
-lower_middle_income,2016,78.70988
-lower_middle_income,2017,77.42708
 mac,1999,59.05963
 mac,2000,60.57692
 mac,2001,60.85233
@@ -424,12 +421,6 @@ mex,2012,90.64655
 mex,2013,90.63248
 mex,2014,91.54524
 mex,2015,92.09841
-middle_east_north_africa,2012,81.99573
-middle_east_north_africa,2013,81.69175
-middle_east_north_africa,2014,83.59745
-middle_east_north_africa,2015,83.56654
-middle_east_north_africa,2016,82.80047
-middle_east_north_africa,2017,82.12228
 mli,2005,80
 mli,2008,76.68647
 mli,2009,73.72275
@@ -571,9 +562,6 @@ slv,2011,92.8883
 slv,2015,93.48589
 slv,2016,93.56633
 slv,2017,93.28426
-south_asia,2015,81.99602
-south_asia,2016,74.48248
-south_asia,2017,73.11796
 srb,2007,100
 srb,2009,92.7298
 srb,2011,53.05458
@@ -581,12 +569,6 @@ ssd,2011,44.331
 stp,2011,37.5969
 stp,2012,34.48276
 stp,2016,20.21605
-sub_saharan_africa,2006,72.59844
-sub_saharan_africa,2007,64.92977
-sub_saharan_africa,2008,64.32537
-sub_saharan_africa,2009,60.84951
-sub_saharan_africa,2010,65.16285
-sub_saharan_africa,2011,59.58802
 sur,2010,79.05405
 sur,2011,83.22063
 sur,2012,83.97566
