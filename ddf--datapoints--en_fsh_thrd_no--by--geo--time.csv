@@ -53,14 +53,12 @@ dma,2018,31
 dnk,2018,18
 dom,2018,29
 dza,2018,41
-east_asia_pacific,2018,1630
 ecu,2018,61
 egy,2018,58
 eri,2018,29
 esp,2018,83
 est,2018,5
 eth,2018,14
-europe_central_asia,2018,1239
 fin,2018,6
 fji,2018,20
 fra,2018,53
@@ -82,7 +80,6 @@ grl,2018,9
 gtm,2018,41
 gum,2018,14
 guy,2018,33
-high_income,2018,2433
 hkg,2018,15
 hnd,2018,45
 hrv,2018,64
@@ -114,8 +111,6 @@ lby,2018,32
 lca,2018,30
 lie,2018,0
 lka,2018,57
-low_income,2018,1172
-lower_middle_income,2018,2018
 lso,2018,1
 ltu,2018,6
 lux,2018,1
@@ -129,7 +124,7 @@ mdg,2018,111
 mdv,2018,24
 mex,2018,181
 mhl,2018,18
-middle_east_north_africa,2018,672
+mkd,2018,13
 mli,2018,2
 mlt,2018,22
 mmr,2018,53
@@ -179,15 +174,14 @@ sle,2018,57
 slv,2018,17
 smr,2018,0
 som,2018,31
-south_asia,2018,397
 srb,2018,15
 ssd,2018,0
 stp,2018,25
-sub_saharan_africa,2018,2064
 sur,2018,32
 svk,2018,5
 svn,2018,33
 swe,2018,15
+swz,2018,5
 sxm,2018,31
 syc,2018,24
 syr,2018,51
@@ -206,7 +200,6 @@ tuv,2018,13
 tza,2018,179
 uga,2018,60
 ukr,2018,24
-upper_middle_income,2018,2417
 ury,2018,45
 usa,2018,251
 uzb,2018,7
@@ -216,7 +209,6 @@ vgb,2018,31
 vir,2018,29
 vnm,2018,83
 vut,2018,18
-world,2017,8233
 wsm,2018,16
 yem,2018,40
 zaf,2018,121

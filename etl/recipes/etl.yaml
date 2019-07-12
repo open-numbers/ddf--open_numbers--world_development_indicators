@@ -2,7 +2,7 @@ info:
     id: ddf--gapminder--world_development_indicators
     base:
         - &wdi open-numbers/ddf--world_bank--world_development_indicators
-        - &geo open-numbers/ddf--gapminder--geo_entity_domain
+        - &geo open-numbers/ddf--open_numbers
 
 config:
     # the path to search recipe files to include
@@ -46,6 +46,10 @@ ingredients:
         id: gw-countries
         dataset: *geo
         key: geo
+    -
+        id: gm-country-synonyms
+        dataset: *geo
+        key: country, synonym
     -
         id: gw-geo-concepts
         dataset: *geo
@@ -117,12 +121,9 @@ cooking:
                 column: table_name
                 target_column: country_new
                 dictionary:
-                    base: gw-countries
-                    key: ['gapminder_list', 'alternative_1', 'alternative_2', 'alternative_3',
-                          'alternative_4_cdiac', 'pandg', 'god_id', 'alt_5', 'upper_case_name',
-                          'arb1', 'arb2', 'arb3', 'arb4', 'arb5', 'arb6', 'name', 'iso3166_1_alpha2',
-                          'iso3166_1_alpha3', 'iso3166_2']
-                    value: geo
+                    base: gm-country-synonyms
+                    key: synonym
+                    value: country
             result: wdi-countries-aligned
         -
             procedure: translate_column

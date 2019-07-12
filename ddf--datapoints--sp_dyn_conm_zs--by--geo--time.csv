@@ -260,9 +260,6 @@ dza,2002,51.8
 dza,2006,53.9
 dza,2012,48
 dza,2013,49.5
-east_asia_pacific,1990,72.37703
-east_asia_pacific,2000,74.45358
-east_asia_pacific,2014,70.82309
 ecu,1979,25.8
 ecu,1982,32.9
 ecu,1987,35.8
@@ -307,7 +304,6 @@ eth,2015,35.9
 eth,2016,35.1
 eth,2017,35.32118
 eth,2018,37.8
-europe_central_asia,2014,58.61199
 fin,1971,53.9
 fin,1977,77.2
 fin,1990,75.4
@@ -401,9 +397,6 @@ guy,2005,33.6
 guy,2006,33
 guy,2009,40
 guy,2014,32.5
-high_income,1990,62.3558
-high_income,2000,66.54447
-high_income,2014,62.40747
 hkg,1972,43.3
 hkg,1977,64
 hkg,1982,63.9
@@ -630,12 +623,6 @@ lka,1993,43.7
 lka,2000,49.6
 lka,2007,52.5
 lka,2016,51.3
-low_income,1990,11.40677
-low_income,2000,16.87439
-low_income,2014,29.46349
-lower_middle_income,1990,34.12979
-lower_middle_income,2000,39.266
-lower_middle_income,2014,45.63474
 lso,1977,3.4
 lso,1992,18.9
 lso,1995,26.8
@@ -690,9 +677,8 @@ mex,2015,64.6
 mhl,1970,18.1
 mhl,1985,19.4
 mhl,2007,42.4
-middle_east_north_africa,1990,34.28365
-middle_east_north_africa,2000,49.61599
-middle_east_north_africa,2014,47.01956
+mkd,1970,3.1
+mkd,2011,12.8
 mli,1987,1.3
 mli,1996,4.5
 mli,2001,6.9
@@ -989,9 +975,6 @@ slv,2008,66.1
 slv,2014,68
 som,1999,1
 som,2006,1.1
-south_asia,1990,36.01296
-south_asia,2000,39.8851
-south_asia,2014,45.35922
 srb,1970,3.7
 srb,2000,33
 srb,2006,18.9
@@ -1005,9 +988,6 @@ stp,2000,28
 stp,2006,28.5
 stp,2009,33.7
 stp,2014,37.4
-sub_saharan_africa,1990,10.81571
-sub_saharan_africa,2000,15.82559
-sub_saharan_africa,2014,28.16977
 sur,1992,46.6
 sur,2000,40.7
 sur,2006,45
@@ -1018,6 +998,12 @@ svn,1970,14.2
 svn,1995,63.2
 swe,1981,72
 swe,1996,64.8
+swz,1988,17.1
+swz,2000,26.1
+swz,2002,38.6
+swz,2007,47.7
+swz,2010,63.1
+swz,2014,65.5
 syr,1978,22.4
 syr,1993,28.3
 syr,2001,35.1
@@ -1116,9 +1102,6 @@ ukr,1999,37.6
 ukr,2005,58.5
 ukr,2007,47.5
 ukr,2012,47.8
-upper_middle_income,1990,73.37254
-upper_middle_income,2000,75.71009
-upper_middle_income,2014,71.22582
 ury,1986,72.4
 ury,2004,74.8
 ury,2015,78.27422
@@ -1173,9 +1156,6 @@ vut,1984,20.8
 vut,1995,32.1
 vut,2007,37
 vut,2013,37.1
-world,1990,53.53155
-world,2000,55.32006
-world,2014,56.14439
 wsm,1998,23.2
 wsm,2009,26.7
 wsm,2014,24.3
