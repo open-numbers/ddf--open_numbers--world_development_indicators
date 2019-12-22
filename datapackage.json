@@ -8,7 +8,7 @@
     "description": "Gapminder's World Development Indicators",
     "author": "Gapminder",
     "license": "MIT",
-    "created": "2019-11-28T12:36:19.630073+00:00",
+    "created": "2019-12-22T12:14:56.379302+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -21964,27 +21964,6 @@
             }
         },
         {
-            "name": "ddf--datapoints--sh_uhc_nop1_to--by--geo--time",
-            "path": "ddf--datapoints--sh_uhc_nop1_to--by--geo--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "sh_uhc_nop1_to"
-                    }
-                ],
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ]
-            }
-        },
-        {
             "name": "ddf--datapoints--sh_uhc_nop1_zg--by--geo--time",
             "path": "ddf--datapoints--sh_uhc_nop1_zg--by--geo--time.csv",
             "schema": {
@@ -22048,27 +22027,6 @@
             }
         },
         {
-            "name": "ddf--datapoints--sh_uhc_nop2_to--by--geo--time",
-            "path": "ddf--datapoints--sh_uhc_nop2_to--by--geo--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "sh_uhc_nop2_to"
-                    }
-                ],
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ]
-            }
-        },
-        {
             "name": "ddf--datapoints--sh_uhc_nop2_zg--by--geo--time",
             "path": "ddf--datapoints--sh_uhc_nop2_zg--by--geo--time.csv",
             "schema": {
@@ -22090,48 +22048,6 @@
             }
         },
         {
-            "name": "ddf--datapoints--sh_uhc_nop2_zs--by--geo--time",
-            "path": "ddf--datapoints--sh_uhc_nop2_zs--by--geo--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "sh_uhc_nop2_zs"
-                    }
-                ],
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--sh_uhc_oopc_10_to--by--geo--time",
-            "path": "ddf--datapoints--sh_uhc_oopc_10_to--by--geo--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "sh_uhc_oopc_10_to"
-                    }
-                ],
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ]
-            }
-        },
-        {
             "name": "ddf--datapoints--sh_uhc_oopc_10_zs--by--geo--time",
             "path": "ddf--datapoints--sh_uhc_oopc_10_zs--by--geo--time.csv",
             "schema": {
@@ -22144,27 +22060,6 @@
                     },
                     {
                         "name": "sh_uhc_oopc_10_zs"
-                    }
-                ],
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--sh_uhc_oopc_25_to--by--geo--time",
-            "path": "ddf--datapoints--sh_uhc_oopc_25_to--by--geo--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "sh_uhc_oopc_25_to"
                     }
                 ],
                 "primaryKey": [
@@ -26029,48 +25924,6 @@
                     },
                     {
                         "name": "sp_ado_tfrt"
-                    }
-                ],
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--sp_dth_infr_zs--by--geo--time",
-            "path": "ddf--datapoints--sp_dth_infr_zs--by--geo--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "sp_dth_infr_zs"
-                    }
-                ],
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--sp_dth_rept_zs--by--geo--time",
-            "path": "ddf--datapoints--sp_dth_rept_zs--by--geo--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "sp_dth_rept_zs"
                     }
                 ],
                 "primaryKey": [
@@ -52353,26 +52206,6 @@
                     "country",
                     "time"
                 ],
-                "value": "sh_uhc_nop1_to",
-                "resources": [
-                    "ddf--datapoints--sh_uhc_nop1_to--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "sh_uhc_nop1_to",
-                "resources": [
-                    "ddf--datapoints--sh_uhc_nop1_to--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
                 "value": "sh_uhc_nop1_zg",
                 "resources": [
                     "ddf--datapoints--sh_uhc_nop1_zg--by--geo--time"
@@ -52433,26 +52266,6 @@
                     "country",
                     "time"
                 ],
-                "value": "sh_uhc_nop2_to",
-                "resources": [
-                    "ddf--datapoints--sh_uhc_nop2_to--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "sh_uhc_nop2_to",
-                "resources": [
-                    "ddf--datapoints--sh_uhc_nop2_to--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
                 "value": "sh_uhc_nop2_zg",
                 "resources": [
                     "ddf--datapoints--sh_uhc_nop2_zg--by--geo--time"
@@ -52473,46 +52286,6 @@
                     "country",
                     "time"
                 ],
-                "value": "sh_uhc_nop2_zs",
-                "resources": [
-                    "ddf--datapoints--sh_uhc_nop2_zs--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "sh_uhc_nop2_zs",
-                "resources": [
-                    "ddf--datapoints--sh_uhc_nop2_zs--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
-                "value": "sh_uhc_oopc_10_to",
-                "resources": [
-                    "ddf--datapoints--sh_uhc_oopc_10_to--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "sh_uhc_oopc_10_to",
-                "resources": [
-                    "ddf--datapoints--sh_uhc_oopc_10_to--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
                 "value": "sh_uhc_oopc_10_zs",
                 "resources": [
                     "ddf--datapoints--sh_uhc_oopc_10_zs--by--geo--time"
@@ -52526,26 +52299,6 @@
                 "value": "sh_uhc_oopc_10_zs",
                 "resources": [
                     "ddf--datapoints--sh_uhc_oopc_10_zs--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
-                "value": "sh_uhc_oopc_25_to",
-                "resources": [
-                    "ddf--datapoints--sh_uhc_oopc_25_to--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "sh_uhc_oopc_25_to",
-                "resources": [
-                    "ddf--datapoints--sh_uhc_oopc_25_to--by--geo--time"
                 ]
             },
             {
@@ -56226,46 +55979,6 @@
                 "value": "sp_ado_tfrt",
                 "resources": [
                     "ddf--datapoints--sp_ado_tfrt--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
-                "value": "sp_dth_infr_zs",
-                "resources": [
-                    "ddf--datapoints--sp_dth_infr_zs--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "sp_dth_infr_zs",
-                "resources": [
-                    "ddf--datapoints--sp_dth_infr_zs--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
-                "value": "sp_dth_rept_zs",
-                "resources": [
-                    "ddf--datapoints--sp_dth_rept_zs--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "sp_dth_rept_zs",
-                "resources": [
-                    "ddf--datapoints--sp_dth_rept_zs--by--geo--time"
                 ]
             },
             {
