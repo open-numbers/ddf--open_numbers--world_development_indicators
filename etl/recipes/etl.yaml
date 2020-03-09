@@ -145,6 +145,12 @@ cooking:
                     country: geo
                     year: time
             result: wdi-datapoints-final
+        -
+            procedure: serve
+            ingredients:
+                - wdi-datapoints-final
+            options:
+                path: datapoints
     entities:
         -
             procedure: serve
