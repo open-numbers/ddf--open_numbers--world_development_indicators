@@ -8,7 +8,7 @@
     "description": "Gapminder's World Development Indicators",
     "author": "Gapminder",
     "license": "MIT",
-    "created": "2020-03-09T03:58:06.206627+00:00",
+    "created": "2020-04-02T12:09:17.661678+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -22546,27 +22546,6 @@
             }
         },
         {
-            "name": "ddf--datapoints--si_pov_nagp--by--geo--time",
-            "path": "datapoints/ddf--datapoints--si_pov_nagp--by--geo--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "si_pov_nagp"
-                    }
-                ],
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ]
-            }
-        },
-        {
             "name": "ddf--datapoints--si_pov_nahc--by--geo--time",
             "path": "datapoints/ddf--datapoints--si_pov_nahc--by--geo--time.csv",
             "schema": {
@@ -22579,48 +22558,6 @@
                     },
                     {
                         "name": "si_pov_nahc"
-                    }
-                ],
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--si_pov_rugp--by--geo--time",
-            "path": "datapoints/ddf--datapoints--si_pov_rugp--by--geo--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "si_pov_rugp"
-                    }
-                ],
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--si_pov_ruhc--by--geo--time",
-            "path": "datapoints/ddf--datapoints--si_pov_ruhc--by--geo--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "si_pov_ruhc"
                     }
                 ],
                 "primaryKey": [
@@ -22663,48 +22600,6 @@
                     },
                     {
                         "name": "si_pov_umic_gp"
-                    }
-                ],
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--si_pov_urgp--by--geo--time",
-            "path": "datapoints/ddf--datapoints--si_pov_urgp--by--geo--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "si_pov_urgp"
-                    }
-                ],
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--si_pov_urhc--by--geo--time",
-            "path": "datapoints/ddf--datapoints--si_pov_urhc--by--geo--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "si_pov_urhc"
                     }
                 ],
                 "primaryKey": [
@@ -52972,26 +52867,6 @@
                     "country",
                     "time"
                 ],
-                "value": "si_pov_nagp",
-                "resources": [
-                    "ddf--datapoints--si_pov_nagp--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "si_pov_nagp",
-                "resources": [
-                    "ddf--datapoints--si_pov_nagp--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
                 "value": "si_pov_nahc",
                 "resources": [
                     "ddf--datapoints--si_pov_nahc--by--geo--time"
@@ -53005,46 +52880,6 @@
                 "value": "si_pov_nahc",
                 "resources": [
                     "ddf--datapoints--si_pov_nahc--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
-                "value": "si_pov_rugp",
-                "resources": [
-                    "ddf--datapoints--si_pov_rugp--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "si_pov_rugp",
-                "resources": [
-                    "ddf--datapoints--si_pov_rugp--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
-                "value": "si_pov_ruhc",
-                "resources": [
-                    "ddf--datapoints--si_pov_ruhc--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "si_pov_ruhc",
-                "resources": [
-                    "ddf--datapoints--si_pov_ruhc--by--geo--time"
                 ]
             },
             {
@@ -53085,46 +52920,6 @@
                 "value": "si_pov_umic_gp",
                 "resources": [
                     "ddf--datapoints--si_pov_umic_gp--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
-                "value": "si_pov_urgp",
-                "resources": [
-                    "ddf--datapoints--si_pov_urgp--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "si_pov_urgp",
-                "resources": [
-                    "ddf--datapoints--si_pov_urgp--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
-                "value": "si_pov_urhc",
-                "resources": [
-                    "ddf--datapoints--si_pov_urhc--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "si_pov_urhc",
-                "resources": [
-                    "ddf--datapoints--si_pov_urhc--by--geo--time"
                 ]
             },
             {
