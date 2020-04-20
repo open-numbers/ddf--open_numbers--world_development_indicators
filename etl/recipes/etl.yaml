@@ -113,34 +113,34 @@ cooking:
                 file_name: ddf--concepts--discrete.csv
 
     datapoints:
-	-
-	    procedure: filter
-	    ingredients:
-		- wdi-datapoints
-	    options:
-		row:
-		    country:
-			$in:
-			    - wld  # world
-	    result: wdi-global-datapoints
-	-
-	    procedure: translate_column
-	    ingredients:
-		- wdi-global-datapoints
-	    options:
-		column: country
-		target_column: country
-		dictionary:
-		    wld: world
-	    result: wdi-global-datapoints-column-translated
-	-
-	    procedure: translate_header
-	    ingredients:
-		- wdi-global-datapoints-column-translated
-	    options:
-		dictionary:
-		    country: global
-	    result: wdi-global-datapoints-translated
+    -
+        procedure: filter
+        ingredients:
+        - wdi-datapoints
+        options:
+        row:
+            country:
+            $in:
+                - wld  # world
+        result: wdi-global-datapoints
+    -
+        procedure: translate_column
+        ingredients:
+        - wdi-global-datapoints
+        options:
+        column: country
+        target_column: country
+        dictionary:
+            wld: world
+        result: wdi-global-datapoints-column-translated
+    -
+        procedure: translate_header
+        ingredients:
+        - wdi-global-datapoints-column-translated
+        options:
+        dictionary:
+            country: global
+        result: wdi-global-datapoints-translated
 
         -
             procedure: translate_column
@@ -177,8 +177,8 @@ cooking:
         -
             procedure: serve
             ingredients:
-		# - wdi-datapoints-final
-		- wdi-global-datapoints-translated
+        # - wdi-datapoints-final
+        - wdi-global-datapoints-translated
             options:
                 path: datapoints
     entities:
