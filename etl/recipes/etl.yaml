@@ -121,6 +121,7 @@ cooking:
     options:
       dictionary:
         country: global
+        year: time
     result: wdi-global-datapoints-translated
   - procedure: translate_column
     ingredients:
