@@ -1,189 +1,164 @@
 info:
-    id: ddf--gapminder--world_development_indicators
-    base:
-        - &wdi open-numbers/ddf--world_bank--world_development_indicators
-        - &geo open-numbers/ddf--open_numbers
+  id: ddf--gapminder--world_development_indicators
+  base:
+  - &wdi open-numbers/ddf--world_bank--world_development_indicators
+  - &geo open-numbers/ddf--open_numbers
 
 config:
     # the path to search recipe files to include
-    recipes_dir: ./
+  recipes_dir: ./
     # the path to search dictionary files
-    dictionary_dir: ./translation_dictionaries
+  dictionary_dir: ./translation_dictionaries
     # custom procedures dir
-    procedure_dir: ../procedures
+  procedure_dir: ../procedures
     # external csvs
-    external_csv_dir: ../external_csvs
+  external_csv_dir: ../external_csvs
 
 ingredients:
-    -
-        id: wdi-datapoints
-        dataset: *wdi
-        key: country, year
-    -
-        id: wdi-concepts-discrete
-        dataset: *wdi
-        key: concept
-        filter:
-            concept_type:
-                $nin:
-                    - measure
-            concept:
-                $nin:
-                    - country         # we will use country from geo domain
-    -
-        id: wdi-concepts-continuous
-        dataset: *wdi
-        key: concept
-        filter:
-            concept_type:
-                $in:
-                    - measure
-    -
-        id: wdi-countries
-        dataset: *wdi
-        key: country
-    -
-        id: gw-countries
-        dataset: *geo
-        key: geo
-    -
-        id: gm-country-synonyms
-        dataset: *geo
-        key: country, synonym
-    -
-        id: gw-geo-concepts
-        dataset: *geo
-        key: concept
-    -
-        id: tag-concepts
-        key: concept
-        data:
-            -
-                concept: tag
-                name: Tag
-                concept_type: entity_domain
-                tags: _none
-            -
-                concept: parent
-                name: Tag parent
-                concept_type: string
-                tags: _none
-    -
-        id: tag-entity
-        key: tag
-        data: ddf--entities--tag.csv
+- id: wdi-datapoints
+  dataset: *wdi
+  key: country, year
+- id: wdi-concepts-discrete
+  dataset: *wdi
+  key: concept
+  filter:
+    concept_type:
+      $nin:
+      - measure
+    concept:
+      $nin:
+      - country                       # we will use country from geo domain
+- id: wdi-concepts-continuous
+  dataset: *wdi
+  key: concept
+  filter:
+    concept_type:
+      $in:
+      - measure
+- id: wdi-countries
+  dataset: *wdi
+  key: country
+- id: gw-countries
+  dataset: *geo
+  key: geo
+- id: gm-country-synonyms
+  dataset: *geo
+  key: country, synonym
+- id: gw-geo-concepts
+  dataset: *geo
+  key: concept
+- id: tag-concepts
+  key: concept
+  data:
+  - concept: tag
+    name: Tag
+    concept_type: entity_domain
+    tags: _none
+  - concept: parent
+    name: Tag parent
+    concept_type: string
+    tags: _none
+- id: tag-entity
+  key: tag
+  data: ddf--entities--tag.csv
 
 cooking:
-    concepts:
-        -
-            procedure: tags.generate_tags
-            ingredients:
-                - wdi-concepts-continuous
-            result: wdi-concepts-continuous-with-tags
-        -
-            procedure: serve
-            ingredients:
-                - wdi-concepts-continuous-with-tags
-            options:
-                file_name: ddf--concepts--continuous.csv
-        -
-            procedure: translate_column
-            ingredients:
-                - wdi-concepts-discrete
-            options:
-                column: concept
-                dictionary:
-                    year: time
-                not_found: include
-            result: wdi-concepts-discrete-translated
-        -
-            procedure: merge
-            ingredients:
-                - gw-geo-concepts
-                - tag-concepts
-                - wdi-concepts-discrete-translated
-            options:
-                deep: true
-            result: wdi-concepts-discrete-final
-        -
-            procedure: serve
-            ingredients:
-                - wdi-concepts-discrete-final
-            options:
-                file_name: ddf--concepts--discrete.csv
+  concepts:
+  - procedure: tags.generate_tags
+    ingredients:
+    - wdi-concepts-continuous
+    result: wdi-concepts-continuous-with-tags
+  - procedure: serve
+    ingredients:
+    - wdi-concepts-continuous-with-tags
+    options:
+      file_name: ddf--concepts--continuous.csv
+  - procedure: translate_column
+    ingredients:
+    - wdi-concepts-discrete
+    options:
+      column: concept
+      dictionary:
+        year: time
+      not_found: include
+    result: wdi-concepts-discrete-translated
+  - procedure: merge
+    ingredients:
+    - gw-geo-concepts
+    - tag-concepts
+    - wdi-concepts-discrete-translated
+    options:
+      deep: true
+    result: wdi-concepts-discrete-final
+  - procedure: serve
+    ingredients:
+    - wdi-concepts-discrete-final
+    options:
+      file_name: ddf--concepts--discrete.csv
 
-    datapoints:
-    -
-        procedure: filter
-        ingredients:
-        - wdi-datapoints
-        options:
-        row:
-            country:
-            $in:
-                - wld  # world
-        result: wdi-global-datapoints
-    -
-        procedure: translate_column
-        ingredients:
-        - wdi-global-datapoints
-        options:
-        column: country
-        target_column: country
-        dictionary:
-            wld: world
-        result: wdi-global-datapoints-column-translated
-    -
-        procedure: translate_header
-        ingredients:
-        - wdi-global-datapoints-column-translated
-        options:
-        dictionary:
-            country: global
-        result: wdi-global-datapoints-translated
-
-        -
-            procedure: translate_column
-            ingredients:
-                - wdi-countries
-            options:
-                column: table_name
-                target_column: country_new
-                dictionary:
-                    base: gm-country-synonyms
-                    key: synonym
-                    value: country
-            result: wdi-countries-aligned
-        -
-            procedure: translate_column
-            ingredients:
-                - wdi-datapoints
-            options:
-                column: country
-                dictionary:
-                    base: wdi-countries-aligned
-                    key: country
-                    value: country_new
-            result: wdi-datapoints-aligned
-        -
-            procedure: translate_header
-            ingredients:
-                - wdi-datapoints-aligned
-            options:
-                dictionary:
-                    country: geo
-                    year: time
-            result: wdi-datapoints-final
-        -
-            procedure: serve
-            ingredients:
-        # - wdi-datapoints-final
-        - wdi-global-datapoints-translated
-            options:
-                path: datapoints
-    entities:
-        -
-            procedure: serve
-            ingredients:
-                - gw-countries
-                - tag-entity
+  datapoints:
+  - procedure: filter
+    ingredients:
+    - wdi-datapoints
+    options:
+      row:
+        country:
+          $in:
+          - wld                    # world
+    result: wdi-global-datapoints
+  - procedure: translate_column
+    ingredients:
+    - wdi-global-datapoints
+    options:
+      column: country
+      target_column: country
+      dictionary:
+        wld: world
+    result: wdi-global-datapoints-column-translated
+  - procedure: translate_header
+    ingredients:
+    - wdi-global-datapoints-column-translated
+    options:
+      dictionary:
+        country: global
+    result: wdi-global-datapoints-translated
+  - procedure: translate_column
+    ingredients:
+    - wdi-countries
+    options:
+      column: table_name
+      target_column: country_new
+      dictionary:
+        base: gm-country-synonyms
+        key: synonym
+        value: country
+    result: wdi-countries-aligned
+  - procedure: translate_column
+    ingredients:
+    - wdi-datapoints
+    options:
+      column: country
+      dictionary:
+        base: wdi-countries-aligned
+        key: country
+        value: country_new
+    result: wdi-datapoints-aligned
+  - procedure: translate_header
+    ingredients:
+    - wdi-datapoints-aligned
+    options:
+      dictionary:
+        country: geo
+        year: time
+    result: wdi-datapoints-final
+  - procedure: serve
+    ingredients:
+    - wdi-datapoints-final
+    - wdi-global-datapoints-translated
+    options:
+      path: datapoints
+  entities:
+  - procedure: serve
+    ingredients:
+    - gw-countries
+    - tag-entity
