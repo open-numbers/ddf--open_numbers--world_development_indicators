@@ -8,7 +8,7 @@
     "description": "Gapminder's World Development Indicators",
     "author": "Gapminder",
     "license": "MIT",
-    "created": "2020-04-20T07:21:14.872138+00:00",
+    "created": "2020-05-14T12:13:12.827368+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -49401,6 +49401,9 @@
                         "name": "g77_and_oecd_countries"
                     },
                     {
+                        "name": "income_3groups"
+                    },
+                    {
                         "name": "income_groups"
                     },
                     {
@@ -49501,6 +49504,27 @@
                     }
                 ],
                 "primaryKey": "global"
+            }
+        },
+        {
+            "name": "ddf--entities--geo--income_3groups",
+            "path": "ddf--entities--geo--income_3groups.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "income_3groups"
+                    },
+                    {
+                        "name": "is--income_3groups"
+                    },
+                    {
+                        "name": "name"
+                    },
+                    {
+                        "name": "rank"
+                    }
+                ],
+                "primaryKey": "income_3groups"
             }
         },
         {
@@ -50067,6 +50091,24 @@
                 "primaryKey": [
                     "country"
                 ],
+                "value": "income_3groups",
+                "resources": [
+                    "ddf--entities--geo--country"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo"
+                ],
+                "value": "income_3groups",
+                "resources": [
+                    "ddf--entities--geo--country"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country"
+                ],
                 "value": "income_groups",
                 "resources": [
                     "ddf--entities--geo--country"
@@ -50138,6 +50180,42 @@
             {
                 "primaryKey": [
                     "geo"
+                ],
+                "value": "is--income_3groups",
+                "resources": [
+                    "ddf--entities--geo--income_3groups"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "income_3groups"
+                ],
+                "value": "is--income_3groups",
+                "resources": [
+                    "ddf--entities--geo--income_3groups"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "income_groups"
+                ],
+                "value": "is--income_3groups",
+                "resources": [
+                    "ddf--entities--geo--income_3groups"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo"
+                ],
+                "value": "is--income_groups",
+                "resources": [
+                    "ddf--entities--geo--income_groups"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "income_3groups"
                 ],
                 "value": "is--income_groups",
                 "resources": [
@@ -50462,6 +50540,7 @@
                     "ddf--entities--geo--country",
                     "ddf--entities--geo--g77_and_oecd_countries",
                     "ddf--entities--geo--global",
+                    "ddf--entities--geo--income_3groups",
                     "ddf--entities--geo--income_groups",
                     "ddf--entities--geo--landlocked",
                     "ddf--entities--geo--main_religion_2008",
@@ -50481,10 +50560,21 @@
             },
             {
                 "primaryKey": [
+                    "income_3groups"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--entities--geo--income_3groups",
+                    "ddf--entities--geo--income_groups"
+                ]
+            },
+            {
+                "primaryKey": [
                     "income_groups"
                 ],
                 "value": "name",
                 "resources": [
+                    "ddf--entities--geo--income_3groups",
                     "ddf--entities--geo--income_groups"
                 ]
             },
@@ -50623,6 +50713,7 @@
                 "value": "rank",
                 "resources": [
                     "ddf--entities--geo--g77_and_oecd_countries",
+                    "ddf--entities--geo--income_3groups",
                     "ddf--entities--geo--income_groups",
                     "ddf--entities--geo--landlocked",
                     "ddf--entities--geo--main_religion_2008",
@@ -50632,10 +50723,21 @@
             },
             {
                 "primaryKey": [
+                    "income_3groups"
+                ],
+                "value": "rank",
+                "resources": [
+                    "ddf--entities--geo--income_3groups",
+                    "ddf--entities--geo--income_groups"
+                ]
+            },
+            {
+                "primaryKey": [
                     "income_groups"
                 ],
                 "value": "rank",
                 "resources": [
+                    "ddf--entities--geo--income_3groups",
                     "ddf--entities--geo--income_groups"
                 ]
             },
