@@ -126,7 +126,7 @@ cooking:
     ingredients:
     - wdi-countries
     options:
-      column: table_name
+      column: name
       target_column: economy_new
       dictionary:
         base: gm-country-synonyms
@@ -140,7 +140,7 @@ cooking:
       column: economy
       dictionary:
         base: wdi-countries-aligned
-        key: economy
+        key: country
         value: economy_new
     result: wdi-datapoints-aligned
   - procedure: translate_header
