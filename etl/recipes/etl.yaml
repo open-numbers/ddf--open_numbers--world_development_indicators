@@ -17,7 +17,7 @@ config:
 ingredients:
 - id: wdi-datapoints
   dataset: *wdi
-  key: country, year
+  key: economy, year
 - id: wdi-concepts-discrete
   dataset: *wdi
   key: concept
@@ -25,9 +25,8 @@ ingredients:
     concept_type:
       $nin:
       - measure
-    concept:
-      $nin:
-      - country                       # we will use country from geo domain
+      - entity_domain
+      - entity_set
 - id: wdi-concepts-continuous
   dataset: *wdi
   key: concept
@@ -43,7 +42,7 @@ ingredients:
   key: geo
 - id: gm-country-synonyms
   dataset: *geo
-  key: country, synonym
+  key: geo, synonym
 - id: gw-geo-concepts
   dataset: *geo
   key: concept
@@ -102,7 +101,7 @@ cooking:
     - wdi-datapoints
     options:
       row:
-        country:
+        economy:
           $in:
           - wld                    # world
     result: wdi-global-datapoints
@@ -110,8 +109,8 @@ cooking:
     ingredients:
     - wdi-global-datapoints
     options:
-      column: country
-      target_column: country
+      column: economy
+      target_column: economy
       dictionary:
         wld: world
     result: wdi-global-datapoints-column-translated
@@ -120,7 +119,7 @@ cooking:
     - wdi-global-datapoints-column-translated
     options:
       dictionary:
-        country: global
+        economy: global
         year: time
     result: wdi-global-datapoints-translated
   - procedure: translate_column
@@ -128,28 +127,28 @@ cooking:
     - wdi-countries
     options:
       column: table_name
-      target_column: country_new
+      target_column: economy_new
       dictionary:
         base: gm-country-synonyms
         key: synonym
-        value: country
+        value: geo
     result: wdi-countries-aligned
   - procedure: translate_column
     ingredients:
     - wdi-datapoints
     options:
-      column: country
+      column: economy
       dictionary:
         base: wdi-countries-aligned
-        key: country
-        value: country_new
+        key: economy
+        value: economy_new
     result: wdi-datapoints-aligned
   - procedure: translate_header
     ingredients:
     - wdi-datapoints-aligned
     options:
       dictionary:
-        country: geo
+        economy: geo
         year: time
     result: wdi-datapoints-final
   - procedure: serve
