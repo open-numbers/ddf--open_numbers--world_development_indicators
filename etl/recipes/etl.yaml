@@ -18,6 +18,10 @@ ingredients:
 - id: wdi-datapoints
   dataset: *wdi
   key: economy, year
+  value:
+      $nin:
+          - income_2level  # exclude 2 level as open-numbers doesn't
+                           # have it
 - id: wdi-concepts-discrete
   dataset: *wdi
   key: concept
@@ -150,6 +154,8 @@ cooking:
       dictionary:
         economy: geo
         year: time
+        income_4level: income_groups
+        income_3level: income_3groups
     result: wdi-datapoints-final
   - procedure: serve
     ingredients:
