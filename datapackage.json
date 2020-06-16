@@ -8,7 +8,7 @@
     "description": "Gapminder's World Development Indicators",
     "author": "Gapminder",
     "license": "MIT",
-    "created": "2020-05-24T12:42:09.599667+00:00",
+    "created": "2020-06-16T12:17:44.842212+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -16225,6 +16225,48 @@
             }
         },
         {
+            "name": "ddf--datapoints--income_3groups--by--geo--time",
+            "path": "datapoints/ddf--datapoints--income_3groups--by--geo--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "income_3groups"
+                    }
+                ],
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--income_groups--by--geo--time",
+            "path": "datapoints/ddf--datapoints--income_groups--by--geo--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "income_groups"
+                    }
+                ],
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--ip_ids_nrct--by--geo--time",
             "path": "datapoints/ddf--datapoints--ip_ids_nrct--by--geo--time.csv",
             "schema": {
@@ -31324,69 +31366,6 @@
             }
         },
         {
-            "name": "ddf--datapoints--sg_job_nopn_eq--by--geo--time",
-            "path": "datapoints/ddf--datapoints--sg_job_nopn_eq--by--geo--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "sg_job_nopn_eq"
-                    }
-                ],
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--sg_law_chmr--by--geo--time",
-            "path": "datapoints/ddf--datapoints--sg_law_chmr--by--geo--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "sg_law_chmr"
-                    }
-                ],
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--sg_law_eqrm_wk--by--geo--time",
-            "path": "datapoints/ddf--datapoints--sg_law_eqrm_wk--by--geo--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "sg_law_eqrm_wk"
-                    }
-                ],
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ]
-            }
-        },
-        {
             "name": "ddf--datapoints--sg_law_indx--by--geo--time",
             "path": "datapoints/ddf--datapoints--sg_law_indx--by--geo--time.csv",
             "schema": {
@@ -31399,111 +31378,6 @@
                     },
                     {
                         "name": "sg_law_indx"
-                    }
-                ],
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--sg_law_leve_pu--by--geo--time",
-            "path": "datapoints/ddf--datapoints--sg_law_leve_pu--by--geo--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "sg_law_leve_pu"
-                    }
-                ],
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--sg_law_nodc_hr--by--geo--time",
-            "path": "datapoints/ddf--datapoints--sg_law_nodc_hr--by--geo--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "sg_law_nodc_hr"
-                    }
-                ],
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--sg_leg_dvaw--by--geo--time",
-            "path": "datapoints/ddf--datapoints--sg_leg_dvaw--by--geo--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "sg_leg_dvaw"
-                    }
-                ],
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--sg_mmr_leve_ep--by--geo--time",
-            "path": "datapoints/ddf--datapoints--sg_mmr_leve_ep--by--geo--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "sg_mmr_leve_ep"
-                    }
-                ],
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--sg_nod_cons--by--geo--time",
-            "path": "datapoints/ddf--datapoints--sg_nod_cons--by--geo--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "geo"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "sg_nod_cons"
                     }
                 ],
                 "primaryKey": [
@@ -49824,6 +49698,9 @@
                         "name": "development_relevance"
                     },
                     {
+                        "name": "domain"
+                    },
+                    {
                         "name": "general_comments"
                     },
                     {
@@ -50401,6 +50278,7 @@
                 ],
                 "value": "domain",
                 "resources": [
+                    "ddf--concepts--continuous",
                     "ddf--concepts--discrete"
                 ]
             },
@@ -64154,6 +64032,46 @@
                     "country",
                     "time"
                 ],
+                "value": "income_3groups",
+                "resources": [
+                    "ddf--datapoints--income_3groups--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "income_3groups",
+                "resources": [
+                    "ddf--datapoints--income_3groups--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "income_groups",
+                "resources": [
+                    "ddf--datapoints--income_groups--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "income_groups",
+                "resources": [
+                    "ddf--datapoints--income_groups--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
                 "value": "ip_ids_nrct",
                 "resources": [
                     "ddf--datapoints--ip_ids_nrct--by--geo--time"
@@ -76059,66 +75977,6 @@
                     "country",
                     "time"
                 ],
-                "value": "sg_job_nopn_eq",
-                "resources": [
-                    "ddf--datapoints--sg_job_nopn_eq--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "sg_job_nopn_eq",
-                "resources": [
-                    "ddf--datapoints--sg_job_nopn_eq--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
-                "value": "sg_law_chmr",
-                "resources": [
-                    "ddf--datapoints--sg_law_chmr--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "sg_law_chmr",
-                "resources": [
-                    "ddf--datapoints--sg_law_chmr--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
-                "value": "sg_law_eqrm_wk",
-                "resources": [
-                    "ddf--datapoints--sg_law_eqrm_wk--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "sg_law_eqrm_wk",
-                "resources": [
-                    "ddf--datapoints--sg_law_eqrm_wk--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
                 "value": "sg_law_indx",
                 "resources": [
                     "ddf--datapoints--sg_law_indx--by--geo--time"
@@ -76132,106 +75990,6 @@
                 "value": "sg_law_indx",
                 "resources": [
                     "ddf--datapoints--sg_law_indx--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
-                "value": "sg_law_leve_pu",
-                "resources": [
-                    "ddf--datapoints--sg_law_leve_pu--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "sg_law_leve_pu",
-                "resources": [
-                    "ddf--datapoints--sg_law_leve_pu--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
-                "value": "sg_law_nodc_hr",
-                "resources": [
-                    "ddf--datapoints--sg_law_nodc_hr--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "sg_law_nodc_hr",
-                "resources": [
-                    "ddf--datapoints--sg_law_nodc_hr--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
-                "value": "sg_leg_dvaw",
-                "resources": [
-                    "ddf--datapoints--sg_leg_dvaw--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "sg_leg_dvaw",
-                "resources": [
-                    "ddf--datapoints--sg_leg_dvaw--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
-                "value": "sg_mmr_leve_ep",
-                "resources": [
-                    "ddf--datapoints--sg_mmr_leve_ep--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "sg_mmr_leve_ep",
-                "resources": [
-                    "ddf--datapoints--sg_mmr_leve_ep--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "country",
-                    "time"
-                ],
-                "value": "sg_nod_cons",
-                "resources": [
-                    "ddf--datapoints--sg_nod_cons--by--geo--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "sg_nod_cons",
-                "resources": [
-                    "ddf--datapoints--sg_nod_cons--by--geo--time"
                 ]
             },
             {
