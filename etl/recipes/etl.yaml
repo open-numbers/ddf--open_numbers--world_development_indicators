@@ -20,8 +20,23 @@ ingredients:
   key: economy, year
   value:
       $nin:
-          - income_2level  # exclude 2 level as open-numbers doesn't
-                           # have it
+          # exclude income level datapoints
+          # and make separated ingredient for them
+          - income_2level
+          - income_3level
+          - income_4level
+- id: wdi-datapoints-income_3levels
+  dataset: *wdi
+  key: economy, year
+  value:
+      $in:
+          - income_3level
+- id: wdi-datapoints-income_4levels
+  dataset: *wdi
+  key: economy, year
+  value:
+      $in:
+          - income_4level
 - id: wdi-concepts-discrete
   dataset: *wdi
   key: concept
@@ -146,7 +161,59 @@ cooking:
         base: wdi-countries-aligned
         key: country
         value: economy_new
+    result: wdi-datapoints-countries-aligned
+  # income 3 levels
+  - procedure: translate_column
+    ingredients:
+    - wdi-datapoints-income_3levels
+    options:
+      column: economy
+      dictionary:
+        base: wdi-countries-aligned
+        key: country
+        value: economy_new
+    result: wdi-datapoints-income_3levels-geo-aligned
+  - procedure: translate_column
+    ingredients:
+    - wdi-datapoints-income_3levels-geo-aligned
+    options:
+      # breakpoint: true
+      column: income_3level
+      dictionary:
+        hic: high_income
+        lic: low_income
+        mic: middle_income
+    result: wdi-datapoints-income_3levels-aligned
+  # income 4 levels
+  - procedure: translate_column
+    ingredients:
+    - wdi-datapoints-income_4levels
+    options:
+      column: economy
+      dictionary:
+        base: wdi-countries-aligned
+        key: country
+        value: economy_new
+    result: wdi-datapoints-income_4levels-geo-aligned
+  - procedure: translate_column
+    ingredients:
+    - wdi-datapoints-income_4levels-geo-aligned
+    options:
+      column: income_4level
+      dictionary:
+        hic: high_income
+        lic: low_income
+        lmc: lower_middle_income
+        umc: upper_middle_income
+    result: wdi-datapoints-income_4levels-aligned
+
+  - procedure: merge
+    ingredients:
+    - wdi-datapoints-income_3levels-aligned
+    - wdi-datapoints-income_4levels-aligned
+    - wdi-datapoints-countries-aligned
     result: wdi-datapoints-aligned
+
   - procedure: translate_header
     ingredients:
     - wdi-datapoints-aligned
