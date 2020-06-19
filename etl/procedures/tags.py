@@ -24,6 +24,8 @@ def generate_tags(chef, ingredients, result):
         df_ = df.copy()
         if 'topic' in df_.columns:
             df_['tags'] = df_['topic'].map(topic_to_tag)
+        # fill missing tags with "wdi"
+        df_['tags'] = df_['tags'].fillna('wdi')
         new_data[k] = df_
 
     return ConceptIngredient.from_procedure_result(result, ingredients[0].key, new_data)
