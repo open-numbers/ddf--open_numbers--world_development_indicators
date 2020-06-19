@@ -240,4 +240,4 @@ cooking:
   - procedure: serve
     ingredients:
     - gw-countries
-    - tag-entity
+    - tag-entity-updated
