@@ -231,6 +231,12 @@ cooking:
     options:
       path: datapoints
   entities:
+  - procedure: tags.update_entity_tag
+    ingredients:
+        - tag-entity
+    options:
+        concept_ingredient: wdi-concepts-continuous-with-tags
+    result: tag-entity-updated
   - procedure: serve
     ingredients:
     - gw-countries
