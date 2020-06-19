@@ -231,7 +231,7 @@ cooking:
     options:
       path: datapoints
   entities:
-  - procedure: tags.update_entity_tag
+  - procedure: tags.update_tag_entity
     ingredients:
         - tag-entity
     options:
