@@ -31,6 +31,7 @@ abw,2015,high_income
 abw,2016,high_income
 abw,2017,high_income
 abw,2018,high_income
+abw,2019,high_income
 afg,1987,low_income
 afg,1988,low_income
 afg,1989,low_income
@@ -63,6 +64,7 @@ afg,2015,low_income
 afg,2016,low_income
 afg,2017,low_income
 afg,2018,low_income
+afg,2019,low_income
 ago,1988,middle_income
 ago,1989,middle_income
 ago,1990,middle_income
@@ -94,6 +96,7 @@ ago,2015,middle_income
 ago,2016,middle_income
 ago,2017,middle_income
 ago,2018,middle_income
+ago,2019,middle_income
 alb,1990,middle_income
 alb,1991,middle_income
 alb,1992,middle_income
@@ -123,6 +126,7 @@ alb,2015,middle_income
 alb,2016,middle_income
 alb,2017,middle_income
 alb,2018,middle_income
+alb,2019,middle_income
 and,1990,high_income
 and,1991,high_income
 and,1992,high_income
@@ -152,6 +156,7 @@ and,2015,high_income
 and,2016,high_income
 and,2017,high_income
 and,2018,high_income
+and,2019,high_income
 ant,1987,middle_income
 ant,1988,middle_income
 ant,1989,middle_income
@@ -207,6 +212,7 @@ are,2015,high_income
 are,2016,high_income
 are,2017,high_income
 are,2018,high_income
+are,2019,high_income
 arg,1987,middle_income
 arg,1988,middle_income
 arg,1989,middle_income
@@ -239,6 +245,7 @@ arg,2015,middle_income
 arg,2016,middle_income
 arg,2017,high_income
 arg,2018,middle_income
+arg,2019,middle_income
 arm,1991,middle_income
 arm,1992,middle_income
 arm,1993,low_income
@@ -267,6 +274,7 @@ arm,2015,middle_income
 arm,2016,middle_income
 arm,2017,middle_income
 arm,2018,middle_income
+arm,2019,middle_income
 asm,1987,high_income
 asm,1988,high_income
 asm,1989,high_income
@@ -299,6 +307,7 @@ asm,2015,middle_income
 asm,2016,middle_income
 asm,2017,middle_income
 asm,2018,middle_income
+asm,2019,middle_income
 atg,1987,middle_income
 atg,1988,middle_income
 atg,1989,middle_income
@@ -331,6 +340,7 @@ atg,2015,high_income
 atg,2016,high_income
 atg,2017,high_income
 atg,2018,high_income
+atg,2019,high_income
 aus,1987,high_income
 aus,1988,high_income
 aus,1989,high_income
@@ -363,6 +373,7 @@ aus,2015,high_income
 aus,2016,high_income
 aus,2017,high_income
 aus,2018,high_income
+aus,2019,high_income
 aut,1987,high_income
 aut,1988,high_income
 aut,1989,high_income
@@ -395,6 +406,7 @@ aut,2015,high_income
 aut,2016,high_income
 aut,2017,high_income
 aut,2018,high_income
+aut,2019,high_income
 aze,1991,middle_income
 aze,1992,middle_income
 aze,1993,middle_income
@@ -423,6 +435,7 @@ aze,2015,middle_income
 aze,2016,middle_income
 aze,2017,middle_income
 aze,2018,middle_income
+aze,2019,middle_income
 bdi,1987,low_income
 bdi,1988,low_income
 bdi,1989,low_income
@@ -455,6 +468,7 @@ bdi,2015,low_income
 bdi,2016,low_income
 bdi,2017,low_income
 bdi,2018,low_income
+bdi,2019,low_income
 bel,1987,high_income
 bel,1988,high_income
 bel,1989,high_income
@@ -487,6 +501,7 @@ bel,2015,high_income
 bel,2016,high_income
 bel,2017,high_income
 bel,2018,high_income
+bel,2019,high_income
 ben,1987,low_income
 ben,1988,low_income
 ben,1989,low_income
@@ -519,6 +534,7 @@ ben,2015,low_income
 ben,2016,low_income
 ben,2017,low_income
 ben,2018,low_income
+ben,2019,middle_income
 bfa,1987,low_income
 bfa,1988,low_income
 bfa,1989,low_income
@@ -551,6 +567,7 @@ bfa,2015,low_income
 bfa,2016,low_income
 bfa,2017,low_income
 bfa,2018,low_income
+bfa,2019,low_income
 bgd,1987,low_income
 bgd,1988,low_income
 bgd,1989,low_income
@@ -583,6 +600,7 @@ bgd,2015,middle_income
 bgd,2016,middle_income
 bgd,2017,middle_income
 bgd,2018,middle_income
+bgd,2019,middle_income
 bgr,1989,middle_income
 bgr,1990,middle_income
 bgr,1991,middle_income
@@ -613,6 +631,7 @@ bgr,2015,middle_income
 bgr,2016,middle_income
 bgr,2017,middle_income
 bgr,2018,middle_income
+bgr,2019,middle_income
 bhr,1987,high_income
 bhr,1988,high_income
 bhr,1989,high_income
@@ -645,6 +664,7 @@ bhr,2015,high_income
 bhr,2016,high_income
 bhr,2017,high_income
 bhr,2018,high_income
+bhr,2019,high_income
 bhs,1987,high_income
 bhs,1988,high_income
 bhs,1989,high_income
@@ -677,6 +697,7 @@ bhs,2015,high_income
 bhs,2016,high_income
 bhs,2017,high_income
 bhs,2018,high_income
+bhs,2019,high_income
 bih,1992,middle_income
 bih,1993,low_income
 bih,1994,low_income
@@ -704,6 +725,7 @@ bih,2015,middle_income
 bih,2016,middle_income
 bih,2017,middle_income
 bih,2018,middle_income
+bih,2019,middle_income
 blr,1991,middle_income
 blr,1992,middle_income
 blr,1993,middle_income
@@ -732,6 +754,7 @@ blr,2015,middle_income
 blr,2016,middle_income
 blr,2017,middle_income
 blr,2018,middle_income
+blr,2019,middle_income
 blz,1987,middle_income
 blz,1988,middle_income
 blz,1989,middle_income
@@ -764,6 +787,7 @@ blz,2015,middle_income
 blz,2016,middle_income
 blz,2017,middle_income
 blz,2018,middle_income
+blz,2019,middle_income
 bmu,1987,high_income
 bmu,1988,high_income
 bmu,1989,high_income
@@ -796,6 +820,7 @@ bmu,2015,high_income
 bmu,2016,high_income
 bmu,2017,high_income
 bmu,2018,high_income
+bmu,2019,high_income
 bol,1987,middle_income
 bol,1988,middle_income
 bol,1989,middle_income
@@ -828,6 +853,7 @@ bol,2015,middle_income
 bol,2016,middle_income
 bol,2017,middle_income
 bol,2018,middle_income
+bol,2019,middle_income
 bra,1987,middle_income
 bra,1988,middle_income
 bra,1989,middle_income
@@ -860,6 +886,7 @@ bra,2015,middle_income
 bra,2016,middle_income
 bra,2017,middle_income
 bra,2018,middle_income
+bra,2019,middle_income
 brb,1987,middle_income
 brb,1988,middle_income
 brb,1989,high_income
@@ -892,6 +919,7 @@ brb,2015,high_income
 brb,2016,high_income
 brb,2017,high_income
 brb,2018,high_income
+brb,2019,high_income
 brn,1987,high_income
 brn,1990,high_income
 brn,1991,high_income
@@ -922,6 +950,7 @@ brn,2015,high_income
 brn,2016,high_income
 brn,2017,high_income
 brn,2018,high_income
+brn,2019,high_income
 btn,1987,low_income
 btn,1988,low_income
 btn,1989,low_income
@@ -954,6 +983,7 @@ btn,2015,middle_income
 btn,2016,middle_income
 btn,2017,middle_income
 btn,2018,middle_income
+btn,2019,middle_income
 bwa,1987,middle_income
 bwa,1988,middle_income
 bwa,1989,middle_income
@@ -986,6 +1016,7 @@ bwa,2015,middle_income
 bwa,2016,middle_income
 bwa,2017,middle_income
 bwa,2018,middle_income
+bwa,2019,middle_income
 caf,1987,low_income
 caf,1988,low_income
 caf,1989,low_income
@@ -1018,6 +1049,7 @@ caf,2015,low_income
 caf,2016,low_income
 caf,2017,low_income
 caf,2018,low_income
+caf,2019,low_income
 can,1987,high_income
 can,1988,high_income
 can,1989,high_income
@@ -1050,6 +1082,7 @@ can,2015,high_income
 can,2016,high_income
 can,2017,high_income
 can,2018,high_income
+can,2019,high_income
 chanisl,1987,high_income
 chanisl,1988,high_income
 chanisl,1989,high_income
@@ -1082,6 +1115,7 @@ chanisl,2015,high_income
 chanisl,2016,high_income
 chanisl,2017,high_income
 chanisl,2018,high_income
+chanisl,2019,high_income
 che,1987,high_income
 che,1988,high_income
 che,1989,high_income
@@ -1114,6 +1148,7 @@ che,2015,high_income
 che,2016,high_income
 che,2017,high_income
 che,2018,high_income
+che,2019,high_income
 cheslo,1990,middle_income
 cheslo,1991,middle_income
 chl,1987,middle_income
@@ -1148,6 +1183,7 @@ chl,2015,high_income
 chl,2016,high_income
 chl,2017,high_income
 chl,2018,high_income
+chl,2019,high_income
 chn,1987,low_income
 chn,1988,low_income
 chn,1989,low_income
@@ -1180,6 +1216,7 @@ chn,2015,middle_income
 chn,2016,middle_income
 chn,2017,middle_income
 chn,2018,middle_income
+chn,2019,middle_income
 civ,1987,middle_income
 civ,1988,middle_income
 civ,1989,middle_income
@@ -1212,6 +1249,7 @@ civ,2015,middle_income
 civ,2016,middle_income
 civ,2017,middle_income
 civ,2018,middle_income
+civ,2019,middle_income
 cmr,1987,middle_income
 cmr,1988,middle_income
 cmr,1989,middle_income
@@ -1244,6 +1282,7 @@ cmr,2015,middle_income
 cmr,2016,middle_income
 cmr,2017,middle_income
 cmr,2018,middle_income
+cmr,2019,middle_income
 cod,1987,low_income
 cod,1988,low_income
 cod,1989,low_income
@@ -1276,6 +1315,7 @@ cod,2015,low_income
 cod,2016,low_income
 cod,2017,low_income
 cod,2018,low_income
+cod,2019,low_income
 cog,1987,middle_income
 cog,1988,middle_income
 cog,1989,middle_income
@@ -1308,6 +1348,7 @@ cog,2015,middle_income
 cog,2016,middle_income
 cog,2017,middle_income
 cog,2018,middle_income
+cog,2019,middle_income
 col,1987,middle_income
 col,1988,middle_income
 col,1989,middle_income
@@ -1340,6 +1381,7 @@ col,2015,middle_income
 col,2016,middle_income
 col,2017,middle_income
 col,2018,middle_income
+col,2019,middle_income
 com,1987,low_income
 com,1988,low_income
 com,1989,low_income
@@ -1372,6 +1414,7 @@ com,2015,low_income
 com,2016,low_income
 com,2017,low_income
 com,2018,middle_income
+com,2019,middle_income
 cpv,1988,middle_income
 cpv,1989,middle_income
 cpv,1990,middle_income
@@ -1403,6 +1446,7 @@ cpv,2015,middle_income
 cpv,2016,middle_income
 cpv,2017,middle_income
 cpv,2018,middle_income
+cpv,2019,middle_income
 cri,1987,middle_income
 cri,1988,middle_income
 cri,1989,middle_income
@@ -1435,6 +1479,7 @@ cri,2015,middle_income
 cri,2016,middle_income
 cri,2017,middle_income
 cri,2018,middle_income
+cri,2019,middle_income
 cub,1990,middle_income
 cub,1991,middle_income
 cub,1992,middle_income
@@ -1464,6 +1509,7 @@ cub,2015,middle_income
 cub,2016,middle_income
 cub,2017,middle_income
 cub,2018,middle_income
+cub,2019,middle_income
 cym,1993,high_income
 cym,1994,high_income
 cym,1995,high_income
@@ -1490,6 +1536,7 @@ cym,2015,high_income
 cym,2016,high_income
 cym,2017,high_income
 cym,2018,high_income
+cym,2019,high_income
 cyp,1987,middle_income
 cyp,1988,high_income
 cyp,1989,high_income
@@ -1522,6 +1569,7 @@ cyp,2015,high_income
 cyp,2016,high_income
 cyp,2017,high_income
 cyp,2018,high_income
+cyp,2019,high_income
 cze,1992,middle_income
 cze,1993,middle_income
 cze,1994,middle_income
@@ -1549,6 +1597,7 @@ cze,2015,high_income
 cze,2016,high_income
 cze,2017,high_income
 cze,2018,high_income
+cze,2019,high_income
 deu,1987,high_income
 deu,1988,high_income
 deu,1989,high_income
@@ -1581,6 +1630,7 @@ deu,2015,high_income
 deu,2016,high_income
 deu,2017,high_income
 deu,2018,high_income
+deu,2019,high_income
 dji,1990,middle_income
 dji,1991,middle_income
 dji,1992,middle_income
@@ -1610,6 +1660,7 @@ dji,2015,middle_income
 dji,2016,middle_income
 dji,2017,middle_income
 dji,2018,middle_income
+dji,2019,middle_income
 dma,1987,middle_income
 dma,1988,middle_income
 dma,1989,middle_income
@@ -1642,6 +1693,7 @@ dma,2015,middle_income
 dma,2016,middle_income
 dma,2017,middle_income
 dma,2018,middle_income
+dma,2019,middle_income
 dnk,1987,high_income
 dnk,1988,high_income
 dnk,1989,high_income
@@ -1674,6 +1726,7 @@ dnk,2015,high_income
 dnk,2016,high_income
 dnk,2017,high_income
 dnk,2018,high_income
+dnk,2019,high_income
 dom,1987,middle_income
 dom,1988,middle_income
 dom,1989,middle_income
@@ -1706,6 +1759,7 @@ dom,2015,middle_income
 dom,2016,middle_income
 dom,2017,middle_income
 dom,2018,middle_income
+dom,2019,middle_income
 dza,1987,middle_income
 dza,1988,middle_income
 dza,1989,middle_income
@@ -1738,6 +1792,7 @@ dza,2015,middle_income
 dza,2016,middle_income
 dza,2017,middle_income
 dza,2018,middle_income
+dza,2019,middle_income
 ecu,1987,middle_income
 ecu,1988,middle_income
 ecu,1989,middle_income
@@ -1770,6 +1825,7 @@ ecu,2015,middle_income
 ecu,2016,middle_income
 ecu,2017,middle_income
 ecu,2018,middle_income
+ecu,2019,middle_income
 egy,1987,middle_income
 egy,1988,middle_income
 egy,1989,middle_income
@@ -1802,6 +1858,7 @@ egy,2015,middle_income
 egy,2016,middle_income
 egy,2017,middle_income
 egy,2018,middle_income
+egy,2019,middle_income
 eri,1992,low_income
 eri,1993,low_income
 eri,1994,low_income
@@ -1829,6 +1886,7 @@ eri,2015,low_income
 eri,2016,low_income
 eri,2017,low_income
 eri,2018,low_income
+eri,2019,low_income
 esp,1987,high_income
 esp,1988,high_income
 esp,1989,high_income
@@ -1861,6 +1919,7 @@ esp,2015,high_income
 esp,2016,high_income
 esp,2017,high_income
 esp,2018,high_income
+esp,2019,high_income
 est,1991,middle_income
 est,1992,middle_income
 est,1993,middle_income
@@ -1889,6 +1948,7 @@ est,2015,high_income
 est,2016,high_income
 est,2017,high_income
 est,2018,high_income
+est,2019,high_income
 eth,1987,low_income
 eth,1988,low_income
 eth,1989,low_income
@@ -1921,6 +1981,7 @@ eth,2015,low_income
 eth,2016,low_income
 eth,2017,low_income
 eth,2018,low_income
+eth,2019,low_income
 fin,1987,high_income
 fin,1988,high_income
 fin,1989,high_income
@@ -1953,6 +2014,7 @@ fin,2015,high_income
 fin,2016,high_income
 fin,2017,high_income
 fin,2018,high_income
+fin,2019,high_income
 fji,1987,middle_income
 fji,1988,middle_income
 fji,1989,middle_income
@@ -1985,6 +2047,7 @@ fji,2015,middle_income
 fji,2016,middle_income
 fji,2017,middle_income
 fji,2018,middle_income
+fji,2019,middle_income
 fra,1987,high_income
 fra,1988,high_income
 fra,1989,high_income
@@ -2017,6 +2080,7 @@ fra,2015,high_income
 fra,2016,high_income
 fra,2017,high_income
 fra,2018,high_income
+fra,2019,high_income
 fro,1987,high_income
 fro,1988,high_income
 fro,1989,high_income
@@ -2049,6 +2113,7 @@ fro,2015,high_income
 fro,2016,high_income
 fro,2017,high_income
 fro,2018,high_income
+fro,2019,high_income
 fsm,1991,middle_income
 fsm,1992,middle_income
 fsm,1993,middle_income
@@ -2077,6 +2142,7 @@ fsm,2015,middle_income
 fsm,2016,middle_income
 fsm,2017,middle_income
 fsm,2018,middle_income
+fsm,2019,middle_income
 gab,1987,middle_income
 gab,1988,middle_income
 gab,1989,middle_income
@@ -2109,6 +2175,7 @@ gab,2015,middle_income
 gab,2016,middle_income
 gab,2017,middle_income
 gab,2018,middle_income
+gab,2019,middle_income
 gbm,1987,high_income
 gbm,1988,high_income
 gbm,1989,high_income
@@ -2141,6 +2208,7 @@ gbm,2015,high_income
 gbm,2016,high_income
 gbm,2017,high_income
 gbm,2018,high_income
+gbm,2019,high_income
 gbr,1987,high_income
 gbr,1988,high_income
 gbr,1989,high_income
@@ -2173,6 +2241,7 @@ gbr,2015,high_income
 gbr,2016,high_income
 gbr,2017,high_income
 gbr,2018,high_income
+gbr,2019,high_income
 geo,1991,middle_income
 geo,1992,middle_income
 geo,1993,low_income
@@ -2201,6 +2270,7 @@ geo,2015,middle_income
 geo,2016,middle_income
 geo,2017,middle_income
 geo,2018,middle_income
+geo,2019,middle_income
 gha,1987,low_income
 gha,1988,low_income
 gha,1989,low_income
@@ -2233,6 +2303,7 @@ gha,2015,middle_income
 gha,2016,middle_income
 gha,2017,middle_income
 gha,2018,middle_income
+gha,2019,middle_income
 gib,1987,middle_income
 gib,1988,middle_income
 gib,1989,middle_income
@@ -2246,6 +2317,7 @@ gib,2015,high_income
 gib,2016,high_income
 gib,2017,high_income
 gib,2018,high_income
+gib,2019,high_income
 gin,1987,low_income
 gin,1988,low_income
 gin,1989,low_income
@@ -2278,6 +2350,7 @@ gin,2015,low_income
 gin,2016,low_income
 gin,2017,low_income
 gin,2018,low_income
+gin,2019,low_income
 gmb,1987,low_income
 gmb,1988,low_income
 gmb,1989,low_income
@@ -2310,6 +2383,7 @@ gmb,2015,low_income
 gmb,2016,low_income
 gmb,2017,low_income
 gmb,2018,low_income
+gmb,2019,low_income
 gnb,1987,low_income
 gnb,1988,low_income
 gnb,1989,low_income
@@ -2342,6 +2416,7 @@ gnb,2015,low_income
 gnb,2016,low_income
 gnb,2017,low_income
 gnb,2018,low_income
+gnb,2019,low_income
 gnq,1987,low_income
 gnq,1988,low_income
 gnq,1989,low_income
@@ -2374,6 +2449,7 @@ gnq,2015,middle_income
 gnq,2016,middle_income
 gnq,2017,middle_income
 gnq,2018,middle_income
+gnq,2019,middle_income
 grc,1987,middle_income
 grc,1988,middle_income
 grc,1989,middle_income
@@ -2406,6 +2482,7 @@ grc,2015,high_income
 grc,2016,high_income
 grc,2017,high_income
 grc,2018,high_income
+grc,2019,high_income
 grd,1987,middle_income
 grd,1988,middle_income
 grd,1989,middle_income
@@ -2438,6 +2515,7 @@ grd,2015,middle_income
 grd,2016,middle_income
 grd,2017,middle_income
 grd,2018,middle_income
+grd,2019,middle_income
 grl,1987,high_income
 grl,1988,high_income
 grl,1989,high_income
@@ -2470,6 +2548,7 @@ grl,2015,high_income
 grl,2016,high_income
 grl,2017,high_income
 grl,2018,high_income
+grl,2019,high_income
 gtm,1987,middle_income
 gtm,1988,middle_income
 gtm,1989,middle_income
@@ -2502,6 +2581,7 @@ gtm,2015,middle_income
 gtm,2016,middle_income
 gtm,2017,middle_income
 gtm,2018,middle_income
+gtm,2019,middle_income
 gum,1987,high_income
 gum,1988,high_income
 gum,1989,high_income
@@ -2534,6 +2614,7 @@ gum,2015,high_income
 gum,2016,high_income
 gum,2017,high_income
 gum,2018,high_income
+gum,2019,high_income
 guy,1987,low_income
 guy,1988,low_income
 guy,1989,low_income
@@ -2566,6 +2647,7 @@ guy,2015,middle_income
 guy,2016,middle_income
 guy,2017,middle_income
 guy,2018,middle_income
+guy,2019,middle_income
 hkg,1987,high_income
 hkg,1988,high_income
 hkg,1989,high_income
@@ -2598,6 +2680,7 @@ hkg,2015,high_income
 hkg,2016,high_income
 hkg,2017,high_income
 hkg,2018,high_income
+hkg,2019,high_income
 hnd,1987,middle_income
 hnd,1988,middle_income
 hnd,1989,middle_income
@@ -2630,6 +2713,7 @@ hnd,2015,middle_income
 hnd,2016,middle_income
 hnd,2017,middle_income
 hnd,2018,middle_income
+hnd,2019,middle_income
 hrv,1992,middle_income
 hrv,1993,middle_income
 hrv,1994,middle_income
@@ -2657,6 +2741,7 @@ hrv,2015,high_income
 hrv,2016,middle_income
 hrv,2017,high_income
 hrv,2018,high_income
+hrv,2019,high_income
 hti,1987,low_income
 hti,1988,low_income
 hti,1989,low_income
@@ -2689,6 +2774,7 @@ hti,2015,low_income
 hti,2016,low_income
 hti,2017,low_income
 hti,2018,low_income
+hti,2019,low_income
 hun,1987,middle_income
 hun,1988,middle_income
 hun,1989,middle_income
@@ -2721,6 +2807,7 @@ hun,2015,high_income
 hun,2016,high_income
 hun,2017,high_income
 hun,2018,high_income
+hun,2019,high_income
 idn,1987,low_income
 idn,1988,low_income
 idn,1989,low_income
@@ -2753,6 +2840,7 @@ idn,2015,middle_income
 idn,2016,middle_income
 idn,2017,middle_income
 idn,2018,middle_income
+idn,2019,middle_income
 ind,1987,low_income
 ind,1988,low_income
 ind,1989,low_income
@@ -2785,6 +2873,7 @@ ind,2015,middle_income
 ind,2016,middle_income
 ind,2017,middle_income
 ind,2018,middle_income
+ind,2019,middle_income
 irl,1987,high_income
 irl,1988,high_income
 irl,1989,high_income
@@ -2817,6 +2906,7 @@ irl,2015,high_income
 irl,2016,high_income
 irl,2017,high_income
 irl,2018,high_income
+irl,2019,high_income
 irn,1987,middle_income
 irn,1988,middle_income
 irn,1989,middle_income
@@ -2849,6 +2939,7 @@ irn,2015,middle_income
 irn,2016,middle_income
 irn,2017,middle_income
 irn,2018,middle_income
+irn,2019,middle_income
 irq,1987,middle_income
 irq,1988,middle_income
 irq,1989,middle_income
@@ -2881,6 +2972,7 @@ irq,2015,middle_income
 irq,2016,middle_income
 irq,2017,middle_income
 irq,2018,middle_income
+irq,2019,middle_income
 isl,1987,high_income
 isl,1988,high_income
 isl,1989,high_income
@@ -2913,6 +3005,7 @@ isl,2015,high_income
 isl,2016,high_income
 isl,2017,high_income
 isl,2018,high_income
+isl,2019,high_income
 isr,1987,high_income
 isr,1988,high_income
 isr,1989,high_income
@@ -2945,6 +3038,7 @@ isr,2015,high_income
 isr,2016,high_income
 isr,2017,high_income
 isr,2018,high_income
+isr,2019,high_income
 ita,1987,high_income
 ita,1988,high_income
 ita,1989,high_income
@@ -2977,6 +3071,7 @@ ita,2015,high_income
 ita,2016,high_income
 ita,2017,high_income
 ita,2018,high_income
+ita,2019,high_income
 jam,1987,middle_income
 jam,1988,middle_income
 jam,1989,middle_income
@@ -3009,6 +3104,7 @@ jam,2015,middle_income
 jam,2016,middle_income
 jam,2017,middle_income
 jam,2018,middle_income
+jam,2019,middle_income
 jor,1987,middle_income
 jor,1988,middle_income
 jor,1989,middle_income
@@ -3041,6 +3137,7 @@ jor,2015,middle_income
 jor,2016,middle_income
 jor,2017,middle_income
 jor,2018,middle_income
+jor,2019,middle_income
 jpn,1987,high_income
 jpn,1988,high_income
 jpn,1989,high_income
@@ -3073,6 +3170,7 @@ jpn,2015,high_income
 jpn,2016,high_income
 jpn,2017,high_income
 jpn,2018,high_income
+jpn,2019,high_income
 kaz,1991,middle_income
 kaz,1992,middle_income
 kaz,1993,middle_income
@@ -3101,6 +3199,7 @@ kaz,2015,middle_income
 kaz,2016,middle_income
 kaz,2017,middle_income
 kaz,2018,middle_income
+kaz,2019,middle_income
 ken,1987,low_income
 ken,1988,low_income
 ken,1989,low_income
@@ -3133,6 +3232,7 @@ ken,2015,middle_income
 ken,2016,middle_income
 ken,2017,middle_income
 ken,2018,middle_income
+ken,2019,middle_income
 kgz,1991,middle_income
 kgz,1992,middle_income
 kgz,1993,middle_income
@@ -3161,6 +3261,7 @@ kgz,2015,middle_income
 kgz,2016,middle_income
 kgz,2017,middle_income
 kgz,2018,middle_income
+kgz,2019,middle_income
 khm,1987,low_income
 khm,1988,low_income
 khm,1989,low_income
@@ -3193,6 +3294,7 @@ khm,2015,middle_income
 khm,2016,middle_income
 khm,2017,middle_income
 khm,2018,middle_income
+khm,2019,middle_income
 kir,1987,middle_income
 kir,1988,middle_income
 kir,1989,middle_income
@@ -3225,6 +3327,7 @@ kir,2015,middle_income
 kir,2016,middle_income
 kir,2017,middle_income
 kir,2018,middle_income
+kir,2019,middle_income
 kna,1987,middle_income
 kna,1988,middle_income
 kna,1989,middle_income
@@ -3257,6 +3360,7 @@ kna,2015,high_income
 kna,2016,high_income
 kna,2017,high_income
 kna,2018,high_income
+kna,2019,high_income
 kor,1987,middle_income
 kor,1988,middle_income
 kor,1989,middle_income
@@ -3289,6 +3393,7 @@ kor,2015,high_income
 kor,2016,high_income
 kor,2017,high_income
 kor,2018,high_income
+kor,2019,high_income
 kos,2008,middle_income
 kos,2009,middle_income
 kos,2010,middle_income
@@ -3300,6 +3405,7 @@ kos,2015,middle_income
 kos,2016,middle_income
 kos,2017,middle_income
 kos,2018,middle_income
+kos,2019,middle_income
 kwt,1987,high_income
 kwt,1988,high_income
 kwt,1989,high_income
@@ -3332,6 +3438,7 @@ kwt,2015,high_income
 kwt,2016,high_income
 kwt,2017,high_income
 kwt,2018,high_income
+kwt,2019,high_income
 lao,1987,low_income
 lao,1988,low_income
 lao,1989,low_income
@@ -3364,6 +3471,7 @@ lao,2015,middle_income
 lao,2016,middle_income
 lao,2017,middle_income
 lao,2018,middle_income
+lao,2019,middle_income
 lbn,1987,middle_income
 lbn,1988,middle_income
 lbn,1989,middle_income
@@ -3396,6 +3504,7 @@ lbn,2015,middle_income
 lbn,2016,middle_income
 lbn,2017,middle_income
 lbn,2018,middle_income
+lbn,2019,middle_income
 lbr,1987,low_income
 lbr,1988,low_income
 lbr,1989,low_income
@@ -3428,6 +3537,7 @@ lbr,2015,low_income
 lbr,2016,low_income
 lbr,2017,low_income
 lbr,2018,low_income
+lbr,2019,low_income
 lby,1987,middle_income
 lby,1988,middle_income
 lby,1989,middle_income
@@ -3460,6 +3570,7 @@ lby,2015,middle_income
 lby,2016,middle_income
 lby,2017,middle_income
 lby,2018,middle_income
+lby,2019,middle_income
 lca,1987,middle_income
 lca,1988,middle_income
 lca,1989,middle_income
@@ -3492,6 +3603,7 @@ lca,2015,middle_income
 lca,2016,middle_income
 lca,2017,middle_income
 lca,2018,middle_income
+lca,2019,middle_income
 lie,1994,high_income
 lie,1995,high_income
 lie,1996,high_income
@@ -3517,6 +3629,7 @@ lie,2015,high_income
 lie,2016,high_income
 lie,2017,high_income
 lie,2018,high_income
+lie,2019,high_income
 lka,1987,low_income
 lka,1988,low_income
 lka,1989,low_income
@@ -3549,6 +3662,7 @@ lka,2015,middle_income
 lka,2016,middle_income
 lka,2017,middle_income
 lka,2018,middle_income
+lka,2019,middle_income
 lso,1987,low_income
 lso,1988,low_income
 lso,1989,low_income
@@ -3581,6 +3695,7 @@ lso,2015,middle_income
 lso,2016,middle_income
 lso,2017,middle_income
 lso,2018,middle_income
+lso,2019,middle_income
 ltu,1991,middle_income
 ltu,1992,middle_income
 ltu,1993,middle_income
@@ -3609,6 +3724,7 @@ ltu,2015,high_income
 ltu,2016,high_income
 ltu,2017,high_income
 ltu,2018,high_income
+ltu,2019,high_income
 lux,1987,high_income
 lux,1988,high_income
 lux,1989,high_income
@@ -3641,6 +3757,7 @@ lux,2015,high_income
 lux,2016,high_income
 lux,2017,high_income
 lux,2018,high_income
+lux,2019,high_income
 lva,1991,middle_income
 lva,1992,middle_income
 lva,1993,middle_income
@@ -3669,6 +3786,7 @@ lva,2015,high_income
 lva,2016,high_income
 lva,2017,high_income
 lva,2018,high_income
+lva,2019,high_income
 mac,1987,middle_income
 mac,1988,middle_income
 mac,1989,middle_income
@@ -3701,6 +3819,7 @@ mac,2015,high_income
 mac,2016,high_income
 mac,2017,high_income
 mac,2018,high_income
+mac,2019,high_income
 maf,2010,high_income
 maf,2011,high_income
 maf,2012,high_income
@@ -3710,6 +3829,7 @@ maf,2015,high_income
 maf,2016,high_income
 maf,2017,high_income
 maf,2018,high_income
+maf,2019,high_income
 mar,1987,middle_income
 mar,1988,middle_income
 mar,1989,middle_income
@@ -3742,6 +3862,7 @@ mar,2015,middle_income
 mar,2016,middle_income
 mar,2017,middle_income
 mar,2018,middle_income
+mar,2019,middle_income
 mco,1994,high_income
 mco,1995,high_income
 mco,1996,high_income
@@ -3767,6 +3888,7 @@ mco,2015,high_income
 mco,2016,high_income
 mco,2017,high_income
 mco,2018,high_income
+mco,2019,high_income
 mda,1991,middle_income
 mda,1992,middle_income
 mda,1993,middle_income
@@ -3795,6 +3917,7 @@ mda,2015,middle_income
 mda,2016,middle_income
 mda,2017,middle_income
 mda,2018,middle_income
+mda,2019,middle_income
 mdg,1987,low_income
 mdg,1988,low_income
 mdg,1989,low_income
@@ -3827,6 +3950,7 @@ mdg,2015,low_income
 mdg,2016,low_income
 mdg,2017,low_income
 mdg,2018,low_income
+mdg,2019,low_income
 mdv,1987,low_income
 mdv,1988,low_income
 mdv,1989,low_income
@@ -3859,6 +3983,7 @@ mdv,2015,middle_income
 mdv,2016,middle_income
 mdv,2017,middle_income
 mdv,2018,middle_income
+mdv,2019,middle_income
 mex,1987,middle_income
 mex,1988,middle_income
 mex,1989,middle_income
@@ -3891,6 +4016,7 @@ mex,2015,middle_income
 mex,2016,middle_income
 mex,2017,middle_income
 mex,2018,middle_income
+mex,2019,middle_income
 mhl,1991,middle_income
 mhl,1992,middle_income
 mhl,1993,middle_income
@@ -3919,6 +4045,7 @@ mhl,2015,middle_income
 mhl,2016,middle_income
 mhl,2017,middle_income
 mhl,2018,middle_income
+mhl,2019,middle_income
 mkd,1992,middle_income
 mkd,1993,middle_income
 mkd,1994,middle_income
@@ -3946,6 +4073,7 @@ mkd,2015,middle_income
 mkd,2016,middle_income
 mkd,2017,middle_income
 mkd,2018,middle_income
+mkd,2019,middle_income
 mli,1987,low_income
 mli,1988,low_income
 mli,1989,low_income
@@ -3978,6 +4106,7 @@ mli,2015,low_income
 mli,2016,low_income
 mli,2017,low_income
 mli,2018,low_income
+mli,2019,low_income
 mlt,1987,middle_income
 mlt,1988,middle_income
 mlt,1989,high_income
@@ -4010,6 +4139,7 @@ mlt,2015,high_income
 mlt,2016,high_income
 mlt,2017,high_income
 mlt,2018,high_income
+mlt,2019,high_income
 mmr,1987,low_income
 mmr,1988,low_income
 mmr,1989,low_income
@@ -4042,6 +4172,7 @@ mmr,2015,middle_income
 mmr,2016,middle_income
 mmr,2017,middle_income
 mmr,2018,middle_income
+mmr,2019,middle_income
 mne,2006,middle_income
 mne,2007,middle_income
 mne,2008,middle_income
@@ -4055,6 +4186,7 @@ mne,2015,middle_income
 mne,2016,middle_income
 mne,2017,middle_income
 mne,2018,middle_income
+mne,2019,middle_income
 mng,1989,middle_income
 mng,1990,middle_income
 mng,1991,middle_income
@@ -4085,6 +4217,7 @@ mng,2015,middle_income
 mng,2016,middle_income
 mng,2017,middle_income
 mng,2018,middle_income
+mng,2019,middle_income
 mnp,1992,middle_income
 mnp,1993,middle_income
 mnp,1994,middle_income
@@ -4112,6 +4245,7 @@ mnp,2015,high_income
 mnp,2016,high_income
 mnp,2017,high_income
 mnp,2018,high_income
+mnp,2019,high_income
 moz,1987,low_income
 moz,1988,low_income
 moz,1989,low_income
@@ -4144,6 +4278,7 @@ moz,2015,low_income
 moz,2016,low_income
 moz,2017,low_income
 moz,2018,low_income
+moz,2019,low_income
 mrt,1987,low_income
 mrt,1988,low_income
 mrt,1989,low_income
@@ -4176,6 +4311,7 @@ mrt,2015,middle_income
 mrt,2016,middle_income
 mrt,2017,middle_income
 mrt,2018,middle_income
+mrt,2019,middle_income
 mus,1987,middle_income
 mus,1988,middle_income
 mus,1989,middle_income
@@ -4208,6 +4344,7 @@ mus,2015,middle_income
 mus,2016,middle_income
 mus,2017,middle_income
 mus,2018,middle_income
+mus,2019,high_income
 mwi,1987,low_income
 mwi,1988,low_income
 mwi,1989,low_income
@@ -4240,6 +4377,7 @@ mwi,2015,low_income
 mwi,2016,low_income
 mwi,2017,low_income
 mwi,2018,low_income
+mwi,2019,low_income
 mys,1987,middle_income
 mys,1988,middle_income
 mys,1989,middle_income
@@ -4272,6 +4410,7 @@ mys,2015,middle_income
 mys,2016,middle_income
 mys,2017,middle_income
 mys,2018,middle_income
+mys,2019,middle_income
 myt,1990,high_income
 myt,1991,middle_income
 myt,1992,middle_income
@@ -4323,6 +4462,7 @@ nam,2015,middle_income
 nam,2016,middle_income
 nam,2017,middle_income
 nam,2018,middle_income
+nam,2019,middle_income
 ncl,1987,middle_income
 ncl,1988,middle_income
 ncl,1989,middle_income
@@ -4355,6 +4495,7 @@ ncl,2015,high_income
 ncl,2016,high_income
 ncl,2017,high_income
 ncl,2018,high_income
+ncl,2019,high_income
 ner,1987,low_income
 ner,1988,low_income
 ner,1989,low_income
@@ -4387,6 +4528,7 @@ ner,2015,low_income
 ner,2016,low_income
 ner,2017,low_income
 ner,2018,low_income
+ner,2019,low_income
 nga,1987,low_income
 nga,1988,low_income
 nga,1989,low_income
@@ -4419,6 +4561,7 @@ nga,2015,middle_income
 nga,2016,middle_income
 nga,2017,middle_income
 nga,2018,middle_income
+nga,2019,middle_income
 nic,1987,middle_income
 nic,1988,middle_income
 nic,1989,middle_income
@@ -4451,6 +4594,7 @@ nic,2015,middle_income
 nic,2016,middle_income
 nic,2017,middle_income
 nic,2018,middle_income
+nic,2019,middle_income
 nld,1987,high_income
 nld,1988,high_income
 nld,1989,high_income
@@ -4483,6 +4627,7 @@ nld,2015,high_income
 nld,2016,high_income
 nld,2017,high_income
 nld,2018,high_income
+nld,2019,high_income
 nld_curacao,2010,high_income
 nld_curacao,2011,high_income
 nld_curacao,2012,high_income
@@ -4492,6 +4637,7 @@ nld_curacao,2015,high_income
 nld_curacao,2016,high_income
 nld_curacao,2017,high_income
 nld_curacao,2018,high_income
+nld_curacao,2019,high_income
 nor,1987,high_income
 nor,1988,high_income
 nor,1989,high_income
@@ -4524,6 +4670,7 @@ nor,2015,high_income
 nor,2016,high_income
 nor,2017,high_income
 nor,2018,high_income
+nor,2019,high_income
 npl,1987,low_income
 npl,1988,low_income
 npl,1989,low_income
@@ -4556,10 +4703,12 @@ npl,2015,low_income
 npl,2016,low_income
 npl,2017,low_income
 npl,2018,low_income
+npl,2019,middle_income
 nru,2015,high_income
 nru,2016,middle_income
 nru,2017,middle_income
 nru,2018,middle_income
+nru,2019,high_income
 nzl,1987,high_income
 nzl,1988,high_income
 nzl,1989,high_income
@@ -4592,6 +4741,7 @@ nzl,2015,high_income
 nzl,2016,high_income
 nzl,2017,high_income
 nzl,2018,high_income
+nzl,2019,high_income
 omn,1987,middle_income
 omn,1988,middle_income
 omn,1989,middle_income
@@ -4624,6 +4774,7 @@ omn,2015,high_income
 omn,2016,high_income
 omn,2017,high_income
 omn,2018,high_income
+omn,2019,high_income
 pak,1987,low_income
 pak,1988,low_income
 pak,1989,low_income
@@ -4656,6 +4807,7 @@ pak,2015,middle_income
 pak,2016,middle_income
 pak,2017,middle_income
 pak,2018,middle_income
+pak,2019,middle_income
 pan,1987,middle_income
 pan,1988,middle_income
 pan,1989,middle_income
@@ -4688,6 +4840,7 @@ pan,2015,middle_income
 pan,2016,middle_income
 pan,2017,high_income
 pan,2018,high_income
+pan,2019,high_income
 per,1987,middle_income
 per,1988,middle_income
 per,1989,middle_income
@@ -4720,6 +4873,7 @@ per,2015,middle_income
 per,2016,middle_income
 per,2017,middle_income
 per,2018,middle_income
+per,2019,middle_income
 phl,1987,middle_income
 phl,1988,middle_income
 phl,1989,middle_income
@@ -4752,6 +4906,7 @@ phl,2015,middle_income
 phl,2016,middle_income
 phl,2017,middle_income
 phl,2018,middle_income
+phl,2019,middle_income
 plw,1996,middle_income
 plw,1997,middle_income
 plw,1998,middle_income
@@ -4775,6 +4930,7 @@ plw,2015,middle_income
 plw,2016,high_income
 plw,2017,high_income
 plw,2018,high_income
+plw,2019,high_income
 png,1987,middle_income
 png,1988,middle_income
 png,1989,middle_income
@@ -4807,6 +4963,7 @@ png,2015,middle_income
 png,2016,middle_income
 png,2017,middle_income
 png,2018,middle_income
+png,2019,middle_income
 pol,1987,middle_income
 pol,1988,middle_income
 pol,1989,middle_income
@@ -4839,6 +4996,7 @@ pol,2015,high_income
 pol,2016,high_income
 pol,2017,high_income
 pol,2018,high_income
+pol,2019,high_income
 pri,1987,middle_income
 pri,1988,middle_income
 pri,1989,high_income
@@ -4871,6 +5029,7 @@ pri,2015,high_income
 pri,2016,high_income
 pri,2017,high_income
 pri,2018,high_income
+pri,2019,high_income
 prk,1990,middle_income
 prk,1991,middle_income
 prk,1992,middle_income
@@ -4900,6 +5059,7 @@ prk,2015,low_income
 prk,2016,low_income
 prk,2017,low_income
 prk,2018,low_income
+prk,2019,low_income
 prt,1987,middle_income
 prt,1988,middle_income
 prt,1989,middle_income
@@ -4932,6 +5092,7 @@ prt,2015,high_income
 prt,2016,high_income
 prt,2017,high_income
 prt,2018,high_income
+prt,2019,high_income
 pry,1987,middle_income
 pry,1988,middle_income
 pry,1989,middle_income
@@ -4964,6 +5125,7 @@ pry,2015,middle_income
 pry,2016,middle_income
 pry,2017,middle_income
 pry,2018,middle_income
+pry,2019,middle_income
 pse,1994,middle_income
 pse,1995,middle_income
 pse,1996,middle_income
@@ -4989,6 +5151,7 @@ pse,2015,middle_income
 pse,2016,middle_income
 pse,2017,middle_income
 pse,2018,middle_income
+pse,2019,middle_income
 pyf,1990,high_income
 pyf,1991,high_income
 pyf,1992,high_income
@@ -5018,6 +5181,7 @@ pyf,2015,high_income
 pyf,2016,high_income
 pyf,2017,high_income
 pyf,2018,high_income
+pyf,2019,high_income
 qat,1987,high_income
 qat,1988,high_income
 qat,1989,high_income
@@ -5050,6 +5214,7 @@ qat,2015,high_income
 qat,2016,high_income
 qat,2017,high_income
 qat,2018,high_income
+qat,2019,high_income
 rou,1987,middle_income
 rou,1988,middle_income
 rou,1989,middle_income
@@ -5082,6 +5247,7 @@ rou,2015,middle_income
 rou,2016,middle_income
 rou,2017,middle_income
 rou,2018,middle_income
+rou,2019,high_income
 rus,1991,middle_income
 rus,1992,middle_income
 rus,1993,middle_income
@@ -5110,6 +5276,7 @@ rus,2015,middle_income
 rus,2016,middle_income
 rus,2017,middle_income
 rus,2018,middle_income
+rus,2019,middle_income
 rwa,1987,low_income
 rwa,1988,low_income
 rwa,1989,low_income
@@ -5142,6 +5309,7 @@ rwa,2015,low_income
 rwa,2016,low_income
 rwa,2017,low_income
 rwa,2018,low_income
+rwa,2019,low_income
 sau,1987,high_income
 sau,1988,high_income
 sau,1989,high_income
@@ -5174,6 +5342,7 @@ sau,2015,high_income
 sau,2016,high_income
 sau,2017,high_income
 sau,2018,high_income
+sau,2019,high_income
 scg,1992,middle_income
 scg,1993,middle_income
 scg,1994,middle_income
@@ -5220,6 +5389,7 @@ sdn,2015,middle_income
 sdn,2016,middle_income
 sdn,2017,middle_income
 sdn,2018,middle_income
+sdn,2019,low_income
 sen,1987,middle_income
 sen,1988,middle_income
 sen,1989,middle_income
@@ -5252,6 +5422,7 @@ sen,2015,low_income
 sen,2016,low_income
 sen,2017,low_income
 sen,2018,middle_income
+sen,2019,middle_income
 sgp,1987,high_income
 sgp,1988,high_income
 sgp,1989,high_income
@@ -5284,6 +5455,7 @@ sgp,2015,high_income
 sgp,2016,high_income
 sgp,2017,high_income
 sgp,2018,high_income
+sgp,2019,high_income
 slb,1987,low_income
 slb,1988,middle_income
 slb,1989,low_income
@@ -5316,6 +5488,7 @@ slb,2015,middle_income
 slb,2016,middle_income
 slb,2017,middle_income
 slb,2018,middle_income
+slb,2019,middle_income
 sle,1987,low_income
 sle,1988,low_income
 sle,1989,low_income
@@ -5348,6 +5521,7 @@ sle,2015,low_income
 sle,2016,low_income
 sle,2017,low_income
 sle,2018,low_income
+sle,2019,low_income
 slv,1987,middle_income
 slv,1988,middle_income
 slv,1989,middle_income
@@ -5380,6 +5554,7 @@ slv,2015,middle_income
 slv,2016,middle_income
 slv,2017,middle_income
 slv,2018,middle_income
+slv,2019,middle_income
 smr,1991,high_income
 smr,1992,high_income
 smr,1993,high_income
@@ -5402,6 +5577,7 @@ smr,2015,high_income
 smr,2016,high_income
 smr,2017,high_income
 smr,2018,high_income
+smr,2019,high_income
 som,1987,low_income
 som,1988,low_income
 som,1989,low_income
@@ -5434,6 +5610,7 @@ som,2015,low_income
 som,2016,low_income
 som,2017,low_income
 som,2018,low_income
+som,2019,low_income
 srb,2006,middle_income
 srb,2007,middle_income
 srb,2008,middle_income
@@ -5447,6 +5624,7 @@ srb,2015,middle_income
 srb,2016,middle_income
 srb,2017,middle_income
 srb,2018,middle_income
+srb,2019,middle_income
 ssd,2011,middle_income
 ssd,2012,low_income
 ssd,2013,middle_income
@@ -5455,6 +5633,7 @@ ssd,2015,low_income
 ssd,2016,low_income
 ssd,2017,low_income
 ssd,2018,low_income
+ssd,2019,low_income
 stp,1987,low_income
 stp,1988,low_income
 stp,1989,low_income
@@ -5487,6 +5666,7 @@ stp,2015,middle_income
 stp,2016,middle_income
 stp,2017,middle_income
 stp,2018,middle_income
+stp,2019,middle_income
 sur,1987,middle_income
 sur,1988,middle_income
 sur,1989,middle_income
@@ -5519,6 +5699,7 @@ sur,2015,middle_income
 sur,2016,middle_income
 sur,2017,middle_income
 sur,2018,middle_income
+sur,2019,middle_income
 svk,1992,middle_income
 svk,1993,middle_income
 svk,1994,middle_income
@@ -5546,6 +5727,7 @@ svk,2015,high_income
 svk,2016,high_income
 svk,2017,high_income
 svk,2018,high_income
+svk,2019,high_income
 svn,1992,middle_income
 svn,1993,middle_income
 svn,1994,middle_income
@@ -5573,6 +5755,7 @@ svn,2015,high_income
 svn,2016,high_income
 svn,2017,high_income
 svn,2018,high_income
+svn,2019,high_income
 swe,1987,high_income
 swe,1988,high_income
 swe,1989,high_income
@@ -5605,6 +5788,7 @@ swe,2015,high_income
 swe,2016,high_income
 swe,2017,high_income
 swe,2018,high_income
+swe,2019,high_income
 swz,1987,middle_income
 swz,1988,middle_income
 swz,1989,middle_income
@@ -5637,6 +5821,7 @@ swz,2015,middle_income
 swz,2016,middle_income
 swz,2017,middle_income
 swz,2018,middle_income
+swz,2019,middle_income
 sxm,2010,high_income
 sxm,2011,high_income
 sxm,2012,high_income
@@ -5646,6 +5831,7 @@ sxm,2015,high_income
 sxm,2016,high_income
 sxm,2017,high_income
 sxm,2018,high_income
+sxm,2019,high_income
 syc,1987,middle_income
 syc,1988,middle_income
 syc,1989,middle_income
@@ -5678,6 +5864,7 @@ syc,2015,high_income
 syc,2016,high_income
 syc,2017,high_income
 syc,2018,high_income
+syc,2019,high_income
 syr,1987,middle_income
 syr,1988,middle_income
 syr,1989,middle_income
@@ -5710,6 +5897,7 @@ syr,2015,middle_income
 syr,2016,middle_income
 syr,2017,low_income
 syr,2018,low_income
+syr,2019,low_income
 tca,2009,high_income
 tca,2010,high_income
 tca,2011,high_income
@@ -5720,6 +5908,7 @@ tca,2015,high_income
 tca,2016,high_income
 tca,2017,high_income
 tca,2018,high_income
+tca,2019,high_income
 tcd,1987,low_income
 tcd,1988,low_income
 tcd,1989,low_income
@@ -5752,6 +5941,7 @@ tcd,2015,low_income
 tcd,2016,low_income
 tcd,2017,low_income
 tcd,2018,low_income
+tcd,2019,low_income
 tgo,1987,low_income
 tgo,1988,low_income
 tgo,1989,low_income
@@ -5784,6 +5974,7 @@ tgo,2015,low_income
 tgo,2016,low_income
 tgo,2017,low_income
 tgo,2018,low_income
+tgo,2019,low_income
 tha,1987,middle_income
 tha,1988,middle_income
 tha,1989,middle_income
@@ -5816,6 +6007,7 @@ tha,2015,middle_income
 tha,2016,middle_income
 tha,2017,middle_income
 tha,2018,middle_income
+tha,2019,middle_income
 tjk,1991,middle_income
 tjk,1992,low_income
 tjk,1993,low_income
@@ -5844,6 +6036,7 @@ tjk,2015,middle_income
 tjk,2016,middle_income
 tjk,2017,low_income
 tjk,2018,low_income
+tjk,2019,low_income
 tkm,1991,middle_income
 tkm,1992,middle_income
 tkm,1993,middle_income
@@ -5872,6 +6065,7 @@ tkm,2015,middle_income
 tkm,2016,middle_income
 tkm,2017,middle_income
 tkm,2018,middle_income
+tkm,2019,middle_income
 tls,2001,low_income
 tls,2002,low_income
 tls,2003,low_income
@@ -5890,6 +6084,7 @@ tls,2015,middle_income
 tls,2016,middle_income
 tls,2017,middle_income
 tls,2018,middle_income
+tls,2019,middle_income
 ton,1987,middle_income
 ton,1988,middle_income
 ton,1989,middle_income
@@ -5922,6 +6117,7 @@ ton,2015,middle_income
 ton,2016,middle_income
 ton,2017,middle_income
 ton,2018,middle_income
+ton,2019,middle_income
 tto,1987,middle_income
 tto,1988,middle_income
 tto,1989,middle_income
@@ -5954,6 +6150,7 @@ tto,2015,high_income
 tto,2016,high_income
 tto,2017,high_income
 tto,2018,high_income
+tto,2019,high_income
 tun,1987,middle_income
 tun,1988,middle_income
 tun,1989,middle_income
@@ -5986,6 +6183,7 @@ tun,2015,middle_income
 tun,2016,middle_income
 tun,2017,middle_income
 tun,2018,middle_income
+tun,2019,middle_income
 tur,1987,middle_income
 tur,1988,middle_income
 tur,1989,middle_income
@@ -6018,6 +6216,7 @@ tur,2015,middle_income
 tur,2016,middle_income
 tur,2017,middle_income
 tur,2018,middle_income
+tur,2019,middle_income
 tuv,2009,middle_income
 tuv,2010,middle_income
 tuv,2011,middle_income
@@ -6028,6 +6227,7 @@ tuv,2015,middle_income
 tuv,2016,middle_income
 tuv,2017,middle_income
 tuv,2018,middle_income
+tuv,2019,middle_income
 twn,1987,high_income
 twn,1988,high_income
 twn,1989,high_income
@@ -6060,6 +6260,7 @@ twn,2015,high_income
 twn,2016,high_income
 twn,2017,high_income
 twn,2018,high_income
+twn,2019,high_income
 tza,1987,low_income
 tza,1988,low_income
 tza,1989,low_income
@@ -6092,6 +6293,7 @@ tza,2015,low_income
 tza,2016,low_income
 tza,2017,low_income
 tza,2018,low_income
+tza,2019,middle_income
 uga,1987,low_income
 uga,1988,low_income
 uga,1989,low_income
@@ -6124,6 +6326,7 @@ uga,2015,low_income
 uga,2016,low_income
 uga,2017,low_income
 uga,2018,low_income
+uga,2019,low_income
 ukr,1991,middle_income
 ukr,1992,middle_income
 ukr,1993,middle_income
@@ -6152,6 +6355,7 @@ ukr,2015,middle_income
 ukr,2016,middle_income
 ukr,2017,middle_income
 ukr,2018,middle_income
+ukr,2019,middle_income
 ury,1987,middle_income
 ury,1988,middle_income
 ury,1989,middle_income
@@ -6184,6 +6388,7 @@ ury,2015,high_income
 ury,2016,high_income
 ury,2017,high_income
 ury,2018,high_income
+ury,2019,high_income
 usa,1987,high_income
 usa,1988,high_income
 usa,1989,high_income
@@ -6216,6 +6421,7 @@ usa,2015,high_income
 usa,2016,high_income
 usa,2017,high_income
 usa,2018,high_income
+usa,2019,high_income
 ussr,1990,middle_income
 uzb,1991,middle_income
 uzb,1992,middle_income
@@ -6245,6 +6451,7 @@ uzb,2015,middle_income
 uzb,2016,middle_income
 uzb,2017,middle_income
 uzb,2018,middle_income
+uzb,2019,middle_income
 vct,1987,middle_income
 vct,1988,middle_income
 vct,1989,middle_income
@@ -6277,6 +6484,7 @@ vct,2015,middle_income
 vct,2016,middle_income
 vct,2017,middle_income
 vct,2018,middle_income
+vct,2019,middle_income
 ven,1987,middle_income
 ven,1988,middle_income
 ven,1989,middle_income
@@ -6309,10 +6517,12 @@ ven,2015,middle_income
 ven,2016,middle_income
 ven,2017,middle_income
 ven,2018,middle_income
+ven,2019,middle_income
 vgb,2015,high_income
 vgb,2016,high_income
 vgb,2017,high_income
 vgb,2018,high_income
+vgb,2019,high_income
 vir,1987,high_income
 vir,1988,high_income
 vir,1989,high_income
@@ -6345,6 +6555,7 @@ vir,2015,high_income
 vir,2016,high_income
 vir,2017,high_income
 vir,2018,high_income
+vir,2019,high_income
 vnm,1987,low_income
 vnm,1988,low_income
 vnm,1989,low_income
@@ -6377,6 +6588,7 @@ vnm,2015,middle_income
 vnm,2016,middle_income
 vnm,2017,middle_income
 vnm,2018,middle_income
+vnm,2019,middle_income
 vut,1987,middle_income
 vut,1988,middle_income
 vut,1989,middle_income
@@ -6409,6 +6621,7 @@ vut,2015,middle_income
 vut,2016,middle_income
 vut,2017,middle_income
 vut,2018,middle_income
+vut,2019,middle_income
 wsm,1987,middle_income
 wsm,1988,middle_income
 wsm,1989,middle_income
@@ -6441,6 +6654,7 @@ wsm,2015,middle_income
 wsm,2016,middle_income
 wsm,2017,middle_income
 wsm,2018,middle_income
+wsm,2019,middle_income
 yem,1987,middle_income
 yem,1988,middle_income
 yem,1989,middle_income
@@ -6473,6 +6687,7 @@ yem,2015,middle_income
 yem,2016,middle_income
 yem,2017,low_income
 yem,2018,low_income
+yem,2019,low_income
 yug,1987,middle_income
 yug,1988,middle_income
 yug,1989,middle_income
@@ -6510,6 +6725,7 @@ zaf,2015,middle_income
 zaf,2016,middle_income
 zaf,2017,middle_income
 zaf,2018,middle_income
+zaf,2019,middle_income
 zmb,1987,low_income
 zmb,1988,low_income
 zmb,1989,low_income
@@ -6542,6 +6758,7 @@ zmb,2015,middle_income
 zmb,2016,middle_income
 zmb,2017,middle_income
 zmb,2018,middle_income
+zmb,2019,middle_income
 zwe,1987,middle_income
 zwe,1988,middle_income
 zwe,1989,middle_income
@@ -6574,3 +6791,4 @@ zwe,2015,low_income
 zwe,2016,low_income
 zwe,2017,low_income
 zwe,2018,middle_income
+zwe,2019,middle_income

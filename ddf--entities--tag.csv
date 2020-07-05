@@ -88,6 +88,7 @@ wdi__infrastructure__technology,Technology,wdi__infrastructure
 wdi__infrastructure__transportation,Transportation,wdi__infrastructure
 wdi__poverty,Poverty,
 wdi__poverty__income_distribution,Income distribution,wdi__poverty
+wdi__poverty__multidimensional_poverty,Poverty: Multidimensional poverty,
 wdi__poverty__poverty_rates,Poverty rates,wdi__poverty
 wdi__poverty__shared_prosperity,Shared prosperity,wdi__poverty
 wdi__private_sector_trade,Private Sector & Trade,
