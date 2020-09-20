@@ -8,7 +8,7 @@
     "description": "Gapminder's World Development Indicators",
     "author": "Gapminder",
     "license": "MIT",
-    "created": "2020-09-15T12:14:09.465944+00:00",
+    "created": "2020-09-20T12:29:57.878590+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -36196,6 +36196,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--sh_xpd_chex_gd_zs--by--global--time",
+            "path": "datapoints/ddf--datapoints--sh_xpd_chex_gd_zs--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "sh_xpd_chex_gd_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--sh_xpd_chex_pc_cd--by--geo--time",
             "path": "datapoints/ddf--datapoints--sh_xpd_chex_pc_cd--by--geo--time.csv",
             "schema": {
@@ -36469,6 +36490,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--sh_xpd_ghed_gd_zs--by--global--time",
+            "path": "datapoints/ddf--datapoints--sh_xpd_ghed_gd_zs--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "sh_xpd_ghed_gd_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--sh_xpd_ghed_ge_zs--by--geo--time",
             "path": "datapoints/ddf--datapoints--sh_xpd_ghed_ge_zs--by--geo--time.csv",
             "schema": {
@@ -36485,6 +36527,27 @@
                 ],
                 "primaryKey": [
                     "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sh_xpd_ghed_ge_zs--by--global--time",
+            "path": "datapoints/ddf--datapoints--sh_xpd_ghed_ge_zs--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "sh_xpd_ghed_ge_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -38875,6 +38938,48 @@
                     },
                     {
                         "name": "sl_fam_work_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sl_gdp_pcap_em_kd--by--geo--time",
+            "path": "datapoints/ddf--datapoints--sl_gdp_pcap_em_kd--by--geo--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "sl_gdp_pcap_em_kd"
+                    }
+                ],
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sl_gdp_pcap_em_kd--by--global--time",
+            "path": "datapoints/ddf--datapoints--sl_gdp_pcap_em_kd--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "sl_gdp_pcap_em_kd"
                     }
                 ],
                 "primaryKey": [
@@ -79822,7 +79927,18 @@
                 ],
                 "value": "sh_xpd_chex_gd_zs",
                 "resources": [
-                    "ddf--datapoints--sh_xpd_chex_gd_zs--by--geo--time"
+                    "ddf--datapoints--sh_xpd_chex_gd_zs--by--geo--time",
+                    "ddf--datapoints--sh_xpd_chex_gd_zs--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "sh_xpd_chex_gd_zs",
+                "resources": [
+                    "ddf--datapoints--sh_xpd_chex_gd_zs--by--global--time"
                 ]
             },
             {
@@ -80028,7 +80144,18 @@
                 ],
                 "value": "sh_xpd_ghed_gd_zs",
                 "resources": [
-                    "ddf--datapoints--sh_xpd_ghed_gd_zs--by--geo--time"
+                    "ddf--datapoints--sh_xpd_ghed_gd_zs--by--geo--time",
+                    "ddf--datapoints--sh_xpd_ghed_gd_zs--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "sh_xpd_ghed_gd_zs",
+                "resources": [
+                    "ddf--datapoints--sh_xpd_ghed_gd_zs--by--global--time"
                 ]
             },
             {
@@ -80048,7 +80175,18 @@
                 ],
                 "value": "sh_xpd_ghed_ge_zs",
                 "resources": [
-                    "ddf--datapoints--sh_xpd_ghed_ge_zs--by--geo--time"
+                    "ddf--datapoints--sh_xpd_ghed_ge_zs--by--geo--time",
+                    "ddf--datapoints--sh_xpd_ghed_ge_zs--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "sh_xpd_ghed_ge_zs",
+                "resources": [
+                    "ddf--datapoints--sh_xpd_ghed_ge_zs--by--global--time"
                 ]
             },
             {
@@ -81978,6 +82116,37 @@
                 "value": "sl_fam_work_zs",
                 "resources": [
                     "ddf--datapoints--sl_fam_work_zs--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "sl_gdp_pcap_em_kd",
+                "resources": [
+                    "ddf--datapoints--sl_gdp_pcap_em_kd--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "sl_gdp_pcap_em_kd",
+                "resources": [
+                    "ddf--datapoints--sl_gdp_pcap_em_kd--by--geo--time",
+                    "ddf--datapoints--sl_gdp_pcap_em_kd--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "sl_gdp_pcap_em_kd",
+                "resources": [
+                    "ddf--datapoints--sl_gdp_pcap_em_kd--by--global--time"
                 ]
             },
             {
