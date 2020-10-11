@@ -8,7 +8,7 @@
     "description": "Gapminder's World Development Indicators",
     "author": "Gapminder",
     "license": "MIT",
-    "created": "2020-09-20T12:29:57.878590+00:00",
+    "created": "2020-10-11T12:38:20.214236+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -29581,27 +29581,6 @@
             }
         },
         {
-            "name": "ddf--datapoints--se_sec_tcaq_lo_fe_zs--by--global--time",
-            "path": "datapoints/ddf--datapoints--se_sec_tcaq_lo_fe_zs--by--global--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "global"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "se_sec_tcaq_lo_fe_zs"
-                    }
-                ],
-                "primaryKey": [
-                    "global",
-                    "time"
-                ]
-            }
-        },
-        {
             "name": "ddf--datapoints--se_sec_tcaq_lo_ma_zs--by--geo--time",
             "path": "datapoints/ddf--datapoints--se_sec_tcaq_lo_ma_zs--by--geo--time.csv",
             "schema": {
@@ -29623,27 +29602,6 @@
             }
         },
         {
-            "name": "ddf--datapoints--se_sec_tcaq_lo_ma_zs--by--global--time",
-            "path": "datapoints/ddf--datapoints--se_sec_tcaq_lo_ma_zs--by--global--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "global"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "se_sec_tcaq_lo_ma_zs"
-                    }
-                ],
-                "primaryKey": [
-                    "global",
-                    "time"
-                ]
-            }
-        },
-        {
             "name": "ddf--datapoints--se_sec_tcaq_lo_zs--by--geo--time",
             "path": "datapoints/ddf--datapoints--se_sec_tcaq_lo_zs--by--geo--time.csv",
             "schema": {
@@ -29660,27 +29618,6 @@
                 ],
                 "primaryKey": [
                     "geo",
-                    "time"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--se_sec_tcaq_lo_zs--by--global--time",
-            "path": "datapoints/ddf--datapoints--se_sec_tcaq_lo_zs--by--global--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "global"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "se_sec_tcaq_lo_zs"
-                    }
-                ],
-                "primaryKey": [
-                    "global",
                     "time"
                 ]
             }
@@ -32995,6 +32932,48 @@
                     },
                     {
                         "name": "sh_hiv_artc_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sh_hiv_incd--by--geo--time",
+            "path": "datapoints/ddf--datapoints--sh_hiv_incd--by--geo--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "sh_hiv_incd"
+                    }
+                ],
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sh_hiv_incd--by--global--time",
+            "path": "datapoints/ddf--datapoints--sh_hiv_incd--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "sh_hiv_incd"
                     }
                 ],
                 "primaryKey": [
@@ -74761,18 +74740,7 @@
                 ],
                 "value": "se_sec_tcaq_lo_fe_zs",
                 "resources": [
-                    "ddf--datapoints--se_sec_tcaq_lo_fe_zs--by--geo--time",
-                    "ddf--datapoints--se_sec_tcaq_lo_fe_zs--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "se_sec_tcaq_lo_fe_zs",
-                "resources": [
-                    "ddf--datapoints--se_sec_tcaq_lo_fe_zs--by--global--time"
+                    "ddf--datapoints--se_sec_tcaq_lo_fe_zs--by--geo--time"
                 ]
             },
             {
@@ -74792,18 +74760,7 @@
                 ],
                 "value": "se_sec_tcaq_lo_ma_zs",
                 "resources": [
-                    "ddf--datapoints--se_sec_tcaq_lo_ma_zs--by--geo--time",
-                    "ddf--datapoints--se_sec_tcaq_lo_ma_zs--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "se_sec_tcaq_lo_ma_zs",
-                "resources": [
-                    "ddf--datapoints--se_sec_tcaq_lo_ma_zs--by--global--time"
+                    "ddf--datapoints--se_sec_tcaq_lo_ma_zs--by--geo--time"
                 ]
             },
             {
@@ -74823,18 +74780,7 @@
                 ],
                 "value": "se_sec_tcaq_lo_zs",
                 "resources": [
-                    "ddf--datapoints--se_sec_tcaq_lo_zs--by--geo--time",
-                    "ddf--datapoints--se_sec_tcaq_lo_zs--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "se_sec_tcaq_lo_zs",
-                "resources": [
-                    "ddf--datapoints--se_sec_tcaq_lo_zs--by--global--time"
+                    "ddf--datapoints--se_sec_tcaq_lo_zs--by--geo--time"
                 ]
             },
             {
@@ -77428,6 +77374,37 @@
                 "value": "sh_hiv_artc_zs",
                 "resources": [
                     "ddf--datapoints--sh_hiv_artc_zs--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "sh_hiv_incd",
+                "resources": [
+                    "ddf--datapoints--sh_hiv_incd--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "sh_hiv_incd",
+                "resources": [
+                    "ddf--datapoints--sh_hiv_incd--by--geo--time",
+                    "ddf--datapoints--sh_hiv_incd--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "sh_hiv_incd",
+                "resources": [
+                    "ddf--datapoints--sh_hiv_incd--by--global--time"
                 ]
             },
             {
