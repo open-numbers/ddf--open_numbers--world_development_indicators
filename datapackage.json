@@ -8,7 +8,7 @@
     "description": "Gapminder's World Development Indicators",
     "author": "Gapminder",
     "license": "MIT",
-    "created": "2020-10-11T12:38:20.214236+00:00",
+    "created": "2020-10-20T12:28:36.525274+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -6628,6 +6628,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--eg_cft_accs_zs--by--global--time",
+            "path": "datapoints/ddf--datapoints--eg_cft_accs_zs--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "eg_cft_accs_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--eg_egy_prim_pp_kd--by--geo--time",
             "path": "datapoints/ddf--datapoints--eg_egy_prim_pp_kd--by--geo--time.csv",
             "schema": {
@@ -6691,6 +6712,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--eg_elc_accs_ru_zs--by--global--time",
+            "path": "datapoints/ddf--datapoints--eg_elc_accs_ru_zs--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "eg_elc_accs_ru_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--eg_elc_accs_ur_zs--by--geo--time",
             "path": "datapoints/ddf--datapoints--eg_elc_accs_ur_zs--by--geo--time.csv",
             "schema": {
@@ -6712,6 +6754,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--eg_elc_accs_ur_zs--by--global--time",
+            "path": "datapoints/ddf--datapoints--eg_elc_accs_ur_zs--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "eg_elc_accs_ur_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--eg_elc_accs_zs--by--geo--time",
             "path": "datapoints/ddf--datapoints--eg_elc_accs_zs--by--geo--time.csv",
             "schema": {
@@ -6728,6 +6791,27 @@
                 ],
                 "primaryKey": [
                     "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--eg_elc_accs_zs--by--global--time",
+            "path": "datapoints/ddf--datapoints--eg_elc_accs_zs--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "eg_elc_accs_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -8854,6 +8938,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--en_atm_pm25_mc_m3--by--global--time",
+            "path": "datapoints/ddf--datapoints--en_atm_pm25_mc_m3--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "en_atm_pm25_mc_m3"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--en_atm_pm25_mc_t1_zs--by--geo--time",
             "path": "datapoints/ddf--datapoints--en_atm_pm25_mc_t1_zs--by--geo--time.csv",
             "schema": {
@@ -8933,6 +9038,27 @@
                 ],
                 "primaryKey": [
                     "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--en_atm_pm25_mc_zs--by--global--time",
+            "path": "datapoints/ddf--datapoints--en_atm_pm25_mc_zs--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "en_atm_pm25_mc_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -9484,6 +9610,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--en_pop_el5m_ru_zs--by--global--time",
+            "path": "datapoints/ddf--datapoints--en_pop_el5m_ru_zs--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "en_pop_el5m_ru_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--en_pop_el5m_ur_zs--by--geo--time",
             "path": "datapoints/ddf--datapoints--en_pop_el5m_ur_zs--by--geo--time.csv",
             "schema": {
@@ -9505,6 +9652,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--en_pop_el5m_ur_zs--by--global--time",
+            "path": "datapoints/ddf--datapoints--en_pop_el5m_ur_zs--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "en_pop_el5m_ur_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--en_pop_el5m_zs--by--geo--time",
             "path": "datapoints/ddf--datapoints--en_pop_el5m_zs--by--geo--time.csv",
             "schema": {
@@ -9521,6 +9689,27 @@
                 ],
                 "primaryKey": [
                     "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--en_pop_el5m_zs--by--global--time",
+            "path": "datapoints/ddf--datapoints--en_pop_el5m_zs--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "en_pop_el5m_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -11768,6 +11957,27 @@
                 ],
                 "primaryKey": [
                     "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gb_xpd_rsdv_gd_zs--by--global--time",
+            "path": "datapoints/ddf--datapoints--gb_xpd_rsdv_gd_zs--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gb_xpd_rsdv_gd_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -23071,6 +23281,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--ny_gdp_coal_rt_zs--by--global--time",
+            "path": "datapoints/ddf--datapoints--ny_gdp_coal_rt_zs--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "ny_gdp_coal_rt_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--ny_gdp_defl_kd_zg--by--geo--time",
             "path": "datapoints/ddf--datapoints--ny_gdp_defl_kd_zg--by--geo--time.csv",
             "schema": {
@@ -23365,6 +23596,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--ny_gdp_frst_rt_zs--by--global--time",
+            "path": "datapoints/ddf--datapoints--ny_gdp_frst_rt_zs--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "ny_gdp_frst_rt_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--ny_gdp_minr_rt_zs--by--geo--time",
             "path": "datapoints/ddf--datapoints--ny_gdp_minr_rt_zs--by--geo--time.csv",
             "schema": {
@@ -23381,6 +23633,27 @@
                 ],
                 "primaryKey": [
                     "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--ny_gdp_minr_rt_zs--by--global--time",
+            "path": "datapoints/ddf--datapoints--ny_gdp_minr_rt_zs--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "ny_gdp_minr_rt_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -23680,6 +23953,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--ny_gdp_ngas_rt_zs--by--global--time",
+            "path": "datapoints/ddf--datapoints--ny_gdp_ngas_rt_zs--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "ny_gdp_ngas_rt_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--ny_gdp_pcap_cd--by--geo--time",
             "path": "datapoints/ddf--datapoints--ny_gdp_pcap_cd--by--geo--time.csv",
             "schema": {
@@ -23953,6 +24247,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--ny_gdp_petr_rt_zs--by--global--time",
+            "path": "datapoints/ddf--datapoints--ny_gdp_petr_rt_zs--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "ny_gdp_petr_rt_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--ny_gdp_totl_rt_zs--by--geo--time",
             "path": "datapoints/ddf--datapoints--ny_gdp_totl_rt_zs--by--geo--time.csv",
             "schema": {
@@ -23969,6 +24284,27 @@
                 ],
                 "primaryKey": [
                     "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--ny_gdp_totl_rt_zs--by--global--time",
+            "path": "datapoints/ddf--datapoints--ny_gdp_totl_rt_zs--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "ny_gdp_totl_rt_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -33058,6 +33394,132 @@
                     },
                     {
                         "name": "sh_hiv_incd_tl"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sh_hiv_incd_tl_p3--by--geo--time",
+            "path": "datapoints/ddf--datapoints--sh_hiv_incd_tl_p3--by--geo--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "sh_hiv_incd_tl_p3"
+                    }
+                ],
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sh_hiv_incd_tl_p3--by--global--time",
+            "path": "datapoints/ddf--datapoints--sh_hiv_incd_tl_p3--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "sh_hiv_incd_tl_p3"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sh_hiv_incd_yg--by--geo--time",
+            "path": "datapoints/ddf--datapoints--sh_hiv_incd_yg--by--geo--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "sh_hiv_incd_yg"
+                    }
+                ],
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sh_hiv_incd_yg--by--global--time",
+            "path": "datapoints/ddf--datapoints--sh_hiv_incd_yg--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "sh_hiv_incd_yg"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sh_hiv_incd_yg_p3--by--geo--time",
+            "path": "datapoints/ddf--datapoints--sh_hiv_incd_yg_p3--by--geo--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "sh_hiv_incd_yg_p3"
+                    }
+                ],
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sh_hiv_incd_yg_p3--by--global--time",
+            "path": "datapoints/ddf--datapoints--sh_hiv_incd_yg_p3--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "sh_hiv_incd_yg_p3"
                     }
                 ],
                 "primaryKey": [
@@ -56687,7 +57149,18 @@
                 ],
                 "value": "eg_cft_accs_zs",
                 "resources": [
-                    "ddf--datapoints--eg_cft_accs_zs--by--geo--time"
+                    "ddf--datapoints--eg_cft_accs_zs--by--geo--time",
+                    "ddf--datapoints--eg_cft_accs_zs--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "eg_cft_accs_zs",
+                "resources": [
+                    "ddf--datapoints--eg_cft_accs_zs--by--global--time"
                 ]
             },
             {
@@ -56738,7 +57211,18 @@
                 ],
                 "value": "eg_elc_accs_ru_zs",
                 "resources": [
-                    "ddf--datapoints--eg_elc_accs_ru_zs--by--geo--time"
+                    "ddf--datapoints--eg_elc_accs_ru_zs--by--geo--time",
+                    "ddf--datapoints--eg_elc_accs_ru_zs--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "eg_elc_accs_ru_zs",
+                "resources": [
+                    "ddf--datapoints--eg_elc_accs_ru_zs--by--global--time"
                 ]
             },
             {
@@ -56758,7 +57242,18 @@
                 ],
                 "value": "eg_elc_accs_ur_zs",
                 "resources": [
-                    "ddf--datapoints--eg_elc_accs_ur_zs--by--geo--time"
+                    "ddf--datapoints--eg_elc_accs_ur_zs--by--geo--time",
+                    "ddf--datapoints--eg_elc_accs_ur_zs--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "eg_elc_accs_ur_zs",
+                "resources": [
+                    "ddf--datapoints--eg_elc_accs_ur_zs--by--global--time"
                 ]
             },
             {
@@ -56778,7 +57273,18 @@
                 ],
                 "value": "eg_elc_accs_zs",
                 "resources": [
-                    "ddf--datapoints--eg_elc_accs_zs--by--geo--time"
+                    "ddf--datapoints--eg_elc_accs_zs--by--geo--time",
+                    "ddf--datapoints--eg_elc_accs_zs--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "eg_elc_accs_zs",
+                "resources": [
+                    "ddf--datapoints--eg_elc_accs_zs--by--global--time"
                 ]
             },
             {
@@ -58348,7 +58854,18 @@
                 ],
                 "value": "en_atm_pm25_mc_m3",
                 "resources": [
-                    "ddf--datapoints--en_atm_pm25_mc_m3--by--geo--time"
+                    "ddf--datapoints--en_atm_pm25_mc_m3--by--geo--time",
+                    "ddf--datapoints--en_atm_pm25_mc_m3--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "en_atm_pm25_mc_m3",
+                "resources": [
+                    "ddf--datapoints--en_atm_pm25_mc_m3--by--global--time"
                 ]
             },
             {
@@ -58428,7 +58945,18 @@
                 ],
                 "value": "en_atm_pm25_mc_zs",
                 "resources": [
-                    "ddf--datapoints--en_atm_pm25_mc_zs--by--geo--time"
+                    "ddf--datapoints--en_atm_pm25_mc_zs--by--geo--time",
+                    "ddf--datapoints--en_atm_pm25_mc_zs--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "en_atm_pm25_mc_zs",
+                "resources": [
+                    "ddf--datapoints--en_atm_pm25_mc_zs--by--global--time"
                 ]
             },
             {
@@ -58849,7 +59377,18 @@
                 ],
                 "value": "en_pop_el5m_ru_zs",
                 "resources": [
-                    "ddf--datapoints--en_pop_el5m_ru_zs--by--geo--time"
+                    "ddf--datapoints--en_pop_el5m_ru_zs--by--geo--time",
+                    "ddf--datapoints--en_pop_el5m_ru_zs--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "en_pop_el5m_ru_zs",
+                "resources": [
+                    "ddf--datapoints--en_pop_el5m_ru_zs--by--global--time"
                 ]
             },
             {
@@ -58869,7 +59408,18 @@
                 ],
                 "value": "en_pop_el5m_ur_zs",
                 "resources": [
-                    "ddf--datapoints--en_pop_el5m_ur_zs--by--geo--time"
+                    "ddf--datapoints--en_pop_el5m_ur_zs--by--geo--time",
+                    "ddf--datapoints--en_pop_el5m_ur_zs--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "en_pop_el5m_ur_zs",
+                "resources": [
+                    "ddf--datapoints--en_pop_el5m_ur_zs--by--global--time"
                 ]
             },
             {
@@ -58889,7 +59439,18 @@
                 ],
                 "value": "en_pop_el5m_zs",
                 "resources": [
-                    "ddf--datapoints--en_pop_el5m_zs--by--geo--time"
+                    "ddf--datapoints--en_pop_el5m_zs--by--geo--time",
+                    "ddf--datapoints--en_pop_el5m_zs--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "en_pop_el5m_zs",
+                "resources": [
+                    "ddf--datapoints--en_pop_el5m_zs--by--global--time"
                 ]
             },
             {
@@ -60660,7 +61221,18 @@
                 ],
                 "value": "gb_xpd_rsdv_gd_zs",
                 "resources": [
-                    "ddf--datapoints--gb_xpd_rsdv_gd_zs--by--geo--time"
+                    "ddf--datapoints--gb_xpd_rsdv_gd_zs--by--geo--time",
+                    "ddf--datapoints--gb_xpd_rsdv_gd_zs--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "gb_xpd_rsdv_gd_zs",
+                "resources": [
+                    "ddf--datapoints--gb_xpd_rsdv_gd_zs--by--global--time"
                 ]
             },
             {
@@ -69512,7 +70084,18 @@
                 ],
                 "value": "ny_gdp_coal_rt_zs",
                 "resources": [
-                    "ddf--datapoints--ny_gdp_coal_rt_zs--by--geo--time"
+                    "ddf--datapoints--ny_gdp_coal_rt_zs--by--geo--time",
+                    "ddf--datapoints--ny_gdp_coal_rt_zs--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "ny_gdp_coal_rt_zs",
+                "resources": [
+                    "ddf--datapoints--ny_gdp_coal_rt_zs--by--global--time"
                 ]
             },
             {
@@ -69765,7 +70348,18 @@
                 ],
                 "value": "ny_gdp_frst_rt_zs",
                 "resources": [
-                    "ddf--datapoints--ny_gdp_frst_rt_zs--by--geo--time"
+                    "ddf--datapoints--ny_gdp_frst_rt_zs--by--geo--time",
+                    "ddf--datapoints--ny_gdp_frst_rt_zs--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "ny_gdp_frst_rt_zs",
+                "resources": [
+                    "ddf--datapoints--ny_gdp_frst_rt_zs--by--global--time"
                 ]
             },
             {
@@ -69785,7 +70379,18 @@
                 ],
                 "value": "ny_gdp_minr_rt_zs",
                 "resources": [
-                    "ddf--datapoints--ny_gdp_minr_rt_zs--by--geo--time"
+                    "ddf--datapoints--ny_gdp_minr_rt_zs--by--geo--time",
+                    "ddf--datapoints--ny_gdp_minr_rt_zs--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "ny_gdp_minr_rt_zs",
+                "resources": [
+                    "ddf--datapoints--ny_gdp_minr_rt_zs--by--global--time"
                 ]
             },
             {
@@ -70020,7 +70625,18 @@
                 ],
                 "value": "ny_gdp_ngas_rt_zs",
                 "resources": [
-                    "ddf--datapoints--ny_gdp_ngas_rt_zs--by--geo--time"
+                    "ddf--datapoints--ny_gdp_ngas_rt_zs--by--geo--time",
+                    "ddf--datapoints--ny_gdp_ngas_rt_zs--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "ny_gdp_ngas_rt_zs",
+                "resources": [
+                    "ddf--datapoints--ny_gdp_ngas_rt_zs--by--global--time"
                 ]
             },
             {
@@ -70235,7 +70851,18 @@
                 ],
                 "value": "ny_gdp_petr_rt_zs",
                 "resources": [
-                    "ddf--datapoints--ny_gdp_petr_rt_zs--by--geo--time"
+                    "ddf--datapoints--ny_gdp_petr_rt_zs--by--geo--time",
+                    "ddf--datapoints--ny_gdp_petr_rt_zs--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "ny_gdp_petr_rt_zs",
+                "resources": [
+                    "ddf--datapoints--ny_gdp_petr_rt_zs--by--global--time"
                 ]
             },
             {
@@ -70255,7 +70882,18 @@
                 ],
                 "value": "ny_gdp_totl_rt_zs",
                 "resources": [
-                    "ddf--datapoints--ny_gdp_totl_rt_zs--by--geo--time"
+                    "ddf--datapoints--ny_gdp_totl_rt_zs--by--geo--time",
+                    "ddf--datapoints--ny_gdp_totl_rt_zs--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "ny_gdp_totl_rt_zs",
+                "resources": [
+                    "ddf--datapoints--ny_gdp_totl_rt_zs--by--global--time"
                 ]
             },
             {
@@ -77467,6 +78105,99 @@
                 "value": "sh_hiv_incd_tl",
                 "resources": [
                     "ddf--datapoints--sh_hiv_incd_tl--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "sh_hiv_incd_tl_p3",
+                "resources": [
+                    "ddf--datapoints--sh_hiv_incd_tl_p3--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "sh_hiv_incd_tl_p3",
+                "resources": [
+                    "ddf--datapoints--sh_hiv_incd_tl_p3--by--geo--time",
+                    "ddf--datapoints--sh_hiv_incd_tl_p3--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "sh_hiv_incd_tl_p3",
+                "resources": [
+                    "ddf--datapoints--sh_hiv_incd_tl_p3--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "sh_hiv_incd_yg",
+                "resources": [
+                    "ddf--datapoints--sh_hiv_incd_yg--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "sh_hiv_incd_yg",
+                "resources": [
+                    "ddf--datapoints--sh_hiv_incd_yg--by--geo--time",
+                    "ddf--datapoints--sh_hiv_incd_yg--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "sh_hiv_incd_yg",
+                "resources": [
+                    "ddf--datapoints--sh_hiv_incd_yg--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "sh_hiv_incd_yg_p3",
+                "resources": [
+                    "ddf--datapoints--sh_hiv_incd_yg_p3--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "sh_hiv_incd_yg_p3",
+                "resources": [
+                    "ddf--datapoints--sh_hiv_incd_yg_p3--by--geo--time",
+                    "ddf--datapoints--sh_hiv_incd_yg_p3--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "sh_hiv_incd_yg_p3",
+                "resources": [
+                    "ddf--datapoints--sh_hiv_incd_yg_p3--by--global--time"
                 ]
             },
             {
