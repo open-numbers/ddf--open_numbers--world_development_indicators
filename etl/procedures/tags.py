@@ -2,6 +2,7 @@
 
 """custom procedure to create tags column"""
 
+import logging
 import pandas as pd
 import dask.dataframe as dd
 from ddf_utils.chef.model.ingredient import ConceptIngredient, EntityIngredient
@@ -9,7 +10,12 @@ from ddf_utils.chef.helpers import debuggable
 from ddf_utils.str import to_concept_id
 
 
+logger = logging.getLogger('tags')
+
+
 def topic_to_tag(s):
+    if pd.isnull(s):
+        return 'wdi__uncategorized'
     ls = s.replace('US$', 'USD').split(':')
     ls_ = [to_concept_id(x) for x in ls]
     return 'wdi__' + '__'.join(ls_)
@@ -23,6 +29,9 @@ def generate_tags(chef, ingredients, result):
     for k, df in data.items():
         df_ = df.copy()
         if 'topic' in df_.columns:
+            if df_['topic'].hasnans:
+                logger.warning("there are concepts without any topic:")
+                logger.warning(df_[pd.isnull(df_['topic'])]['concept'].values)
             df_['tags'] = df_['topic'].map(topic_to_tag)
         # fill missing tags with "wdi"
         df_['tags'] = df_['tags'].fillna('wdi')
