@@ -8,7 +8,7 @@
     "description": "Gapminder's World Development Indicators",
     "author": "Gapminder",
     "license": "MIT",
-    "created": "2020-10-20T12:28:36.525274+00:00",
+    "created": "2021-01-07T06:14:45.448951+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -12104,6 +12104,27 @@
                 ],
                 "primaryKey": [
                     "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--gc_lbl_totl_gd_zs--by--global--time",
+            "path": "datapoints/ddf--datapoints--gc_lbl_totl_gd_zs--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "gc_lbl_totl_gd_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -36973,27 +36994,6 @@
             }
         },
         {
-            "name": "ddf--datapoints--sh_xpd_ghed_ge_zs--by--global--time",
-            "path": "datapoints/ddf--datapoints--sh_xpd_ghed_ge_zs--by--global--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "global"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "sh_xpd_ghed_ge_zs"
-                    }
-                ],
-                "primaryKey": [
-                    "global",
-                    "time"
-                ]
-            }
-        },
-        {
             "name": "ddf--datapoints--sh_xpd_ghed_pc_cd--by--geo--time",
             "path": "datapoints/ddf--datapoints--sh_xpd_ghed_pc_cd--by--geo--time.csv",
             "schema": {
@@ -61352,7 +61352,18 @@
                 ],
                 "value": "gc_lbl_totl_gd_zs",
                 "resources": [
-                    "ddf--datapoints--gc_lbl_totl_gd_zs--by--geo--time"
+                    "ddf--datapoints--gc_lbl_totl_gd_zs--by--geo--time",
+                    "ddf--datapoints--gc_lbl_totl_gd_zs--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "gc_lbl_totl_gd_zs",
+                "resources": [
+                    "ddf--datapoints--gc_lbl_totl_gd_zs--by--global--time"
                 ]
             },
             {
@@ -80883,18 +80894,7 @@
                 ],
                 "value": "sh_xpd_ghed_ge_zs",
                 "resources": [
-                    "ddf--datapoints--sh_xpd_ghed_ge_zs--by--geo--time",
-                    "ddf--datapoints--sh_xpd_ghed_ge_zs--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "sh_xpd_ghed_ge_zs",
-                "resources": [
-                    "ddf--datapoints--sh_xpd_ghed_ge_zs--by--global--time"
+                    "ddf--datapoints--sh_xpd_ghed_ge_zs--by--geo--time"
                 ]
             },
             {
