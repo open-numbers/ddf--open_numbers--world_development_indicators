@@ -8,7 +8,7 @@
     "description": "Gapminder's World Development Indicators",
     "author": "Gapminder",
     "license": "MIT",
-    "created": "2021-03-24T12:09:51.397837+00:00",
+    "created": "2021-04-04T12:08:29.554950+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -5746,6 +5746,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--dt_nfl_unid_cd--by--global--time",
+            "path": "datapoints/ddf--datapoints--dt_nfl_unid_cd--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "dt_nfl_unid_cd"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--dt_nfl_unpb_cd--by--geo--time",
             "path": "datapoints/ddf--datapoints--dt_nfl_unpb_cd--by--geo--time.csv",
             "schema": {
@@ -10324,6 +10345,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--er_h2o_fwtl_k3--by--global--time",
+            "path": "datapoints/ddf--datapoints--er_h2o_fwtl_k3--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "er_h2o_fwtl_k3"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--er_h2o_fwtl_zs--by--geo--time",
             "path": "datapoints/ddf--datapoints--er_h2o_fwtl_zs--by--geo--time.csv",
             "schema": {
@@ -10340,6 +10382,27 @@
                 ],
                 "primaryKey": [
                     "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--er_h2o_fwtl_zs--by--global--time",
+            "path": "datapoints/ddf--datapoints--er_h2o_fwtl_zs--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "er_h2o_fwtl_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -56272,6 +56335,26 @@
             },
             {
                 "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "dt_nfl_unid_cd",
+                "resources": [
+                    "ddf--datapoints--dt_nfl_unid_cd--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "dt_nfl_unid_cd",
+                "resources": [
+                    "ddf--datapoints--dt_nfl_unid_cd--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
                     "country",
                     "time"
                 ],
@@ -59745,7 +59828,18 @@
                 ],
                 "value": "er_h2o_fwtl_k3",
                 "resources": [
-                    "ddf--datapoints--er_h2o_fwtl_k3--by--geo--time"
+                    "ddf--datapoints--er_h2o_fwtl_k3--by--geo--time",
+                    "ddf--datapoints--er_h2o_fwtl_k3--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "er_h2o_fwtl_k3",
+                "resources": [
+                    "ddf--datapoints--er_h2o_fwtl_k3--by--global--time"
                 ]
             },
             {
@@ -59765,7 +59859,18 @@
                 ],
                 "value": "er_h2o_fwtl_zs",
                 "resources": [
-                    "ddf--datapoints--er_h2o_fwtl_zs--by--geo--time"
+                    "ddf--datapoints--er_h2o_fwtl_zs--by--geo--time",
+                    "ddf--datapoints--er_h2o_fwtl_zs--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "er_h2o_fwtl_zs",
+                "resources": [
+                    "ddf--datapoints--er_h2o_fwtl_zs--by--global--time"
                 ]
             },
             {
