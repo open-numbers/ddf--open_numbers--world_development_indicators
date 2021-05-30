@@ -8,7 +8,7 @@
     "description": "Gapminder's World Development Indicators",
     "author": "Gapminder",
     "license": "MIT",
-    "created": "2021-04-04T12:08:29.554950+00:00",
+    "created": "2021-05-30T12:28:57.521676+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -17737,6 +17737,132 @@
             }
         },
         {
+            "name": "ddf--datapoints--iq_spi_ovrl--by--geo--time",
+            "path": "datapoints/ddf--datapoints--iq_spi_ovrl--by--geo--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "iq_spi_ovrl"
+                    }
+                ],
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--iq_spi_pil1--by--geo--time",
+            "path": "datapoints/ddf--datapoints--iq_spi_pil1--by--geo--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "iq_spi_pil1"
+                    }
+                ],
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--iq_spi_pil2--by--geo--time",
+            "path": "datapoints/ddf--datapoints--iq_spi_pil2--by--geo--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "iq_spi_pil2"
+                    }
+                ],
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--iq_spi_pil3--by--geo--time",
+            "path": "datapoints/ddf--datapoints--iq_spi_pil3--by--geo--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "iq_spi_pil3"
+                    }
+                ],
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--iq_spi_pil4--by--geo--time",
+            "path": "datapoints/ddf--datapoints--iq_spi_pil4--by--geo--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "iq_spi_pil4"
+                    }
+                ],
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--iq_spi_pil5--by--geo--time",
+            "path": "datapoints/ddf--datapoints--iq_spi_pil5--by--geo--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "iq_spi_pil5"
+                    }
+                ],
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--is_air_dprt--by--geo--time",
             "path": "datapoints/ddf--datapoints--is_air_dprt--by--geo--time.csv",
             "schema": {
@@ -35356,6 +35482,48 @@
             }
         },
         {
+            "name": "ddf--datapoints--sh_sta_owgh_me_zs--by--geo--time",
+            "path": "datapoints/ddf--datapoints--sh_sta_owgh_me_zs--by--geo--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "sh_sta_owgh_me_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sh_sta_owgh_me_zs--by--global--time",
+            "path": "datapoints/ddf--datapoints--sh_sta_owgh_me_zs--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "sh_sta_owgh_me_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--sh_sta_owgh_zs--by--geo--time",
             "path": "datapoints/ddf--datapoints--sh_sta_owgh_zs--by--geo--time.csv",
             "schema": {
@@ -35372,27 +35540,6 @@
                 ],
                 "primaryKey": [
                     "geo",
-                    "time"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--sh_sta_owgh_zs--by--global--time",
-            "path": "datapoints/ddf--datapoints--sh_sta_owgh_zs--by--global--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "global"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "sh_sta_owgh_zs"
-                    }
-                ],
-                "primaryKey": [
-                    "global",
                     "time"
                 ]
             }
@@ -35692,6 +35839,48 @@
             }
         },
         {
+            "name": "ddf--datapoints--sh_sta_stnt_me_zs--by--geo--time",
+            "path": "datapoints/ddf--datapoints--sh_sta_stnt_me_zs--by--geo--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "sh_sta_stnt_me_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sh_sta_stnt_me_zs--by--global--time",
+            "path": "datapoints/ddf--datapoints--sh_sta_stnt_me_zs--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "sh_sta_stnt_me_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--sh_sta_stnt_zs--by--geo--time",
             "path": "datapoints/ddf--datapoints--sh_sta_stnt_zs--by--geo--time.csv",
             "schema": {
@@ -35708,27 +35897,6 @@
                 ],
                 "primaryKey": [
                     "geo",
-                    "time"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--sh_sta_stnt_zs--by--global--time",
-            "path": "datapoints/ddf--datapoints--sh_sta_stnt_zs--by--global--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "global"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "sh_sta_stnt_zs"
-                    }
-                ],
-                "primaryKey": [
-                    "global",
                     "time"
                 ]
             }
@@ -65616,6 +65784,126 @@
                     "country",
                     "time"
                 ],
+                "value": "iq_spi_ovrl",
+                "resources": [
+                    "ddf--datapoints--iq_spi_ovrl--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "iq_spi_ovrl",
+                "resources": [
+                    "ddf--datapoints--iq_spi_ovrl--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "iq_spi_pil1",
+                "resources": [
+                    "ddf--datapoints--iq_spi_pil1--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "iq_spi_pil1",
+                "resources": [
+                    "ddf--datapoints--iq_spi_pil1--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "iq_spi_pil2",
+                "resources": [
+                    "ddf--datapoints--iq_spi_pil2--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "iq_spi_pil2",
+                "resources": [
+                    "ddf--datapoints--iq_spi_pil2--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "iq_spi_pil3",
+                "resources": [
+                    "ddf--datapoints--iq_spi_pil3--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "iq_spi_pil3",
+                "resources": [
+                    "ddf--datapoints--iq_spi_pil3--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "iq_spi_pil4",
+                "resources": [
+                    "ddf--datapoints--iq_spi_pil4--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "iq_spi_pil4",
+                "resources": [
+                    "ddf--datapoints--iq_spi_pil4--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "iq_spi_pil5",
+                "resources": [
+                    "ddf--datapoints--iq_spi_pil5--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "iq_spi_pil5",
+                "resources": [
+                    "ddf--datapoints--iq_spi_pil5--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
                 "value": "is_air_dprt",
                 "resources": [
                     "ddf--datapoints--is_air_dprt--by--geo--time"
@@ -79507,6 +79795,37 @@
                     "country",
                     "time"
                 ],
+                "value": "sh_sta_owgh_me_zs",
+                "resources": [
+                    "ddf--datapoints--sh_sta_owgh_me_zs--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "sh_sta_owgh_me_zs",
+                "resources": [
+                    "ddf--datapoints--sh_sta_owgh_me_zs--by--geo--time",
+                    "ddf--datapoints--sh_sta_owgh_me_zs--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "sh_sta_owgh_me_zs",
+                "resources": [
+                    "ddf--datapoints--sh_sta_owgh_me_zs--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
                 "value": "sh_sta_owgh_zs",
                 "resources": [
                     "ddf--datapoints--sh_sta_owgh_zs--by--geo--time"
@@ -79519,18 +79838,7 @@
                 ],
                 "value": "sh_sta_owgh_zs",
                 "resources": [
-                    "ddf--datapoints--sh_sta_owgh_zs--by--geo--time",
-                    "ddf--datapoints--sh_sta_owgh_zs--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "sh_sta_owgh_zs",
-                "resources": [
-                    "ddf--datapoints--sh_sta_owgh_zs--by--global--time"
+                    "ddf--datapoints--sh_sta_owgh_zs--by--geo--time"
                 ]
             },
             {
@@ -79764,6 +80072,37 @@
                     "country",
                     "time"
                 ],
+                "value": "sh_sta_stnt_me_zs",
+                "resources": [
+                    "ddf--datapoints--sh_sta_stnt_me_zs--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "sh_sta_stnt_me_zs",
+                "resources": [
+                    "ddf--datapoints--sh_sta_stnt_me_zs--by--geo--time",
+                    "ddf--datapoints--sh_sta_stnt_me_zs--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "sh_sta_stnt_me_zs",
+                "resources": [
+                    "ddf--datapoints--sh_sta_stnt_me_zs--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
                 "value": "sh_sta_stnt_zs",
                 "resources": [
                     "ddf--datapoints--sh_sta_stnt_zs--by--geo--time"
@@ -79776,18 +80115,7 @@
                 ],
                 "value": "sh_sta_stnt_zs",
                 "resources": [
-                    "ddf--datapoints--sh_sta_stnt_zs--by--geo--time",
-                    "ddf--datapoints--sh_sta_stnt_zs--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "sh_sta_stnt_zs",
-                "resources": [
-                    "ddf--datapoints--sh_sta_stnt_zs--by--global--time"
+                    "ddf--datapoints--sh_sta_stnt_zs--by--geo--time"
                 ]
             },
             {
