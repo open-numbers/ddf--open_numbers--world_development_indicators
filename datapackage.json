@@ -8,7 +8,7 @@
     "description": "Gapminder's World Development Indicators",
     "author": "Gapminder",
     "license": "MIT",
-    "created": "2021-05-30T12:28:57.521676+00:00",
+    "created": "2021-06-25T12:32:40.599318+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -50373,6 +50373,9 @@
                         "name": "un_state"
                     },
                     {
+                        "name": "unhcr_region"
+                    },
+                    {
                         "name": "unicef_region"
                     },
                     {
@@ -51914,6 +51917,24 @@
                 "value": "un_state",
                 "resources": [
                     "ddf--entities--geo",
+                    "ddf--entities--geo--country"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country"
+                ],
+                "value": "unhcr_region",
+                "resources": [
+                    "ddf--entities--geo--country"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo"
+                ],
+                "value": "unhcr_region",
+                "resources": [
                     "ddf--entities--geo--country"
                 ]
             },
