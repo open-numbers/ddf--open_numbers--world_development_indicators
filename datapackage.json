@@ -8,7 +8,7 @@
     "description": "Gapminder's World Development Indicators",
     "author": "Gapminder",
     "license": "MIT",
-    "created": "2021-07-03T12:19:51.179600+00:00",
+    "created": "2021-08-03T12:16:27.134196+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -5737,27 +5737,6 @@
                     },
                     {
                         "name": "dt_nfl_unfp_cd"
-                    }
-                ],
-                "primaryKey": [
-                    "global",
-                    "time"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--dt_nfl_unid_cd--by--global--time",
-            "path": "datapoints/ddf--datapoints--dt_nfl_unid_cd--by--global--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "global"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "dt_nfl_unid_cd"
                     }
                 ],
                 "primaryKey": [
@@ -45667,27 +45646,6 @@
             }
         },
         {
-            "name": "ddf--datapoints--sp_pop_scie_rd_p6--by--global--time",
-            "path": "datapoints/ddf--datapoints--sp_pop_scie_rd_p6--by--global--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "global"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "sp_pop_scie_rd_p6"
-                    }
-                ],
-                "primaryKey": [
-                    "global",
-                    "time"
-                ]
-            }
-        },
-        {
             "name": "ddf--datapoints--sp_pop_tech_rd_p6--by--geo--time",
             "path": "datapoints/ddf--datapoints--sp_pop_tech_rd_p6--by--geo--time.csv",
             "schema": {
@@ -56566,26 +56524,6 @@
                 "value": "dt_nfl_unfp_cd",
                 "resources": [
                     "ddf--datapoints--dt_nfl_unfp_cd--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "geo",
-                    "time"
-                ],
-                "value": "dt_nfl_unid_cd",
-                "resources": [
-                    "ddf--datapoints--dt_nfl_unid_cd--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "dt_nfl_unid_cd",
-                "resources": [
-                    "ddf--datapoints--dt_nfl_unid_cd--by--global--time"
                 ]
             },
             {
@@ -87907,18 +87845,7 @@
                 ],
                 "value": "sp_pop_scie_rd_p6",
                 "resources": [
-                    "ddf--datapoints--sp_pop_scie_rd_p6--by--geo--time",
-                    "ddf--datapoints--sp_pop_scie_rd_p6--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "sp_pop_scie_rd_p6",
-                "resources": [
-                    "ddf--datapoints--sp_pop_scie_rd_p6--by--global--time"
+                    "ddf--datapoints--sp_pop_scie_rd_p6--by--geo--time"
                 ]
             },
             {
