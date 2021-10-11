@@ -8,7 +8,7 @@
     "description": "Gapminder's World Development Indicators",
     "author": "Gapminder",
     "license": "MIT",
-    "created": "2021-08-22T12:15:33.269367+00:00",
+    "created": "2021-10-11T12:15:57.219849+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -11999,27 +11999,6 @@
                 ],
                 "primaryKey": [
                     "geo",
-                    "time"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--gb_xpd_rsdv_gd_zs--by--global--time",
-            "path": "datapoints/ddf--datapoints--gb_xpd_rsdv_gd_zs--by--global--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "global"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "gb_xpd_rsdv_gd_zs"
-                    }
-                ],
-                "primaryKey": [
-                    "global",
                     "time"
                 ]
             }
@@ -36784,27 +36763,6 @@
             }
         },
         {
-            "name": "ddf--datapoints--sh_xpd_chex_gd_zs--by--global--time",
-            "path": "datapoints/ddf--datapoints--sh_xpd_chex_gd_zs--by--global--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "global"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "sh_xpd_chex_gd_zs"
-                    }
-                ],
-                "primaryKey": [
-                    "global",
-                    "time"
-                ]
-            }
-        },
-        {
             "name": "ddf--datapoints--sh_xpd_chex_pc_cd--by--geo--time",
             "path": "datapoints/ddf--datapoints--sh_xpd_chex_pc_cd--by--geo--time.csv",
             "schema": {
@@ -37073,27 +37031,6 @@
                 ],
                 "primaryKey": [
                     "geo",
-                    "time"
-                ]
-            }
-        },
-        {
-            "name": "ddf--datapoints--sh_xpd_ghed_gd_zs--by--global--time",
-            "path": "datapoints/ddf--datapoints--sh_xpd_ghed_gd_zs--by--global--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "global"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "sh_xpd_ghed_gd_zs"
-                    }
-                ],
-                "primaryKey": [
-                    "global",
                     "time"
                 ]
             }
@@ -45641,6 +45578,27 @@
                 ],
                 "primaryKey": [
                     "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sp_pop_scie_rd_p6--by--global--time",
+            "path": "datapoints/ddf--datapoints--sp_pop_scie_rd_p6--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "sp_pop_scie_rd_p6"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -61331,18 +61289,7 @@
                 ],
                 "value": "gb_xpd_rsdv_gd_zs",
                 "resources": [
-                    "ddf--datapoints--gb_xpd_rsdv_gd_zs--by--geo--time",
-                    "ddf--datapoints--gb_xpd_rsdv_gd_zs--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "gb_xpd_rsdv_gd_zs",
-                "resources": [
-                    "ddf--datapoints--gb_xpd_rsdv_gd_zs--by--global--time"
+                    "ddf--datapoints--gb_xpd_rsdv_gd_zs--by--geo--time"
                 ]
             },
             {
@@ -80854,18 +80801,7 @@
                 ],
                 "value": "sh_xpd_chex_gd_zs",
                 "resources": [
-                    "ddf--datapoints--sh_xpd_chex_gd_zs--by--geo--time",
-                    "ddf--datapoints--sh_xpd_chex_gd_zs--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "sh_xpd_chex_gd_zs",
-                "resources": [
-                    "ddf--datapoints--sh_xpd_chex_gd_zs--by--global--time"
+                    "ddf--datapoints--sh_xpd_chex_gd_zs--by--geo--time"
                 ]
             },
             {
@@ -81071,18 +81007,7 @@
                 ],
                 "value": "sh_xpd_ghed_gd_zs",
                 "resources": [
-                    "ddf--datapoints--sh_xpd_ghed_gd_zs--by--geo--time",
-                    "ddf--datapoints--sh_xpd_ghed_gd_zs--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "sh_xpd_ghed_gd_zs",
-                "resources": [
-                    "ddf--datapoints--sh_xpd_ghed_gd_zs--by--global--time"
+                    "ddf--datapoints--sh_xpd_ghed_gd_zs--by--geo--time"
                 ]
             },
             {
@@ -87845,7 +87770,18 @@
                 ],
                 "value": "sp_pop_scie_rd_p6",
                 "resources": [
-                    "ddf--datapoints--sp_pop_scie_rd_p6--by--geo--time"
+                    "ddf--datapoints--sp_pop_scie_rd_p6--by--geo--time",
+                    "ddf--datapoints--sp_pop_scie_rd_p6--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "sp_pop_scie_rd_p6",
+                "resources": [
+                    "ddf--datapoints--sp_pop_scie_rd_p6--by--global--time"
                 ]
             },
             {
