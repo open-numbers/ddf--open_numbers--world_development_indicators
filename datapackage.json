@@ -8,7 +8,7 @@
     "description": "Gapminder's World Development Indicators",
     "author": "Gapminder",
     "license": "MIT",
-    "created": "2021-11-20T12:16:52.896185+00:00",
+    "created": "2021-12-02T12:17:14.322134+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -50529,6 +50529,9 @@
                         "name": "unicode_region_subtag"
                     },
                     {
+                        "name": "west_and_rest"
+                    },
+                    {
                         "name": "world_4region"
                     },
                     {
@@ -52222,6 +52225,24 @@
                 "value": "unicode_region_subtag",
                 "resources": [
                     "ddf--entities--geo--global"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country"
+                ],
+                "value": "west_and_rest",
+                "resources": [
+                    "ddf--entities--geo--country"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo"
+                ],
+                "value": "west_and_rest",
+                "resources": [
+                    "ddf--entities--geo--country"
                 ]
             },
             {
