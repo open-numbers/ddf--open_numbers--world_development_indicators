@@ -8,7 +8,7 @@
     "description": "Gapminder's World Development Indicators",
     "author": "Gapminder",
     "license": "MIT",
-    "created": "2021-12-19T12:15:46.279884+00:00",
+    "created": "2022-02-17T12:25:50.609883+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -36712,6 +36712,27 @@
                     },
                     {
                         "name": "sh_uhc_nop2_zg"
+                    }
+                ],
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sh_uhc_nop2_zs--by--geo--time",
+            "path": "datapoints/ddf--datapoints--sh_uhc_nop2_zs--by--geo--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "sh_uhc_nop2_zs"
                     }
                 ],
                 "primaryKey": [
@@ -81010,11 +81031,22 @@
             },
             {
                 "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "sh_uhc_nop2_zs",
+                "resources": [
+                    "ddf--datapoints--sh_uhc_nop2_zs--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
                     "geo",
                     "time"
                 ],
                 "value": "sh_uhc_nop2_zs",
                 "resources": [
+                    "ddf--datapoints--sh_uhc_nop2_zs--by--geo--time",
                     "ddf--datapoints--sh_uhc_nop2_zs--by--global--time"
                 ]
             },
