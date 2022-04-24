@@ -1,7 +1,6 @@
 concept,aggregation_method,base_period,color,concept_type,description,development_relevance,domain,drill_up,general_comments,indicator_url,license_type,limitations_and_exceptions,long_definition,name,notes_from_original_source,other_notes,periodicity,related_indicators,related_source_links,scales,series_code,short_definition,source,source_url,statistical_concept_and_methodology,tags,topic,unit,unit_of_measure
 2_alpha_code,,,,string,,,,,,,,,,2-alpha code,,,,,,,,,,,,,,,
 aggregation_method,,,,string,,,,,,,,,,Aggregation method,,,,,,,,,,,,,,,
-alternative_conversion_factor,,,,string,,,,,,,,,,Alternative conversion factor,,,,,,,,,,,,,,,
 balance_of_payments_manual_in_use,,,,string,,,,,,,,,,Balance of Payments Manual in use,,,,,,,,,,,,,,,
 base_period,,,,string,,,,,,,,,,Base Period,,,,,,,,,,,,,,,
 color,,,,string,,,,,,,,,,Color,,,,,,,,,,,,_none,,,
