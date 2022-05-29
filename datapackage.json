@@ -8,7 +8,7 @@
     "description": "Gapminder's World Development Indicators",
     "author": "Gapminder",
     "license": "MIT",
-    "created": "2022-05-01T12:19:53.869579+00:00",
+    "created": "2022-05-29T12:18:34.403548+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -7925,6 +7925,27 @@
                 ],
                 "primaryKey": [
                     "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--en_atm_co2e_kt--by--global--time",
+            "path": "datapoints/ddf--datapoints--en_atm_co2e_kt--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "en_atm_co2e_kt"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -58538,7 +58559,18 @@
                 ],
                 "value": "en_atm_co2e_kt",
                 "resources": [
-                    "ddf--datapoints--en_atm_co2e_kt--by--geo--time"
+                    "ddf--datapoints--en_atm_co2e_kt--by--geo--time",
+                    "ddf--datapoints--en_atm_co2e_kt--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "en_atm_co2e_kt",
+                "resources": [
+                    "ddf--datapoints--en_atm_co2e_kt--by--global--time"
                 ]
             },
             {

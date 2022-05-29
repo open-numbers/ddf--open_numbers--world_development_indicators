@@ -2,7 +2,7 @@ global,time,si_pov_lmic_gp
 world,1981,31.6
 world,1982,31
 world,1983,30.3
-world,1984,29.1
+world,1984,29
 world,1985,28.1
 world,1986,27.3
 world,1987,26.7
@@ -28,9 +28,9 @@ world,2006,16.4
 world,2007,15.5
 world,2008,15
 world,2009,14.4
-world,2010,13.4
-world,2011,12.1
-world,2012,11.4
+world,2010,13.3
+world,2011,12
+world,2012,11.3
 world,2013,10.2
 world,2014,9.7
 world,2015,9.2
