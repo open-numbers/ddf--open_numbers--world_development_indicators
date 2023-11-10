@@ -10,7 +10,7 @@
     "license": "MIT",
     "created": "2023-05-18T12:28:22.500829+00:00",
     "translations": [],
-    "version": "1.0.0",
+    "version": "1.1.0",
     "resources": [
         {
             "name": "ddf--datapoints--ag_agr_trac_no--by--geo--time",
