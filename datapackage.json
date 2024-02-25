@@ -8,7 +8,7 @@
     "description": "Gapminder's World Development Indicators",
     "author": "Gapminder",
     "license": "MIT",
-    "created": "2024-01-25T12:16:32.360387+00:00",
+    "created": "2024-02-25T12:27:34.149284+00:00",
     "translations": [],
     "version": "1.1.0",
     "resources": [
@@ -39514,6 +39514,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--sl_emp_1524_sp_fe_ne_zs--by--global--time",
+            "path": "datapoints/ddf--datapoints--sl_emp_1524_sp_fe_ne_zs--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "sl_emp_1524_sp_fe_ne_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--sl_emp_1524_sp_fe_zs--by--geo--time",
             "path": "datapoints/ddf--datapoints--sl_emp_1524_sp_fe_zs--by--geo--time.csv",
             "schema": {
@@ -39577,6 +39598,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--sl_emp_1524_sp_ma_ne_zs--by--global--time",
+            "path": "datapoints/ddf--datapoints--sl_emp_1524_sp_ma_ne_zs--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "sl_emp_1524_sp_ma_ne_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--sl_emp_1524_sp_ma_zs--by--geo--time",
             "path": "datapoints/ddf--datapoints--sl_emp_1524_sp_ma_zs--by--geo--time.csv",
             "schema": {
@@ -39635,6 +39677,27 @@
                 ],
                 "primaryKey": [
                     "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sl_emp_1524_sp_ne_zs--by--global--time",
+            "path": "datapoints/ddf--datapoints--sl_emp_1524_sp_ne_zs--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "sl_emp_1524_sp_ne_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -42517,6 +42580,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--sl_uem_1524_fe_ne_zs--by--global--time",
+            "path": "datapoints/ddf--datapoints--sl_uem_1524_fe_ne_zs--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "sl_uem_1524_fe_ne_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--sl_uem_1524_fe_zs--by--geo--time",
             "path": "datapoints/ddf--datapoints--sl_uem_1524_fe_zs--by--geo--time.csv",
             "schema": {
@@ -42575,6 +42659,27 @@
                 ],
                 "primaryKey": [
                     "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--sl_uem_1524_ma_ne_zs--by--global--time",
+            "path": "datapoints/ddf--datapoints--sl_uem_1524_ma_ne_zs--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "sl_uem_1524_ma_ne_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -84365,7 +84470,18 @@
                 ],
                 "value": "sl_emp_1524_sp_fe_ne_zs",
                 "resources": [
-                    "ddf--datapoints--sl_emp_1524_sp_fe_ne_zs--by--geo--time"
+                    "ddf--datapoints--sl_emp_1524_sp_fe_ne_zs--by--geo--time",
+                    "ddf--datapoints--sl_emp_1524_sp_fe_ne_zs--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "sl_emp_1524_sp_fe_ne_zs",
+                "resources": [
+                    "ddf--datapoints--sl_emp_1524_sp_fe_ne_zs--by--global--time"
                 ]
             },
             {
@@ -84416,7 +84532,18 @@
                 ],
                 "value": "sl_emp_1524_sp_ma_ne_zs",
                 "resources": [
-                    "ddf--datapoints--sl_emp_1524_sp_ma_ne_zs--by--geo--time"
+                    "ddf--datapoints--sl_emp_1524_sp_ma_ne_zs--by--geo--time",
+                    "ddf--datapoints--sl_emp_1524_sp_ma_ne_zs--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "sl_emp_1524_sp_ma_ne_zs",
+                "resources": [
+                    "ddf--datapoints--sl_emp_1524_sp_ma_ne_zs--by--global--time"
                 ]
             },
             {
@@ -84467,7 +84594,18 @@
                 ],
                 "value": "sl_emp_1524_sp_ne_zs",
                 "resources": [
-                    "ddf--datapoints--sl_emp_1524_sp_ne_zs--by--geo--time"
+                    "ddf--datapoints--sl_emp_1524_sp_ne_zs--by--geo--time",
+                    "ddf--datapoints--sl_emp_1524_sp_ne_zs--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "sl_emp_1524_sp_ne_zs",
+                "resources": [
+                    "ddf--datapoints--sl_emp_1524_sp_ne_zs--by--global--time"
                 ]
             },
             {
@@ -86775,7 +86913,18 @@
                 ],
                 "value": "sl_uem_1524_fe_ne_zs",
                 "resources": [
-                    "ddf--datapoints--sl_uem_1524_fe_ne_zs--by--geo--time"
+                    "ddf--datapoints--sl_uem_1524_fe_ne_zs--by--geo--time",
+                    "ddf--datapoints--sl_uem_1524_fe_ne_zs--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "sl_uem_1524_fe_ne_zs",
+                "resources": [
+                    "ddf--datapoints--sl_uem_1524_fe_ne_zs--by--global--time"
                 ]
             },
             {
@@ -86826,7 +86975,18 @@
                 ],
                 "value": "sl_uem_1524_ma_ne_zs",
                 "resources": [
-                    "ddf--datapoints--sl_uem_1524_ma_ne_zs--by--geo--time"
+                    "ddf--datapoints--sl_uem_1524_ma_ne_zs--by--geo--time",
+                    "ddf--datapoints--sl_uem_1524_ma_ne_zs--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "sl_uem_1524_ma_ne_zs",
+                "resources": [
+                    "ddf--datapoints--sl_uem_1524_ma_ne_zs--by--global--time"
                 ]
             },
             {
