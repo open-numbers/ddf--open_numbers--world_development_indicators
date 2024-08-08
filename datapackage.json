@@ -8,7 +8,7 @@
     "description": "Gapminder's World Development Indicators",
     "author": "Gapminder",
     "license": "MIT",
-    "created": "2024-06-30T12:38:57.132634+00:00",
+    "created": "2024-08-08T08:02:05.252254+00:00",
     "translations": [],
     "version": "1.1.0",
     "resources": [
@@ -51897,7 +51897,9 @@
                         "name": "unit_of_measure"
                     }
                 ],
-                "primaryKey": "concept"
+                "primaryKey": [
+                    "concept"
+                ]
             }
         },
         {
@@ -51999,7 +52001,9 @@
                         "name": "unit_of_measure"
                     }
                 ],
-                "primaryKey": "concept"
+                "primaryKey": [
+                    "concept"
+                ]
             }
         },
         {
@@ -52077,7 +52081,9 @@
                         "name": "world_6region"
                     }
                 ],
-                "primaryKey": "country"
+                "primaryKey": [
+                    "country"
+                ]
             }
         },
         {
@@ -52098,7 +52104,9 @@
                         "name": "rank"
                     }
                 ],
-                "primaryKey": "g77_and_oecd_countries"
+                "primaryKey": [
+                    "g77_and_oecd_countries"
+                ]
             }
         },
         {
@@ -52128,7 +52136,9 @@
                         "name": "unicode_region_subtag"
                     }
                 ],
-                "primaryKey": "global"
+                "primaryKey": [
+                    "global"
+                ]
             }
         },
         {
@@ -52149,7 +52159,9 @@
                         "name": "rank"
                     }
                 ],
-                "primaryKey": "income_3groups"
+                "primaryKey": [
+                    "income_3groups"
+                ]
             }
         },
         {
@@ -52170,7 +52182,9 @@
                         "name": "rank"
                     }
                 ],
-                "primaryKey": "income_groups"
+                "primaryKey": [
+                    "income_groups"
+                ]
             }
         },
         {
@@ -52191,7 +52205,9 @@
                         "name": "rank"
                     }
                 ],
-                "primaryKey": "landlocked"
+                "primaryKey": [
+                    "landlocked"
+                ]
             }
         },
         {
@@ -52212,7 +52228,9 @@
                         "name": "rank"
                     }
                 ],
-                "primaryKey": "main_religion_2008"
+                "primaryKey": [
+                    "main_religion_2008"
+                ]
             }
         },
         {
@@ -52230,7 +52248,9 @@
                         "name": "name"
                     }
                 ],
-                "primaryKey": "un_sdg_ldc"
+                "primaryKey": [
+                    "un_sdg_ldc"
+                ]
             }
         },
         {
@@ -52251,7 +52271,9 @@
                         "name": "name"
                     }
                 ],
-                "primaryKey": "un_sdg_region"
+                "primaryKey": [
+                    "un_sdg_region"
+                ]
             }
         },
         {
@@ -52269,7 +52291,9 @@
                         "name": "name"
                     }
                 ],
-                "primaryKey": "unhcr_region"
+                "primaryKey": [
+                    "unhcr_region"
+                ]
             }
         },
         {
@@ -52287,7 +52311,9 @@
                         "name": "name"
                     }
                 ],
-                "primaryKey": "unicef_region"
+                "primaryKey": [
+                    "unicef_region"
+                ]
             }
         },
         {
@@ -52305,7 +52331,9 @@
                         "name": "name"
                     }
                 ],
-                "primaryKey": "west_and_rest"
+                "primaryKey": [
+                    "west_and_rest"
+                ]
             }
         },
         {
@@ -52347,7 +52375,9 @@
                         "name": "shape_lores_svg"
                     }
                 ],
-                "primaryKey": "world_4region"
+                "primaryKey": [
+                    "world_4region"
+                ]
             }
         },
         {
@@ -52377,7 +52407,9 @@
                         "name": "shape_lores_svg"
                     }
                 ],
-                "primaryKey": "world_6region"
+                "primaryKey": [
+                    "world_6region"
+                ]
             }
         },
         {
@@ -52395,7 +52427,9 @@
                         "name": "parent"
                     }
                 ],
-                "primaryKey": "tag"
+                "primaryKey": [
+                    "tag"
+                ]
             }
         }
     ],
