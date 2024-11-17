@@ -8,7 +8,7 @@
     "description": "Gapminder's World Development Indicators",
     "author": "Gapminder",
     "license": "MIT",
-    "created": "2024-11-03T12:19:37.848069+00:00",
+    "created": "2024-11-17T12:17:40.130207+00:00",
     "translations": [],
     "version": "1.1.0",
     "resources": [
@@ -51673,27 +51673,6 @@
             }
         },
         {
-            "name": "ddf--datapoints--tx_val_tech_cd--by--global--time",
-            "path": "datapoints/ddf--datapoints--tx_val_tech_cd--by--global--time.csv",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "global"
-                    },
-                    {
-                        "name": "time"
-                    },
-                    {
-                        "name": "tx_val_tech_cd"
-                    }
-                ],
-                "primaryKey": [
-                    "global",
-                    "time"
-                ]
-            }
-        },
-        {
             "name": "ddf--datapoints--tx_val_tech_mf_zs--by--geo--time",
             "path": "datapoints/ddf--datapoints--tx_val_tech_mf_zs--by--geo--time.csv",
             "schema": {
@@ -94551,18 +94530,7 @@
                 ],
                 "value": "tx_val_tech_cd",
                 "resources": [
-                    "ddf--datapoints--tx_val_tech_cd--by--geo--time",
-                    "ddf--datapoints--tx_val_tech_cd--by--global--time"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "global",
-                    "time"
-                ],
-                "value": "tx_val_tech_cd",
-                "resources": [
-                    "ddf--datapoints--tx_val_tech_cd--by--global--time"
+                    "ddf--datapoints--tx_val_tech_cd--by--geo--time"
                 ]
             },
             {
