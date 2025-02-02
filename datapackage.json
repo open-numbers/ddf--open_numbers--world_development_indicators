@@ -8,7 +8,7 @@
     "description": "Gapminder's World Development Indicators",
     "author": "Gapminder",
     "license": "MIT",
-    "created": "2024-12-20T12:19:16.155474+00:00",
+    "created": "2025-02-02T12:18:52.855292+00:00",
     "translations": [],
     "version": "1.1.0",
     "resources": [
@@ -19937,6 +19937,27 @@
                 ],
                 "primaryKey": [
                     "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--ms_mil_xprt_kd--by--global--time",
+            "path": "datapoints/ddf--datapoints--ms_mil_xprt_kd--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "ms_mil_xprt_kd"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
                     "time"
                 ]
             }
@@ -69473,7 +69494,18 @@
                 ],
                 "value": "ms_mil_xprt_kd",
                 "resources": [
-                    "ddf--datapoints--ms_mil_xprt_kd--by--geo--time"
+                    "ddf--datapoints--ms_mil_xprt_kd--by--geo--time",
+                    "ddf--datapoints--ms_mil_xprt_kd--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "ms_mil_xprt_kd",
+                "resources": [
+                    "ddf--datapoints--ms_mil_xprt_kd--by--global--time"
                 ]
             },
             {
