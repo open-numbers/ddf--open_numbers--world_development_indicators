@@ -8,7 +8,7 @@
     "description": "Gapminder's World Development Indicators",
     "author": "Gapminder",
     "license": "MIT",
-    "created": "2025-02-02T12:18:52.855292+00:00",
+    "created": "2025-03-30T12:17:45.159764+00:00",
     "translations": [],
     "version": "1.1.0",
     "resources": [
@@ -5002,6 +5002,27 @@
                     },
                     {
                         "name": "dt_dod_pvlx_ex_zs"
+                    }
+                ],
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--dt_dod_pvlx_gn_zs--by--geo--time",
+            "path": "datapoints/ddf--datapoints--dt_dod_pvlx_gn_zs--by--geo--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "geo"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "dt_dod_pvlx_gn_zs"
                     }
                 ],
                 "primaryKey": [
@@ -51547,6 +51568,27 @@
             }
         },
         {
+            "name": "ddf--datapoints--tx_val_tech_cd--by--global--time",
+            "path": "datapoints/ddf--datapoints--tx_val_tech_cd--by--global--time.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "global"
+                    },
+                    {
+                        "name": "time"
+                    },
+                    {
+                        "name": "tx_val_tech_cd"
+                    }
+                ],
+                "primaryKey": [
+                    "global",
+                    "time"
+                ]
+            }
+        },
+        {
             "name": "ddf--datapoints--tx_val_tech_mf_zs--by--geo--time",
             "path": "datapoints/ddf--datapoints--tx_val_tech_mf_zs--by--geo--time.csv",
             "schema": {
@@ -57903,6 +57945,26 @@
                 "value": "dt_dod_pvlx_ex_zs",
                 "resources": [
                     "ddf--datapoints--dt_dod_pvlx_ex_zs--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "time"
+                ],
+                "value": "dt_dod_pvlx_gn_zs",
+                "resources": [
+                    "ddf--datapoints--dt_dod_pvlx_gn_zs--by--geo--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo",
+                    "time"
+                ],
+                "value": "dt_dod_pvlx_gn_zs",
+                "resources": [
+                    "ddf--datapoints--dt_dod_pvlx_gn_zs--by--geo--time"
                 ]
             },
             {
@@ -94329,7 +94391,18 @@
                 ],
                 "value": "tx_val_tech_cd",
                 "resources": [
-                    "ddf--datapoints--tx_val_tech_cd--by--geo--time"
+                    "ddf--datapoints--tx_val_tech_cd--by--geo--time",
+                    "ddf--datapoints--tx_val_tech_cd--by--global--time"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
+                    "time"
+                ],
+                "value": "tx_val_tech_cd",
+                "resources": [
+                    "ddf--datapoints--tx_val_tech_cd--by--global--time"
                 ]
             },
             {
