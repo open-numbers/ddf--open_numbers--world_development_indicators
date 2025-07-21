@@ -56,7 +56,7 @@ def update_tag_entity(chef, ingredients, concept_ingredient, result):
         if tag not in tags_df['tag'].values:
             missing.append(tag)
     if len(missing) > 0:
-        tags_df = tags_df.append(concept_tags[concept_tags['tag'].isin(missing)], ignore_index=True)
+        tags_df = pd.concat([tags_df, concept_tags[concept_tags['tag'].isin(missing)]], ignore_index=True)
 
     new_data = {'tag': tags_df}
     return EntityIngredient.from_procedure_result(result, ingredients[0].key, new_data)
