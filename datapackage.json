@@ -8,7 +8,7 @@
     "description": "Gapminder's World Development Indicators",
     "author": "Gapminder",
     "license": "MIT",
-    "created": "2025-07-06T12:17:21.661569+00:00",
+    "created": "2025-07-21T12:17:34.072330+00:00",
     "translations": [],
     "version": "1.1.0",
     "resources": [
@@ -52110,6 +52110,9 @@
                         "name": "concept_type"
                     },
                     {
+                        "name": "description"
+                    },
+                    {
                         "name": "development_relevance"
                     },
                     {
@@ -52123,9 +52126,6 @@
                     },
                     {
                         "name": "limitations_and_exceptions"
-                    },
-                    {
-                        "name": "long_definition"
                     },
                     {
                         "name": "name"
@@ -52747,6 +52747,7 @@
                 ],
                 "value": "description",
                 "resources": [
+                    "ddf--concepts--continuous",
                     "ddf--concepts--discrete"
                 ]
             },
@@ -52824,7 +52825,6 @@
                 ],
                 "value": "long_definition",
                 "resources": [
-                    "ddf--concepts--continuous",
                     "ddf--concepts--discrete"
                 ]
             },
