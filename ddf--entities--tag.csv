@@ -90,6 +90,7 @@ wdi__infrastructure,Infrastructure,
 wdi__infrastructure__communications,Communications,wdi__infrastructure
 wdi__infrastructure__technology,Technology,wdi__infrastructure
 wdi__infrastructure__transportation,Transportation,wdi__infrastructure
+wdi__na,NA,
 wdi__poverty,Poverty,
 wdi__poverty__income_distribution,Income distribution,wdi__poverty
 wdi__poverty__poverty_rates,Poverty rates,wdi__poverty
