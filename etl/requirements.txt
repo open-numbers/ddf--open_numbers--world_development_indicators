@@ -1,1 +1,2 @@
 pandas
+ddf_utils>=1.0.18
