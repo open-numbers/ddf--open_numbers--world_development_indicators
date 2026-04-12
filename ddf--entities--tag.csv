@@ -53,7 +53,6 @@ wdi__education__efficiency,Efficiency,wdi__education
 wdi__education__inputs,Inputs,wdi__education
 wdi__education__outcomes,Outcomes,wdi__education
 wdi__education__participation,Participation,wdi__education
-wdi__employment_and_time_use,Employment and Time Use,
 wdi__environment,Environment,
 wdi__environment__agricultural_production,Agricultural production,wdi__environment
 wdi__environment__biodiversity_protected_areas,Biodiversity & protected areas,wdi__environment
@@ -90,7 +89,6 @@ wdi__infrastructure,Infrastructure,
 wdi__infrastructure__communications,Communications,wdi__infrastructure
 wdi__infrastructure__technology,Technology,wdi__infrastructure
 wdi__infrastructure__transportation,Transportation,wdi__infrastructure
-wdi__na,NA,
 wdi__poverty,Poverty,
 wdi__poverty__income_distribution,Income distribution,wdi__poverty
 wdi__poverty__poverty_rates,Poverty rates,wdi__poverty
