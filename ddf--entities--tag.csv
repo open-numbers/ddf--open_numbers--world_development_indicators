@@ -1,4 +1,5 @@
 tag,name,parent
+categorizations,Categorizations,
 wdi__economic_policy_debt,Economic Policy & Debt,
 wdi__economic_policy_debt__balance_of_payments,Balance of payments,wdi__economic_policy_debt
 wdi__economic_policy_debt__balance_of_payments__capital_financial_account,Capital & financial account,wdi__economic_policy_debt__balance_of_payments
