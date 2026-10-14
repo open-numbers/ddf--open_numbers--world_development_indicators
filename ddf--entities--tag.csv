@@ -90,6 +90,12 @@ wdi__infrastructure,Infrastructure,
 wdi__infrastructure__communications,Communications,wdi__infrastructure
 wdi__infrastructure__technology,Technology,wdi__infrastructure
 wdi__infrastructure__transportation,Transportation,wdi__infrastructure
+wdi__policy_institutions__control_of_corruption,Policy & institutions: Control of Corruption,
+wdi__policy_institutions__government_effectiveness,Policy & institutions: Government Effectiveness,
+wdi__policy_institutions__political_stability,Policy & institutions: Political Stability,
+wdi__policy_institutions__regulatory_quality,Policy & institutions: Regulatory Quality,
+wdi__policy_institutions__rule_of_law,Policy & institutions: Rule of Law,
+wdi__policy_institutions__voice_and_accountability,Policy & institutions: Voice and Accountability,
 wdi__poverty,Poverty,
 wdi__poverty__income_distribution,Income distribution,wdi__poverty
 wdi__poverty__poverty_rates,Poverty rates,wdi__poverty

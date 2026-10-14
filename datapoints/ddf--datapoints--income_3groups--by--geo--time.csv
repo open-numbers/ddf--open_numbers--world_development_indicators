@@ -36,6 +36,8 @@ abw,2020,high_income
 abw,2021,high_income
 abw,2022,high_income
 abw,2023,high_income
+abw,2024,high_income
+abw,2025,high_income
 afg,1987,low_income
 afg,1988,low_income
 afg,1989,low_income
@@ -73,6 +75,8 @@ afg,2020,low_income
 afg,2021,low_income
 afg,2022,low_income
 afg,2023,low_income
+afg,2024,low_income
+afg,2025,low_income
 ago,1988,middle_income
 ago,1989,middle_income
 ago,1990,middle_income
@@ -109,6 +113,8 @@ ago,2020,middle_income
 ago,2021,middle_income
 ago,2022,middle_income
 ago,2023,middle_income
+ago,2024,middle_income
+ago,2025,middle_income
 alb,1990,middle_income
 alb,1991,middle_income
 alb,1992,middle_income
@@ -143,6 +149,8 @@ alb,2020,middle_income
 alb,2021,middle_income
 alb,2022,middle_income
 alb,2023,middle_income
+alb,2024,middle_income
+alb,2025,middle_income
 and,1990,high_income
 and,1991,high_income
 and,1992,high_income
@@ -177,6 +185,8 @@ and,2020,high_income
 and,2021,high_income
 and,2022,high_income
 and,2023,high_income
+and,2024,high_income
+and,2025,high_income
 ant,1987,middle_income
 ant,1988,middle_income
 ant,1989,middle_income
@@ -237,6 +247,8 @@ are,2020,high_income
 are,2021,high_income
 are,2022,high_income
 are,2023,high_income
+are,2024,high_income
+are,2025,high_income
 arg,1987,middle_income
 arg,1988,middle_income
 arg,1989,middle_income
@@ -274,6 +286,8 @@ arg,2020,middle_income
 arg,2021,middle_income
 arg,2022,middle_income
 arg,2023,middle_income
+arg,2024,middle_income
+arg,2025,middle_income
 arm,1991,middle_income
 arm,1992,middle_income
 arm,1993,low_income
@@ -307,6 +321,8 @@ arm,2020,middle_income
 arm,2021,middle_income
 arm,2022,middle_income
 arm,2023,middle_income
+arm,2024,middle_income
+arm,2025,middle_income
 asm,1987,high_income
 asm,1988,high_income
 asm,1989,high_income
@@ -344,6 +360,8 @@ asm,2020,middle_income
 asm,2021,middle_income
 asm,2022,high_income
 asm,2023,high_income
+asm,2024,high_income
+asm,2025,high_income
 atg,1987,middle_income
 atg,1988,middle_income
 atg,1989,middle_income
@@ -381,6 +399,8 @@ atg,2020,high_income
 atg,2021,high_income
 atg,2022,high_income
 atg,2023,high_income
+atg,2024,high_income
+atg,2025,high_income
 aus,1987,high_income
 aus,1988,high_income
 aus,1989,high_income
@@ -418,6 +438,8 @@ aus,2020,high_income
 aus,2021,high_income
 aus,2022,high_income
 aus,2023,high_income
+aus,2024,high_income
+aus,2025,high_income
 aut,1987,high_income
 aut,1988,high_income
 aut,1989,high_income
@@ -455,6 +477,8 @@ aut,2020,high_income
 aut,2021,high_income
 aut,2022,high_income
 aut,2023,high_income
+aut,2024,high_income
+aut,2025,high_income
 aze,1991,middle_income
 aze,1992,middle_income
 aze,1993,middle_income
@@ -488,6 +512,8 @@ aze,2020,middle_income
 aze,2021,middle_income
 aze,2022,middle_income
 aze,2023,middle_income
+aze,2024,middle_income
+aze,2025,middle_income
 bdi,1987,low_income
 bdi,1988,low_income
 bdi,1989,low_income
@@ -525,6 +551,8 @@ bdi,2020,low_income
 bdi,2021,low_income
 bdi,2022,low_income
 bdi,2023,low_income
+bdi,2024,low_income
+bdi,2025,low_income
 bel,1987,high_income
 bel,1988,high_income
 bel,1989,high_income
@@ -562,6 +590,8 @@ bel,2020,high_income
 bel,2021,high_income
 bel,2022,high_income
 bel,2023,high_income
+bel,2024,high_income
+bel,2025,high_income
 ben,1987,low_income
 ben,1988,low_income
 ben,1989,low_income
@@ -599,6 +629,8 @@ ben,2020,middle_income
 ben,2021,middle_income
 ben,2022,middle_income
 ben,2023,middle_income
+ben,2024,middle_income
+ben,2025,middle_income
 bfa,1987,low_income
 bfa,1988,low_income
 bfa,1989,low_income
@@ -636,6 +668,8 @@ bfa,2020,low_income
 bfa,2021,low_income
 bfa,2022,low_income
 bfa,2023,low_income
+bfa,2024,low_income
+bfa,2025,low_income
 bgd,1987,low_income
 bgd,1988,low_income
 bgd,1989,low_income
@@ -673,6 +707,8 @@ bgd,2020,middle_income
 bgd,2021,middle_income
 bgd,2022,middle_income
 bgd,2023,middle_income
+bgd,2024,middle_income
+bgd,2025,middle_income
 bgr,1989,middle_income
 bgr,1990,middle_income
 bgr,1991,middle_income
@@ -708,6 +744,8 @@ bgr,2020,middle_income
 bgr,2021,middle_income
 bgr,2022,middle_income
 bgr,2023,high_income
+bgr,2024,high_income
+bgr,2025,high_income
 bhr,1987,high_income
 bhr,1988,high_income
 bhr,1989,high_income
@@ -745,6 +783,8 @@ bhr,2020,high_income
 bhr,2021,high_income
 bhr,2022,high_income
 bhr,2023,high_income
+bhr,2024,high_income
+bhr,2025,high_income
 bhs,1987,high_income
 bhs,1988,high_income
 bhs,1989,high_income
@@ -782,6 +822,8 @@ bhs,2020,high_income
 bhs,2021,high_income
 bhs,2022,high_income
 bhs,2023,high_income
+bhs,2024,high_income
+bhs,2025,high_income
 bih,1992,middle_income
 bih,1993,low_income
 bih,1994,low_income
@@ -814,6 +856,8 @@ bih,2020,middle_income
 bih,2021,middle_income
 bih,2022,middle_income
 bih,2023,middle_income
+bih,2024,middle_income
+bih,2025,middle_income
 blr,1991,middle_income
 blr,1992,middle_income
 blr,1993,middle_income
@@ -847,6 +891,8 @@ blr,2020,middle_income
 blr,2021,middle_income
 blr,2022,middle_income
 blr,2023,middle_income
+blr,2024,middle_income
+blr,2025,middle_income
 blz,1987,middle_income
 blz,1988,middle_income
 blz,1989,middle_income
@@ -884,6 +930,8 @@ blz,2020,middle_income
 blz,2021,middle_income
 blz,2022,middle_income
 blz,2023,middle_income
+blz,2024,middle_income
+blz,2025,middle_income
 bmu,1987,high_income
 bmu,1988,high_income
 bmu,1989,high_income
@@ -921,6 +969,8 @@ bmu,2020,high_income
 bmu,2021,high_income
 bmu,2022,high_income
 bmu,2023,high_income
+bmu,2024,high_income
+bmu,2025,high_income
 bol,1987,middle_income
 bol,1988,middle_income
 bol,1989,middle_income
@@ -958,6 +1008,8 @@ bol,2020,middle_income
 bol,2021,middle_income
 bol,2022,middle_income
 bol,2023,middle_income
+bol,2024,middle_income
+bol,2025,middle_income
 bra,1987,middle_income
 bra,1988,middle_income
 bra,1989,middle_income
@@ -995,6 +1047,8 @@ bra,2020,middle_income
 bra,2021,middle_income
 bra,2022,middle_income
 bra,2023,middle_income
+bra,2024,middle_income
+bra,2025,middle_income
 brb,1987,middle_income
 brb,1988,middle_income
 brb,1989,high_income
@@ -1032,6 +1086,8 @@ brb,2020,high_income
 brb,2021,high_income
 brb,2022,high_income
 brb,2023,high_income
+brb,2024,high_income
+brb,2025,high_income
 brn,1987,high_income
 brn,1990,high_income
 brn,1991,high_income
@@ -1067,6 +1123,8 @@ brn,2020,high_income
 brn,2021,high_income
 brn,2022,high_income
 brn,2023,high_income
+brn,2024,high_income
+brn,2025,high_income
 btn,1987,low_income
 btn,1988,low_income
 btn,1989,low_income
@@ -1104,6 +1162,8 @@ btn,2020,middle_income
 btn,2021,middle_income
 btn,2022,middle_income
 btn,2023,middle_income
+btn,2024,middle_income
+btn,2025,middle_income
 bwa,1987,middle_income
 bwa,1988,middle_income
 bwa,1989,middle_income
@@ -1141,6 +1201,8 @@ bwa,2020,middle_income
 bwa,2021,middle_income
 bwa,2022,middle_income
 bwa,2023,middle_income
+bwa,2024,middle_income
+bwa,2025,middle_income
 caf,1987,low_income
 caf,1988,low_income
 caf,1989,low_income
@@ -1178,6 +1240,8 @@ caf,2020,low_income
 caf,2021,low_income
 caf,2022,low_income
 caf,2023,low_income
+caf,2024,low_income
+caf,2025,low_income
 can,1987,high_income
 can,1988,high_income
 can,1989,high_income
@@ -1215,6 +1279,8 @@ can,2020,high_income
 can,2021,high_income
 can,2022,high_income
 can,2023,high_income
+can,2024,high_income
+can,2025,high_income
 chanisl,1987,high_income
 chanisl,1988,high_income
 chanisl,1989,high_income
@@ -1252,6 +1318,8 @@ chanisl,2020,high_income
 chanisl,2021,high_income
 chanisl,2022,high_income
 chanisl,2023,high_income
+chanisl,2024,high_income
+chanisl,2025,high_income
 che,1987,high_income
 che,1988,high_income
 che,1989,high_income
@@ -1289,6 +1357,8 @@ che,2020,high_income
 che,2021,high_income
 che,2022,high_income
 che,2023,high_income
+che,2024,high_income
+che,2025,high_income
 cheslo,1990,middle_income
 cheslo,1991,middle_income
 chl,1987,middle_income
@@ -1328,6 +1398,8 @@ chl,2020,high_income
 chl,2021,high_income
 chl,2022,high_income
 chl,2023,high_income
+chl,2024,high_income
+chl,2025,high_income
 chn,1987,low_income
 chn,1988,low_income
 chn,1989,low_income
@@ -1365,6 +1437,8 @@ chn,2020,middle_income
 chn,2021,middle_income
 chn,2022,middle_income
 chn,2023,middle_income
+chn,2024,middle_income
+chn,2025,middle_income
 civ,1987,middle_income
 civ,1988,middle_income
 civ,1989,middle_income
@@ -1402,6 +1476,8 @@ civ,2020,middle_income
 civ,2021,middle_income
 civ,2022,middle_income
 civ,2023,middle_income
+civ,2024,middle_income
+civ,2025,middle_income
 cmr,1987,middle_income
 cmr,1988,middle_income
 cmr,1989,middle_income
@@ -1439,6 +1515,8 @@ cmr,2020,middle_income
 cmr,2021,middle_income
 cmr,2022,middle_income
 cmr,2023,middle_income
+cmr,2024,middle_income
+cmr,2025,middle_income
 cod,1987,low_income
 cod,1988,low_income
 cod,1989,low_income
@@ -1476,6 +1554,8 @@ cod,2020,low_income
 cod,2021,low_income
 cod,2022,low_income
 cod,2023,low_income
+cod,2024,low_income
+cod,2025,low_income
 cog,1987,middle_income
 cog,1988,middle_income
 cog,1989,middle_income
@@ -1513,6 +1593,8 @@ cog,2020,middle_income
 cog,2021,middle_income
 cog,2022,middle_income
 cog,2023,middle_income
+cog,2024,middle_income
+cog,2025,middle_income
 col,1987,middle_income
 col,1988,middle_income
 col,1989,middle_income
@@ -1550,6 +1632,8 @@ col,2020,middle_income
 col,2021,middle_income
 col,2022,middle_income
 col,2023,middle_income
+col,2024,middle_income
+col,2025,middle_income
 com,1987,low_income
 com,1988,low_income
 com,1989,low_income
@@ -1587,6 +1671,8 @@ com,2020,middle_income
 com,2021,middle_income
 com,2022,middle_income
 com,2023,middle_income
+com,2024,middle_income
+com,2025,middle_income
 cpv,1988,middle_income
 cpv,1989,middle_income
 cpv,1990,middle_income
@@ -1623,6 +1709,8 @@ cpv,2020,middle_income
 cpv,2021,middle_income
 cpv,2022,middle_income
 cpv,2023,middle_income
+cpv,2024,middle_income
+cpv,2025,middle_income
 cri,1987,middle_income
 cri,1988,middle_income
 cri,1989,middle_income
@@ -1660,6 +1748,8 @@ cri,2020,middle_income
 cri,2021,middle_income
 cri,2022,middle_income
 cri,2023,middle_income
+cri,2024,high_income
+cri,2025,high_income
 cub,1990,middle_income
 cub,1991,middle_income
 cub,1992,middle_income
@@ -1694,6 +1784,8 @@ cub,2020,middle_income
 cub,2021,middle_income
 cub,2022,middle_income
 cub,2023,middle_income
+cub,2024,middle_income
+cub,2025,middle_income
 cym,1993,high_income
 cym,1994,high_income
 cym,1995,high_income
@@ -1725,6 +1817,8 @@ cym,2020,high_income
 cym,2021,high_income
 cym,2022,high_income
 cym,2023,high_income
+cym,2024,high_income
+cym,2025,high_income
 cyp,1987,middle_income
 cyp,1988,high_income
 cyp,1989,high_income
@@ -1762,6 +1856,8 @@ cyp,2020,high_income
 cyp,2021,high_income
 cyp,2022,high_income
 cyp,2023,high_income
+cyp,2024,high_income
+cyp,2025,high_income
 cze,1992,middle_income
 cze,1993,middle_income
 cze,1994,middle_income
@@ -1794,6 +1890,8 @@ cze,2020,high_income
 cze,2021,high_income
 cze,2022,high_income
 cze,2023,high_income
+cze,2024,high_income
+cze,2025,high_income
 deu,1987,high_income
 deu,1988,high_income
 deu,1989,high_income
@@ -1831,6 +1929,8 @@ deu,2020,high_income
 deu,2021,high_income
 deu,2022,high_income
 deu,2023,high_income
+deu,2024,high_income
+deu,2025,high_income
 dji,1990,middle_income
 dji,1991,middle_income
 dji,1992,middle_income
@@ -1865,6 +1965,8 @@ dji,2020,middle_income
 dji,2021,middle_income
 dji,2022,middle_income
 dji,2023,middle_income
+dji,2024,middle_income
+dji,2025,middle_income
 dma,1987,middle_income
 dma,1988,middle_income
 dma,1989,middle_income
@@ -1902,6 +2004,8 @@ dma,2020,middle_income
 dma,2021,middle_income
 dma,2022,middle_income
 dma,2023,middle_income
+dma,2024,middle_income
+dma,2025,middle_income
 dnk,1987,high_income
 dnk,1988,high_income
 dnk,1989,high_income
@@ -1939,6 +2043,8 @@ dnk,2020,high_income
 dnk,2021,high_income
 dnk,2022,high_income
 dnk,2023,high_income
+dnk,2024,high_income
+dnk,2025,high_income
 dom,1987,middle_income
 dom,1988,middle_income
 dom,1989,middle_income
@@ -1976,6 +2082,8 @@ dom,2020,middle_income
 dom,2021,middle_income
 dom,2022,middle_income
 dom,2023,middle_income
+dom,2024,middle_income
+dom,2025,middle_income
 dza,1987,middle_income
 dza,1988,middle_income
 dza,1989,middle_income
@@ -2013,6 +2121,8 @@ dza,2020,middle_income
 dza,2021,middle_income
 dza,2022,middle_income
 dza,2023,middle_income
+dza,2024,middle_income
+dza,2025,middle_income
 ecu,1987,middle_income
 ecu,1988,middle_income
 ecu,1989,middle_income
@@ -2050,6 +2160,8 @@ ecu,2020,middle_income
 ecu,2021,middle_income
 ecu,2022,middle_income
 ecu,2023,middle_income
+ecu,2024,middle_income
+ecu,2025,middle_income
 egy,1987,middle_income
 egy,1988,middle_income
 egy,1989,middle_income
@@ -2087,6 +2199,8 @@ egy,2020,middle_income
 egy,2021,middle_income
 egy,2022,middle_income
 egy,2023,middle_income
+egy,2024,middle_income
+egy,2025,middle_income
 eri,1992,low_income
 eri,1993,low_income
 eri,1994,low_income
@@ -2119,6 +2233,8 @@ eri,2020,low_income
 eri,2021,low_income
 eri,2022,low_income
 eri,2023,low_income
+eri,2024,low_income
+eri,2025,low_income
 esp,1987,high_income
 esp,1988,high_income
 esp,1989,high_income
@@ -2156,6 +2272,8 @@ esp,2020,high_income
 esp,2021,high_income
 esp,2022,high_income
 esp,2023,high_income
+esp,2024,high_income
+esp,2025,high_income
 est,1991,middle_income
 est,1992,middle_income
 est,1993,middle_income
@@ -2189,6 +2307,8 @@ est,2020,high_income
 est,2021,high_income
 est,2022,high_income
 est,2023,high_income
+est,2024,high_income
+est,2025,high_income
 eth,1987,low_income
 eth,1988,low_income
 eth,1989,low_income
@@ -2226,6 +2346,7 @@ eth,2020,low_income
 eth,2021,low_income
 eth,2022,low_income
 eth,2023,low_income
+eth,2025,low_income
 fin,1987,high_income
 fin,1988,high_income
 fin,1989,high_income
@@ -2263,6 +2384,8 @@ fin,2020,high_income
 fin,2021,high_income
 fin,2022,high_income
 fin,2023,high_income
+fin,2024,high_income
+fin,2025,high_income
 fji,1987,middle_income
 fji,1988,middle_income
 fji,1989,middle_income
@@ -2300,6 +2423,8 @@ fji,2020,middle_income
 fji,2021,middle_income
 fji,2022,middle_income
 fji,2023,middle_income
+fji,2024,middle_income
+fji,2025,middle_income
 fra,1987,high_income
 fra,1988,high_income
 fra,1989,high_income
@@ -2337,6 +2462,8 @@ fra,2020,high_income
 fra,2021,high_income
 fra,2022,high_income
 fra,2023,high_income
+fra,2024,high_income
+fra,2025,high_income
 fro,1987,high_income
 fro,1988,high_income
 fro,1989,high_income
@@ -2374,6 +2501,8 @@ fro,2020,high_income
 fro,2021,high_income
 fro,2022,high_income
 fro,2023,high_income
+fro,2024,high_income
+fro,2025,high_income
 fsm,1991,middle_income
 fsm,1992,middle_income
 fsm,1993,middle_income
@@ -2407,6 +2536,8 @@ fsm,2020,middle_income
 fsm,2021,middle_income
 fsm,2022,middle_income
 fsm,2023,middle_income
+fsm,2024,middle_income
+fsm,2025,middle_income
 gab,1987,middle_income
 gab,1988,middle_income
 gab,1989,middle_income
@@ -2444,6 +2575,8 @@ gab,2020,middle_income
 gab,2021,middle_income
 gab,2022,middle_income
 gab,2023,middle_income
+gab,2024,middle_income
+gab,2025,middle_income
 gbm,1987,high_income
 gbm,1988,high_income
 gbm,1989,high_income
@@ -2481,6 +2614,8 @@ gbm,2020,high_income
 gbm,2021,high_income
 gbm,2022,high_income
 gbm,2023,high_income
+gbm,2024,high_income
+gbm,2025,high_income
 gbr,1987,high_income
 gbr,1988,high_income
 gbr,1989,high_income
@@ -2518,6 +2653,8 @@ gbr,2020,high_income
 gbr,2021,high_income
 gbr,2022,high_income
 gbr,2023,high_income
+gbr,2024,high_income
+gbr,2025,high_income
 geo,1991,middle_income
 geo,1992,middle_income
 geo,1993,low_income
@@ -2551,6 +2688,8 @@ geo,2020,middle_income
 geo,2021,middle_income
 geo,2022,middle_income
 geo,2023,middle_income
+geo,2024,middle_income
+geo,2025,middle_income
 gha,1987,low_income
 gha,1988,low_income
 gha,1989,low_income
@@ -2588,6 +2727,8 @@ gha,2020,middle_income
 gha,2021,middle_income
 gha,2022,middle_income
 gha,2023,middle_income
+gha,2024,middle_income
+gha,2025,middle_income
 gib,1987,middle_income
 gib,1988,middle_income
 gib,1989,middle_income
@@ -2606,6 +2747,8 @@ gib,2020,high_income
 gib,2021,high_income
 gib,2022,high_income
 gib,2023,high_income
+gib,2024,high_income
+gib,2025,high_income
 gin,1987,low_income
 gin,1988,low_income
 gin,1989,low_income
@@ -2643,6 +2786,8 @@ gin,2020,low_income
 gin,2021,low_income
 gin,2022,middle_income
 gin,2023,middle_income
+gin,2024,middle_income
+gin,2025,middle_income
 gmb,1987,low_income
 gmb,1988,low_income
 gmb,1989,low_income
@@ -2680,6 +2825,8 @@ gmb,2020,low_income
 gmb,2021,low_income
 gmb,2022,low_income
 gmb,2023,low_income
+gmb,2024,low_income
+gmb,2025,low_income
 gnb,1987,low_income
 gnb,1988,low_income
 gnb,1989,low_income
@@ -2717,6 +2864,8 @@ gnb,2020,low_income
 gnb,2021,low_income
 gnb,2022,low_income
 gnb,2023,low_income
+gnb,2024,low_income
+gnb,2025,low_income
 gnq,1987,low_income
 gnq,1988,low_income
 gnq,1989,low_income
@@ -2754,6 +2903,8 @@ gnq,2020,middle_income
 gnq,2021,middle_income
 gnq,2022,middle_income
 gnq,2023,middle_income
+gnq,2024,middle_income
+gnq,2025,middle_income
 grc,1987,middle_income
 grc,1988,middle_income
 grc,1989,middle_income
@@ -2791,6 +2942,8 @@ grc,2020,high_income
 grc,2021,high_income
 grc,2022,high_income
 grc,2023,high_income
+grc,2024,high_income
+grc,2025,high_income
 grd,1987,middle_income
 grd,1988,middle_income
 grd,1989,middle_income
@@ -2828,6 +2981,8 @@ grd,2020,middle_income
 grd,2021,middle_income
 grd,2022,middle_income
 grd,2023,middle_income
+grd,2024,middle_income
+grd,2025,middle_income
 grl,1987,high_income
 grl,1988,high_income
 grl,1989,high_income
@@ -2865,6 +3020,8 @@ grl,2020,high_income
 grl,2021,high_income
 grl,2022,high_income
 grl,2023,high_income
+grl,2024,high_income
+grl,2025,high_income
 gtm,1987,middle_income
 gtm,1988,middle_income
 gtm,1989,middle_income
@@ -2902,6 +3059,8 @@ gtm,2020,middle_income
 gtm,2021,middle_income
 gtm,2022,middle_income
 gtm,2023,middle_income
+gtm,2024,middle_income
+gtm,2025,middle_income
 gum,1987,high_income
 gum,1988,high_income
 gum,1989,high_income
@@ -2939,6 +3098,8 @@ gum,2020,high_income
 gum,2021,high_income
 gum,2022,high_income
 gum,2023,high_income
+gum,2024,high_income
+gum,2025,high_income
 guy,1987,low_income
 guy,1988,low_income
 guy,1989,low_income
@@ -2976,6 +3137,8 @@ guy,2020,middle_income
 guy,2021,middle_income
 guy,2022,high_income
 guy,2023,high_income
+guy,2024,high_income
+guy,2025,high_income
 hkg,1987,high_income
 hkg,1988,high_income
 hkg,1989,high_income
@@ -3013,6 +3176,8 @@ hkg,2020,high_income
 hkg,2021,high_income
 hkg,2022,high_income
 hkg,2023,high_income
+hkg,2024,high_income
+hkg,2025,high_income
 hnd,1987,middle_income
 hnd,1988,middle_income
 hnd,1989,middle_income
@@ -3050,6 +3215,8 @@ hnd,2020,middle_income
 hnd,2021,middle_income
 hnd,2022,middle_income
 hnd,2023,middle_income
+hnd,2024,middle_income
+hnd,2025,middle_income
 hrv,1992,middle_income
 hrv,1993,middle_income
 hrv,1994,middle_income
@@ -3082,6 +3249,8 @@ hrv,2020,high_income
 hrv,2021,high_income
 hrv,2022,high_income
 hrv,2023,high_income
+hrv,2024,high_income
+hrv,2025,high_income
 hti,1987,low_income
 hti,1988,low_income
 hti,1989,low_income
@@ -3119,6 +3288,8 @@ hti,2020,middle_income
 hti,2021,middle_income
 hti,2022,middle_income
 hti,2023,middle_income
+hti,2024,middle_income
+hti,2025,middle_income
 hun,1987,middle_income
 hun,1988,middle_income
 hun,1989,middle_income
@@ -3156,6 +3327,8 @@ hun,2020,high_income
 hun,2021,high_income
 hun,2022,high_income
 hun,2023,high_income
+hun,2024,high_income
+hun,2025,high_income
 idn,1987,low_income
 idn,1988,low_income
 idn,1989,low_income
@@ -3193,6 +3366,8 @@ idn,2020,middle_income
 idn,2021,middle_income
 idn,2022,middle_income
 idn,2023,middle_income
+idn,2024,middle_income
+idn,2025,middle_income
 ind,1987,low_income
 ind,1988,low_income
 ind,1989,low_income
@@ -3230,6 +3405,8 @@ ind,2020,middle_income
 ind,2021,middle_income
 ind,2022,middle_income
 ind,2023,middle_income
+ind,2024,middle_income
+ind,2025,middle_income
 irl,1987,high_income
 irl,1988,high_income
 irl,1989,high_income
@@ -3267,6 +3444,8 @@ irl,2020,high_income
 irl,2021,high_income
 irl,2022,high_income
 irl,2023,high_income
+irl,2024,high_income
+irl,2025,high_income
 irn,1987,middle_income
 irn,1988,middle_income
 irn,1989,middle_income
@@ -3304,6 +3483,8 @@ irn,2020,middle_income
 irn,2021,middle_income
 irn,2022,middle_income
 irn,2023,middle_income
+irn,2024,middle_income
+irn,2025,middle_income
 irq,1987,middle_income
 irq,1988,middle_income
 irq,1989,middle_income
@@ -3341,6 +3522,8 @@ irq,2020,middle_income
 irq,2021,middle_income
 irq,2022,middle_income
 irq,2023,middle_income
+irq,2024,middle_income
+irq,2025,middle_income
 isl,1987,high_income
 isl,1988,high_income
 isl,1989,high_income
@@ -3378,6 +3561,8 @@ isl,2020,high_income
 isl,2021,high_income
 isl,2022,high_income
 isl,2023,high_income
+isl,2024,high_income
+isl,2025,high_income
 isr,1987,high_income
 isr,1988,high_income
 isr,1989,high_income
@@ -3415,6 +3600,8 @@ isr,2020,high_income
 isr,2021,high_income
 isr,2022,high_income
 isr,2023,high_income
+isr,2024,high_income
+isr,2025,high_income
 ita,1987,high_income
 ita,1988,high_income
 ita,1989,high_income
@@ -3452,6 +3639,8 @@ ita,2020,high_income
 ita,2021,high_income
 ita,2022,high_income
 ita,2023,high_income
+ita,2024,high_income
+ita,2025,high_income
 jam,1987,middle_income
 jam,1988,middle_income
 jam,1989,middle_income
@@ -3489,6 +3678,8 @@ jam,2020,middle_income
 jam,2021,middle_income
 jam,2022,middle_income
 jam,2023,middle_income
+jam,2024,middle_income
+jam,2025,middle_income
 jor,1987,middle_income
 jor,1988,middle_income
 jor,1989,middle_income
@@ -3526,6 +3717,8 @@ jor,2020,middle_income
 jor,2021,middle_income
 jor,2022,middle_income
 jor,2023,middle_income
+jor,2024,middle_income
+jor,2025,middle_income
 jpn,1987,high_income
 jpn,1988,high_income
 jpn,1989,high_income
@@ -3563,6 +3756,8 @@ jpn,2020,high_income
 jpn,2021,high_income
 jpn,2022,high_income
 jpn,2023,high_income
+jpn,2024,high_income
+jpn,2025,high_income
 kaz,1991,middle_income
 kaz,1992,middle_income
 kaz,1993,middle_income
@@ -3596,6 +3791,8 @@ kaz,2020,middle_income
 kaz,2021,middle_income
 kaz,2022,middle_income
 kaz,2023,middle_income
+kaz,2024,middle_income
+kaz,2025,middle_income
 ken,1987,low_income
 ken,1988,low_income
 ken,1989,low_income
@@ -3633,6 +3830,8 @@ ken,2020,middle_income
 ken,2021,middle_income
 ken,2022,middle_income
 ken,2023,middle_income
+ken,2024,middle_income
+ken,2025,middle_income
 kgz,1991,middle_income
 kgz,1992,middle_income
 kgz,1993,middle_income
@@ -3666,6 +3865,8 @@ kgz,2020,middle_income
 kgz,2021,middle_income
 kgz,2022,middle_income
 kgz,2023,middle_income
+kgz,2024,middle_income
+kgz,2025,middle_income
 khm,1987,low_income
 khm,1988,low_income
 khm,1989,low_income
@@ -3703,6 +3904,8 @@ khm,2020,middle_income
 khm,2021,middle_income
 khm,2022,middle_income
 khm,2023,middle_income
+khm,2024,middle_income
+khm,2025,middle_income
 kir,1987,middle_income
 kir,1988,middle_income
 kir,1989,middle_income
@@ -3740,6 +3943,8 @@ kir,2020,middle_income
 kir,2021,middle_income
 kir,2022,middle_income
 kir,2023,middle_income
+kir,2024,middle_income
+kir,2025,middle_income
 kna,1987,middle_income
 kna,1988,middle_income
 kna,1989,middle_income
@@ -3777,6 +3982,8 @@ kna,2020,high_income
 kna,2021,high_income
 kna,2022,high_income
 kna,2023,high_income
+kna,2024,high_income
+kna,2025,high_income
 kor,1987,middle_income
 kor,1988,middle_income
 kor,1989,middle_income
@@ -3814,6 +4021,8 @@ kor,2020,high_income
 kor,2021,high_income
 kor,2022,high_income
 kor,2023,high_income
+kor,2024,high_income
+kor,2025,high_income
 kos,2008,middle_income
 kos,2009,middle_income
 kos,2010,middle_income
@@ -3830,6 +4039,8 @@ kos,2020,middle_income
 kos,2021,middle_income
 kos,2022,middle_income
 kos,2023,middle_income
+kos,2024,middle_income
+kos,2025,middle_income
 kwt,1987,high_income
 kwt,1988,high_income
 kwt,1989,high_income
@@ -3867,6 +4078,8 @@ kwt,2020,high_income
 kwt,2021,high_income
 kwt,2022,high_income
 kwt,2023,high_income
+kwt,2024,high_income
+kwt,2025,high_income
 lao,1987,low_income
 lao,1988,low_income
 lao,1989,low_income
@@ -3904,6 +4117,8 @@ lao,2020,middle_income
 lao,2021,middle_income
 lao,2022,middle_income
 lao,2023,middle_income
+lao,2024,middle_income
+lao,2025,middle_income
 lbn,1987,middle_income
 lbn,1988,middle_income
 lbn,1989,middle_income
@@ -3941,6 +4156,8 @@ lbn,2020,middle_income
 lbn,2021,middle_income
 lbn,2022,middle_income
 lbn,2023,middle_income
+lbn,2024,middle_income
+lbn,2025,middle_income
 lbr,1987,low_income
 lbr,1988,low_income
 lbr,1989,low_income
@@ -3978,6 +4195,8 @@ lbr,2020,low_income
 lbr,2021,low_income
 lbr,2022,low_income
 lbr,2023,low_income
+lbr,2024,low_income
+lbr,2025,low_income
 lby,1987,middle_income
 lby,1988,middle_income
 lby,1989,middle_income
@@ -4015,6 +4234,8 @@ lby,2020,middle_income
 lby,2021,middle_income
 lby,2022,middle_income
 lby,2023,middle_income
+lby,2024,middle_income
+lby,2025,middle_income
 lca,1987,middle_income
 lca,1988,middle_income
 lca,1989,middle_income
@@ -4052,6 +4273,8 @@ lca,2020,middle_income
 lca,2021,middle_income
 lca,2022,middle_income
 lca,2023,middle_income
+lca,2024,middle_income
+lca,2025,middle_income
 lie,1994,high_income
 lie,1995,high_income
 lie,1996,high_income
@@ -4082,6 +4305,8 @@ lie,2020,high_income
 lie,2021,high_income
 lie,2022,high_income
 lie,2023,high_income
+lie,2024,high_income
+lie,2025,high_income
 lka,1987,low_income
 lka,1988,low_income
 lka,1989,low_income
@@ -4119,6 +4344,8 @@ lka,2020,middle_income
 lka,2021,middle_income
 lka,2022,middle_income
 lka,2023,middle_income
+lka,2024,middle_income
+lka,2025,middle_income
 lso,1987,low_income
 lso,1988,low_income
 lso,1989,low_income
@@ -4156,6 +4383,8 @@ lso,2020,middle_income
 lso,2021,middle_income
 lso,2022,middle_income
 lso,2023,middle_income
+lso,2024,middle_income
+lso,2025,middle_income
 ltu,1991,middle_income
 ltu,1992,middle_income
 ltu,1993,middle_income
@@ -4189,6 +4418,8 @@ ltu,2020,high_income
 ltu,2021,high_income
 ltu,2022,high_income
 ltu,2023,high_income
+ltu,2024,high_income
+ltu,2025,high_income
 lux,1987,high_income
 lux,1988,high_income
 lux,1989,high_income
@@ -4226,6 +4457,8 @@ lux,2020,high_income
 lux,2021,high_income
 lux,2022,high_income
 lux,2023,high_income
+lux,2024,high_income
+lux,2025,high_income
 lva,1991,middle_income
 lva,1992,middle_income
 lva,1993,middle_income
@@ -4259,6 +4492,8 @@ lva,2020,high_income
 lva,2021,high_income
 lva,2022,high_income
 lva,2023,high_income
+lva,2024,high_income
+lva,2025,high_income
 mac,1987,middle_income
 mac,1988,middle_income
 mac,1989,middle_income
@@ -4296,6 +4531,8 @@ mac,2020,high_income
 mac,2021,high_income
 mac,2022,high_income
 mac,2023,high_income
+mac,2024,high_income
+mac,2025,high_income
 maf,2010,high_income
 maf,2011,high_income
 maf,2012,high_income
@@ -4310,6 +4547,8 @@ maf,2020,high_income
 maf,2021,high_income
 maf,2022,high_income
 maf,2023,high_income
+maf,2024,high_income
+maf,2025,high_income
 mar,1987,middle_income
 mar,1988,middle_income
 mar,1989,middle_income
@@ -4347,6 +4586,8 @@ mar,2020,middle_income
 mar,2021,middle_income
 mar,2022,middle_income
 mar,2023,middle_income
+mar,2024,middle_income
+mar,2025,middle_income
 mco,1994,high_income
 mco,1995,high_income
 mco,1996,high_income
@@ -4377,6 +4618,8 @@ mco,2020,high_income
 mco,2021,high_income
 mco,2022,high_income
 mco,2023,high_income
+mco,2024,high_income
+mco,2025,high_income
 mda,1991,middle_income
 mda,1992,middle_income
 mda,1993,middle_income
@@ -4410,6 +4653,8 @@ mda,2020,middle_income
 mda,2021,middle_income
 mda,2022,middle_income
 mda,2023,middle_income
+mda,2024,middle_income
+mda,2025,middle_income
 mdg,1987,low_income
 mdg,1988,low_income
 mdg,1989,low_income
@@ -4447,6 +4692,8 @@ mdg,2020,low_income
 mdg,2021,low_income
 mdg,2022,low_income
 mdg,2023,low_income
+mdg,2024,low_income
+mdg,2025,low_income
 mdv,1987,low_income
 mdv,1988,low_income
 mdv,1989,low_income
@@ -4484,6 +4731,8 @@ mdv,2020,middle_income
 mdv,2021,middle_income
 mdv,2022,middle_income
 mdv,2023,middle_income
+mdv,2024,middle_income
+mdv,2025,middle_income
 mex,1987,middle_income
 mex,1988,middle_income
 mex,1989,middle_income
@@ -4521,6 +4770,8 @@ mex,2020,middle_income
 mex,2021,middle_income
 mex,2022,middle_income
 mex,2023,middle_income
+mex,2024,middle_income
+mex,2025,middle_income
 mhl,1991,middle_income
 mhl,1992,middle_income
 mhl,1993,middle_income
@@ -4554,6 +4805,8 @@ mhl,2020,middle_income
 mhl,2021,middle_income
 mhl,2022,middle_income
 mhl,2023,middle_income
+mhl,2024,middle_income
+mhl,2025,middle_income
 mkd,1992,middle_income
 mkd,1993,middle_income
 mkd,1994,middle_income
@@ -4586,6 +4839,8 @@ mkd,2020,middle_income
 mkd,2021,middle_income
 mkd,2022,middle_income
 mkd,2023,middle_income
+mkd,2024,middle_income
+mkd,2025,middle_income
 mli,1987,low_income
 mli,1988,low_income
 mli,1989,low_income
@@ -4623,6 +4878,8 @@ mli,2020,low_income
 mli,2021,low_income
 mli,2022,low_income
 mli,2023,low_income
+mli,2024,low_income
+mli,2025,low_income
 mlt,1987,middle_income
 mlt,1988,middle_income
 mlt,1989,high_income
@@ -4660,6 +4917,8 @@ mlt,2020,high_income
 mlt,2021,high_income
 mlt,2022,high_income
 mlt,2023,high_income
+mlt,2024,high_income
+mlt,2025,high_income
 mmr,1987,low_income
 mmr,1988,low_income
 mmr,1989,low_income
@@ -4697,6 +4956,8 @@ mmr,2020,middle_income
 mmr,2021,middle_income
 mmr,2022,middle_income
 mmr,2023,middle_income
+mmr,2024,middle_income
+mmr,2025,middle_income
 mne,2006,middle_income
 mne,2007,middle_income
 mne,2008,middle_income
@@ -4715,6 +4976,8 @@ mne,2020,middle_income
 mne,2021,middle_income
 mne,2022,middle_income
 mne,2023,middle_income
+mne,2024,middle_income
+mne,2025,middle_income
 mng,1989,middle_income
 mng,1990,middle_income
 mng,1991,middle_income
@@ -4750,6 +5013,8 @@ mng,2020,middle_income
 mng,2021,middle_income
 mng,2022,middle_income
 mng,2023,middle_income
+mng,2024,middle_income
+mng,2025,middle_income
 mnp,1992,middle_income
 mnp,1993,middle_income
 mnp,1994,middle_income
@@ -4782,6 +5047,8 @@ mnp,2020,high_income
 mnp,2021,high_income
 mnp,2022,high_income
 mnp,2023,high_income
+mnp,2024,high_income
+mnp,2025,high_income
 moz,1987,low_income
 moz,1988,low_income
 moz,1989,low_income
@@ -4819,6 +5086,8 @@ moz,2020,low_income
 moz,2021,low_income
 moz,2022,low_income
 moz,2023,low_income
+moz,2024,low_income
+moz,2025,low_income
 mrt,1987,low_income
 mrt,1988,low_income
 mrt,1989,low_income
@@ -4856,6 +5125,8 @@ mrt,2020,middle_income
 mrt,2021,middle_income
 mrt,2022,middle_income
 mrt,2023,middle_income
+mrt,2024,middle_income
+mrt,2025,middle_income
 mus,1987,middle_income
 mus,1988,middle_income
 mus,1989,middle_income
@@ -4893,6 +5164,8 @@ mus,2020,middle_income
 mus,2021,middle_income
 mus,2022,middle_income
 mus,2023,middle_income
+mus,2024,middle_income
+mus,2025,middle_income
 mwi,1987,low_income
 mwi,1988,low_income
 mwi,1989,low_income
@@ -4930,6 +5203,8 @@ mwi,2020,low_income
 mwi,2021,low_income
 mwi,2022,low_income
 mwi,2023,low_income
+mwi,2024,low_income
+mwi,2025,low_income
 mys,1987,middle_income
 mys,1988,middle_income
 mys,1989,middle_income
@@ -4967,6 +5242,8 @@ mys,2020,middle_income
 mys,2021,middle_income
 mys,2022,middle_income
 mys,2023,middle_income
+mys,2024,middle_income
+mys,2025,middle_income
 myt,1990,high_income
 myt,1991,middle_income
 myt,1992,middle_income
@@ -5023,6 +5300,8 @@ nam,2020,middle_income
 nam,2021,middle_income
 nam,2022,middle_income
 nam,2023,middle_income
+nam,2024,middle_income
+nam,2025,middle_income
 ncl,1987,middle_income
 ncl,1988,middle_income
 ncl,1989,middle_income
@@ -5060,6 +5339,8 @@ ncl,2020,high_income
 ncl,2021,high_income
 ncl,2022,high_income
 ncl,2023,high_income
+ncl,2024,high_income
+ncl,2025,high_income
 ner,1987,low_income
 ner,1988,low_income
 ner,1989,low_income
@@ -5097,6 +5378,8 @@ ner,2020,low_income
 ner,2021,low_income
 ner,2022,low_income
 ner,2023,low_income
+ner,2024,low_income
+ner,2025,low_income
 nga,1987,low_income
 nga,1988,low_income
 nga,1989,low_income
@@ -5134,6 +5417,8 @@ nga,2020,middle_income
 nga,2021,middle_income
 nga,2022,middle_income
 nga,2023,middle_income
+nga,2024,middle_income
+nga,2025,middle_income
 nic,1987,middle_income
 nic,1988,middle_income
 nic,1989,middle_income
@@ -5171,6 +5456,8 @@ nic,2020,middle_income
 nic,2021,middle_income
 nic,2022,middle_income
 nic,2023,middle_income
+nic,2024,middle_income
+nic,2025,middle_income
 nld,1987,high_income
 nld,1988,high_income
 nld,1989,high_income
@@ -5208,6 +5495,8 @@ nld,2020,high_income
 nld,2021,high_income
 nld,2022,high_income
 nld,2023,high_income
+nld,2024,high_income
+nld,2025,high_income
 nld_curacao,2010,high_income
 nld_curacao,2011,high_income
 nld_curacao,2012,high_income
@@ -5222,6 +5511,8 @@ nld_curacao,2020,high_income
 nld_curacao,2021,high_income
 nld_curacao,2022,high_income
 nld_curacao,2023,high_income
+nld_curacao,2024,high_income
+nld_curacao,2025,high_income
 nor,1987,high_income
 nor,1988,high_income
 nor,1989,high_income
@@ -5259,6 +5550,8 @@ nor,2020,high_income
 nor,2021,high_income
 nor,2022,high_income
 nor,2023,high_income
+nor,2024,high_income
+nor,2025,high_income
 npl,1987,low_income
 npl,1988,low_income
 npl,1989,low_income
@@ -5296,15 +5589,8 @@ npl,2020,middle_income
 npl,2021,middle_income
 npl,2022,middle_income
 npl,2023,middle_income
-nru,2015,high_income
-nru,2016,middle_income
-nru,2017,middle_income
-nru,2018,middle_income
-nru,2019,high_income
-nru,2020,high_income
-nru,2021,high_income
-nru,2022,high_income
-nru,2023,high_income
+npl,2024,middle_income
+npl,2025,middle_income
 nzl,1987,high_income
 nzl,1988,high_income
 nzl,1989,high_income
@@ -5342,6 +5628,8 @@ nzl,2020,high_income
 nzl,2021,high_income
 nzl,2022,high_income
 nzl,2023,high_income
+nzl,2024,high_income
+nzl,2025,high_income
 omn,1987,middle_income
 omn,1988,middle_income
 omn,1989,middle_income
@@ -5379,6 +5667,8 @@ omn,2020,high_income
 omn,2021,high_income
 omn,2022,high_income
 omn,2023,high_income
+omn,2024,high_income
+omn,2025,high_income
 pak,1987,low_income
 pak,1988,low_income
 pak,1989,low_income
@@ -5416,6 +5706,8 @@ pak,2020,middle_income
 pak,2021,middle_income
 pak,2022,middle_income
 pak,2023,middle_income
+pak,2024,middle_income
+pak,2025,middle_income
 pan,1987,middle_income
 pan,1988,middle_income
 pan,1989,middle_income
@@ -5453,6 +5745,8 @@ pan,2020,middle_income
 pan,2021,high_income
 pan,2022,high_income
 pan,2023,high_income
+pan,2024,high_income
+pan,2025,high_income
 per,1987,middle_income
 per,1988,middle_income
 per,1989,middle_income
@@ -5490,6 +5784,8 @@ per,2020,middle_income
 per,2021,middle_income
 per,2022,middle_income
 per,2023,middle_income
+per,2024,middle_income
+per,2025,middle_income
 phl,1987,middle_income
 phl,1988,middle_income
 phl,1989,middle_income
@@ -5527,6 +5823,8 @@ phl,2020,middle_income
 phl,2021,middle_income
 phl,2022,middle_income
 phl,2023,middle_income
+phl,2024,middle_income
+phl,2025,middle_income
 plw,1996,middle_income
 plw,1997,middle_income
 plw,1998,middle_income
@@ -5555,6 +5853,8 @@ plw,2020,high_income
 plw,2021,middle_income
 plw,2022,middle_income
 plw,2023,high_income
+plw,2024,high_income
+plw,2025,high_income
 png,1987,middle_income
 png,1988,middle_income
 png,1989,middle_income
@@ -5592,6 +5892,8 @@ png,2020,middle_income
 png,2021,middle_income
 png,2022,middle_income
 png,2023,middle_income
+png,2024,middle_income
+png,2025,middle_income
 pol,1987,middle_income
 pol,1988,middle_income
 pol,1989,middle_income
@@ -5629,6 +5931,8 @@ pol,2020,high_income
 pol,2021,high_income
 pol,2022,high_income
 pol,2023,high_income
+pol,2024,high_income
+pol,2025,high_income
 prk,1990,middle_income
 prk,1991,middle_income
 prk,1992,middle_income
@@ -5663,6 +5967,8 @@ prk,2020,low_income
 prk,2021,low_income
 prk,2022,low_income
 prk,2023,low_income
+prk,2024,low_income
+prk,2025,low_income
 prt,1987,middle_income
 prt,1988,middle_income
 prt,1989,middle_income
@@ -5700,6 +6006,8 @@ prt,2020,high_income
 prt,2021,high_income
 prt,2022,high_income
 prt,2023,high_income
+prt,2024,high_income
+prt,2025,high_income
 pry,1987,middle_income
 pry,1988,middle_income
 pry,1989,middle_income
@@ -5737,6 +6045,8 @@ pry,2020,middle_income
 pry,2021,middle_income
 pry,2022,middle_income
 pry,2023,middle_income
+pry,2024,middle_income
+pry,2025,middle_income
 pse,1994,middle_income
 pse,1995,middle_income
 pse,1996,middle_income
@@ -5767,6 +6077,8 @@ pse,2020,middle_income
 pse,2021,middle_income
 pse,2022,middle_income
 pse,2023,middle_income
+pse,2024,middle_income
+pse,2025,middle_income
 pyf,1990,high_income
 pyf,1991,high_income
 pyf,1992,high_income
@@ -5801,6 +6113,8 @@ pyf,2020,high_income
 pyf,2021,high_income
 pyf,2022,high_income
 pyf,2023,high_income
+pyf,2024,high_income
+pyf,2025,high_income
 qat,1987,high_income
 qat,1988,high_income
 qat,1989,high_income
@@ -5838,6 +6152,8 @@ qat,2020,high_income
 qat,2021,high_income
 qat,2022,high_income
 qat,2023,high_income
+qat,2024,high_income
+qat,2025,high_income
 rou,1987,middle_income
 rou,1988,middle_income
 rou,1989,middle_income
@@ -5875,6 +6191,8 @@ rou,2020,middle_income
 rou,2021,high_income
 rou,2022,high_income
 rou,2023,high_income
+rou,2024,high_income
+rou,2025,high_income
 rus,1991,middle_income
 rus,1992,middle_income
 rus,1993,middle_income
@@ -5908,6 +6226,8 @@ rus,2020,middle_income
 rus,2021,middle_income
 rus,2022,middle_income
 rus,2023,high_income
+rus,2024,high_income
+rus,2025,high_income
 rwa,1987,low_income
 rwa,1988,low_income
 rwa,1989,low_income
@@ -5945,6 +6265,8 @@ rwa,2020,low_income
 rwa,2021,low_income
 rwa,2022,low_income
 rwa,2023,low_income
+rwa,2024,low_income
+rwa,2025,low_income
 sau,1987,high_income
 sau,1988,high_income
 sau,1989,high_income
@@ -5982,6 +6304,8 @@ sau,2020,high_income
 sau,2021,high_income
 sau,2022,high_income
 sau,2023,high_income
+sau,2024,high_income
+sau,2025,high_income
 scg,1992,middle_income
 scg,1993,middle_income
 scg,1994,middle_income
@@ -6033,6 +6357,8 @@ sdn,2020,low_income
 sdn,2021,low_income
 sdn,2022,low_income
 sdn,2023,low_income
+sdn,2024,low_income
+sdn,2025,low_income
 sen,1987,middle_income
 sen,1988,middle_income
 sen,1989,middle_income
@@ -6070,6 +6396,8 @@ sen,2020,middle_income
 sen,2021,middle_income
 sen,2022,middle_income
 sen,2023,middle_income
+sen,2024,middle_income
+sen,2025,middle_income
 sgp,1987,high_income
 sgp,1988,high_income
 sgp,1989,high_income
@@ -6107,6 +6435,8 @@ sgp,2020,high_income
 sgp,2021,high_income
 sgp,2022,high_income
 sgp,2023,high_income
+sgp,2024,high_income
+sgp,2025,high_income
 slb,1987,low_income
 slb,1988,middle_income
 slb,1989,low_income
@@ -6144,6 +6474,8 @@ slb,2020,middle_income
 slb,2021,middle_income
 slb,2022,middle_income
 slb,2023,middle_income
+slb,2024,middle_income
+slb,2025,middle_income
 sle,1987,low_income
 sle,1988,low_income
 sle,1989,low_income
@@ -6181,6 +6513,8 @@ sle,2020,low_income
 sle,2021,low_income
 sle,2022,low_income
 sle,2023,low_income
+sle,2024,low_income
+sle,2025,low_income
 slv,1987,middle_income
 slv,1988,middle_income
 slv,1989,middle_income
@@ -6218,6 +6552,8 @@ slv,2020,middle_income
 slv,2021,middle_income
 slv,2022,middle_income
 slv,2023,middle_income
+slv,2024,middle_income
+slv,2025,middle_income
 smr,1991,high_income
 smr,1992,high_income
 smr,1993,high_income
@@ -6245,6 +6581,8 @@ smr,2020,high_income
 smr,2021,high_income
 smr,2022,high_income
 smr,2023,high_income
+smr,2024,high_income
+smr,2025,high_income
 som,1987,low_income
 som,1988,low_income
 som,1989,low_income
@@ -6282,6 +6620,8 @@ som,2020,low_income
 som,2021,low_income
 som,2022,low_income
 som,2023,low_income
+som,2024,low_income
+som,2025,low_income
 srb,2006,middle_income
 srb,2007,middle_income
 srb,2008,middle_income
@@ -6300,6 +6640,8 @@ srb,2020,middle_income
 srb,2021,middle_income
 srb,2022,middle_income
 srb,2023,middle_income
+srb,2024,middle_income
+srb,2025,middle_income
 ssd,2011,middle_income
 ssd,2012,low_income
 ssd,2013,middle_income
@@ -6313,6 +6655,8 @@ ssd,2020,low_income
 ssd,2021,low_income
 ssd,2022,low_income
 ssd,2023,low_income
+ssd,2024,low_income
+ssd,2025,low_income
 stp,1987,low_income
 stp,1988,low_income
 stp,1989,low_income
@@ -6350,6 +6694,8 @@ stp,2020,middle_income
 stp,2021,middle_income
 stp,2022,middle_income
 stp,2023,middle_income
+stp,2024,middle_income
+stp,2025,middle_income
 sur,1987,middle_income
 sur,1988,middle_income
 sur,1989,middle_income
@@ -6387,6 +6733,8 @@ sur,2020,middle_income
 sur,2021,middle_income
 sur,2022,middle_income
 sur,2023,middle_income
+sur,2024,middle_income
+sur,2025,middle_income
 svk,1992,middle_income
 svk,1993,middle_income
 svk,1994,middle_income
@@ -6419,6 +6767,8 @@ svk,2020,high_income
 svk,2021,high_income
 svk,2022,high_income
 svk,2023,high_income
+svk,2024,high_income
+svk,2025,high_income
 svn,1992,middle_income
 svn,1993,middle_income
 svn,1994,middle_income
@@ -6451,6 +6801,8 @@ svn,2020,high_income
 svn,2021,high_income
 svn,2022,high_income
 svn,2023,high_income
+svn,2024,high_income
+svn,2025,high_income
 swe,1987,high_income
 swe,1988,high_income
 swe,1989,high_income
@@ -6488,6 +6840,8 @@ swe,2020,high_income
 swe,2021,high_income
 swe,2022,high_income
 swe,2023,high_income
+swe,2024,high_income
+swe,2025,high_income
 swz,1987,middle_income
 swz,1988,middle_income
 swz,1989,middle_income
@@ -6525,6 +6879,8 @@ swz,2020,middle_income
 swz,2021,middle_income
 swz,2022,middle_income
 swz,2023,middle_income
+swz,2024,middle_income
+swz,2025,middle_income
 sxm,2010,high_income
 sxm,2011,high_income
 sxm,2012,high_income
@@ -6539,6 +6895,8 @@ sxm,2020,high_income
 sxm,2021,high_income
 sxm,2022,high_income
 sxm,2023,high_income
+sxm,2024,high_income
+sxm,2025,high_income
 syc,1987,middle_income
 syc,1988,middle_income
 syc,1989,middle_income
@@ -6576,6 +6934,8 @@ syc,2020,high_income
 syc,2021,high_income
 syc,2022,high_income
 syc,2023,high_income
+syc,2024,high_income
+syc,2025,high_income
 syr,1987,middle_income
 syr,1988,middle_income
 syr,1989,middle_income
@@ -6613,6 +6973,8 @@ syr,2020,low_income
 syr,2021,low_income
 syr,2022,low_income
 syr,2023,low_income
+syr,2024,low_income
+syr,2025,low_income
 tca,2009,high_income
 tca,2010,high_income
 tca,2011,high_income
@@ -6628,6 +6990,8 @@ tca,2020,high_income
 tca,2021,high_income
 tca,2022,high_income
 tca,2023,high_income
+tca,2024,high_income
+tca,2025,high_income
 tcd,1987,low_income
 tcd,1988,low_income
 tcd,1989,low_income
@@ -6665,6 +7029,8 @@ tcd,2020,low_income
 tcd,2021,low_income
 tcd,2022,low_income
 tcd,2023,low_income
+tcd,2024,low_income
+tcd,2025,low_income
 tgo,1987,low_income
 tgo,1988,low_income
 tgo,1989,low_income
@@ -6702,6 +7068,8 @@ tgo,2020,low_income
 tgo,2021,low_income
 tgo,2022,low_income
 tgo,2023,low_income
+tgo,2024,low_income
+tgo,2025,middle_income
 tha,1987,middle_income
 tha,1988,middle_income
 tha,1989,middle_income
@@ -6739,6 +7107,8 @@ tha,2020,middle_income
 tha,2021,middle_income
 tha,2022,middle_income
 tha,2023,middle_income
+tha,2024,middle_income
+tha,2025,middle_income
 tjk,1991,middle_income
 tjk,1992,low_income
 tjk,1993,low_income
@@ -6772,6 +7142,8 @@ tjk,2020,middle_income
 tjk,2021,middle_income
 tjk,2022,middle_income
 tjk,2023,middle_income
+tjk,2024,middle_income
+tjk,2025,middle_income
 tkm,1991,middle_income
 tkm,1992,middle_income
 tkm,1993,middle_income
@@ -6805,6 +7177,8 @@ tkm,2020,middle_income
 tkm,2021,middle_income
 tkm,2022,middle_income
 tkm,2023,middle_income
+tkm,2024,middle_income
+tkm,2025,middle_income
 tls,2001,low_income
 tls,2002,low_income
 tls,2003,low_income
@@ -6828,6 +7202,8 @@ tls,2020,middle_income
 tls,2021,middle_income
 tls,2022,middle_income
 tls,2023,middle_income
+tls,2024,middle_income
+tls,2025,middle_income
 ton,1987,middle_income
 ton,1988,middle_income
 ton,1989,middle_income
@@ -6865,6 +7241,8 @@ ton,2020,middle_income
 ton,2021,middle_income
 ton,2022,middle_income
 ton,2023,middle_income
+ton,2024,middle_income
+ton,2025,middle_income
 tto,1987,middle_income
 tto,1988,middle_income
 tto,1989,middle_income
@@ -6902,6 +7280,8 @@ tto,2020,high_income
 tto,2021,high_income
 tto,2022,high_income
 tto,2023,high_income
+tto,2024,high_income
+tto,2025,high_income
 tun,1987,middle_income
 tun,1988,middle_income
 tun,1989,middle_income
@@ -6939,6 +7319,8 @@ tun,2020,middle_income
 tun,2021,middle_income
 tun,2022,middle_income
 tun,2023,middle_income
+tun,2024,middle_income
+tun,2025,middle_income
 tur,1987,middle_income
 tur,1988,middle_income
 tur,1989,middle_income
@@ -6976,6 +7358,8 @@ tur,2020,middle_income
 tur,2021,middle_income
 tur,2022,middle_income
 tur,2023,middle_income
+tur,2024,middle_income
+tur,2025,middle_income
 tuv,2009,middle_income
 tuv,2010,middle_income
 tuv,2011,middle_income
@@ -6991,6 +7375,8 @@ tuv,2020,middle_income
 tuv,2021,middle_income
 tuv,2022,middle_income
 tuv,2023,middle_income
+tuv,2024,middle_income
+tuv,2025,middle_income
 twn,1987,high_income
 twn,1988,high_income
 twn,1989,high_income
@@ -7028,6 +7414,8 @@ twn,2020,high_income
 twn,2021,high_income
 twn,2022,high_income
 twn,2023,high_income
+twn,2024,high_income
+twn,2025,high_income
 tza,1987,low_income
 tza,1988,low_income
 tza,1989,low_income
@@ -7065,6 +7453,8 @@ tza,2020,middle_income
 tza,2021,middle_income
 tza,2022,middle_income
 tza,2023,middle_income
+tza,2024,middle_income
+tza,2025,middle_income
 uga,1987,low_income
 uga,1988,low_income
 uga,1989,low_income
@@ -7102,6 +7492,8 @@ uga,2020,low_income
 uga,2021,low_income
 uga,2022,low_income
 uga,2023,low_income
+uga,2024,low_income
+uga,2025,low_income
 ukr,1991,middle_income
 ukr,1992,middle_income
 ukr,1993,middle_income
@@ -7135,6 +7527,8 @@ ukr,2020,middle_income
 ukr,2021,middle_income
 ukr,2022,middle_income
 ukr,2023,middle_income
+ukr,2024,middle_income
+ukr,2025,middle_income
 ury,1987,middle_income
 ury,1988,middle_income
 ury,1989,middle_income
@@ -7172,6 +7566,8 @@ ury,2020,high_income
 ury,2021,high_income
 ury,2022,high_income
 ury,2023,high_income
+ury,2024,high_income
+ury,2025,high_income
 usa,1987,high_income
 usa,1988,high_income
 usa,1989,high_income
@@ -7209,6 +7605,8 @@ usa,2020,high_income
 usa,2021,high_income
 usa,2022,high_income
 usa,2023,high_income
+usa,2024,high_income
+usa,2025,high_income
 ussr,1990,middle_income
 uzb,1991,middle_income
 uzb,1992,middle_income
@@ -7243,6 +7641,8 @@ uzb,2020,middle_income
 uzb,2021,middle_income
 uzb,2022,middle_income
 uzb,2023,middle_income
+uzb,2024,middle_income
+uzb,2025,middle_income
 vct,1987,middle_income
 vct,1988,middle_income
 vct,1989,middle_income
@@ -7280,6 +7680,8 @@ vct,2020,middle_income
 vct,2021,middle_income
 vct,2022,middle_income
 vct,2023,middle_income
+vct,2024,middle_income
+vct,2025,middle_income
 ven,1987,middle_income
 ven,1988,middle_income
 ven,1989,middle_income
@@ -7313,6 +7715,7 @@ ven,2016,middle_income
 ven,2017,middle_income
 ven,2018,middle_income
 ven,2019,middle_income
+ven,2025,middle_income
 vgb,2015,high_income
 vgb,2016,high_income
 vgb,2017,high_income
@@ -7322,6 +7725,8 @@ vgb,2020,high_income
 vgb,2021,high_income
 vgb,2022,high_income
 vgb,2023,high_income
+vgb,2024,high_income
+vgb,2025,high_income
 vnm,1987,low_income
 vnm,1988,low_income
 vnm,1989,low_income
@@ -7359,6 +7764,8 @@ vnm,2020,middle_income
 vnm,2021,middle_income
 vnm,2022,middle_income
 vnm,2023,middle_income
+vnm,2024,middle_income
+vnm,2025,middle_income
 vut,1987,middle_income
 vut,1988,middle_income
 vut,1989,middle_income
@@ -7396,6 +7803,8 @@ vut,2020,middle_income
 vut,2021,middle_income
 vut,2022,middle_income
 vut,2023,middle_income
+vut,2024,middle_income
+vut,2025,middle_income
 wsm,1987,middle_income
 wsm,1988,middle_income
 wsm,1989,middle_income
@@ -7433,6 +7842,8 @@ wsm,2020,middle_income
 wsm,2021,middle_income
 wsm,2022,middle_income
 wsm,2023,middle_income
+wsm,2024,middle_income
+wsm,2025,middle_income
 yem,1987,middle_income
 yem,1988,middle_income
 yem,1989,middle_income
@@ -7470,6 +7881,8 @@ yem,2020,low_income
 yem,2021,low_income
 yem,2022,low_income
 yem,2023,low_income
+yem,2024,low_income
+yem,2025,low_income
 yug,1987,middle_income
 yug,1988,middle_income
 yug,1989,middle_income
@@ -7512,6 +7925,8 @@ zaf,2020,middle_income
 zaf,2021,middle_income
 zaf,2022,middle_income
 zaf,2023,middle_income
+zaf,2024,middle_income
+zaf,2025,middle_income
 zmb,1987,low_income
 zmb,1988,low_income
 zmb,1989,low_income
@@ -7549,6 +7964,8 @@ zmb,2020,middle_income
 zmb,2021,low_income
 zmb,2022,middle_income
 zmb,2023,middle_income
+zmb,2024,middle_income
+zmb,2025,middle_income
 zwe,1987,middle_income
 zwe,1988,middle_income
 zwe,1989,middle_income
@@ -7586,3 +8003,5 @@ zwe,2020,middle_income
 zwe,2021,middle_income
 zwe,2022,middle_income
 zwe,2023,middle_income
+zwe,2024,middle_income
+zwe,2025,middle_income

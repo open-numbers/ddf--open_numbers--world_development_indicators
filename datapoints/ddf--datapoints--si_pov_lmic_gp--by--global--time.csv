@@ -1,4 +1,7 @@
 global,time,si_pov_lmic_gp
+world,1981,31
+world,1982,30.4
+world,1983,29.7
 world,1984,28.6
 world,1985,27.8
 world,1986,27.1
@@ -37,5 +40,5 @@ world,2018,7.2
 world,2020,7.4
 world,2021,7.3
 world,2022,7
-world,2023,6.9
-world,2024,6.7
+world,2023,6.8
+world,2024,6.5
